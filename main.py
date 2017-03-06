@@ -1,4 +1,5 @@
-from flask import Flask, render_template, redirect, url_for, request, send_file
+from flask import Flask, render_template, redirect, url_for, request, \
+     send_file, send_from_directory
 from grafica.datos import agregar_datos, agregar_datos_multiples
 from utilidades import mayus
     
@@ -87,6 +88,12 @@ def difusion_datos_multiples(nombre, apellido, numero,
                                    frutillas, cerezas2, cerezas5, paltas,
                                    arandanos3, arandanos1, duraznos)
     return send_file(file, mimetype='image/gif')
+
+@app.route("/excel_vendedor")
+def excel_vendedor():
+    return send_from_directory(directory="descargas",
+                               filename="Vendedores.xlsx",
+                               as_attachment=True)
 
 @app.route("/construccion")
 def construccion():
