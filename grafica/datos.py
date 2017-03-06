@@ -1,0 +1,81 @@
+import PIL
+from PIL import ImageFont
+from PIL import Image
+from PIL import ImageDraw
+
+def mayus(string):
+    return " ".join([s[0].upper() + s[1:] for s in string.split()])
+
+def texto_con_borde(draw, font, text, x, y, grosor=1,
+                    color_texto=(0,0,0), color_borde=(255,255,255)):
+    draw.text((x+grosor, y), text, color_borde, font=font) 
+    draw.text((x-grosor, y), text, color_borde, font=font) 
+    draw.text((x, y+grosor), text, color_borde, font=font) 
+    draw.text((x, y-grosor), text, color_borde, font=font) 
+    draw.text((x, y), text, color_texto, font=font)
+
+def texto_centrado(draw, font, text, x, y, color=(0,0,0),
+                   borde=0, color_borde=(255,255,255)):
+    w, h = font.getsize(text)
+    x, y = x-w/2, y-h/2
+    if borde == 0:
+        draw.text((x, y), text, color, font=font)
+    else:
+        texto_con_borde(draw, font, text, x, y, borde, color, color_borde)
+
+def agregar_datos(nombre, apellido, numero, fruta="frutillas", precio=6500):
+    numero = str(numero)[-8:]
+    numero = "56 9 {} {}".format(numero[:4],numero[4:])
+    img = Image.open("grafica/Fotos/{} {}.jpg".format(fruta, precio))
+    draw = ImageDraw.Draw(img)
+    font = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", 220)
+    draw.text((215, 1880), nombre, (255, 255, 255), font) # Nombre
+    draw.text((215, 2070), apellido, (255, 255, 255), font) # Apellido
+    font = ImageFont.truetype("grafica/Fuentes/din_bold.ttf", 150)
+    x, y = 430, 2310
+    draw.text((x+100, y), numero, (255, 255, 255), font) # Numero
+    font = ImageFont.truetype("grafica/Fuentes/din_bold.ttf", 150)
+    draw.text((x, y-20), "+", (255, 255, 255), font)
+    draw = ImageDraw.Draw(img)
+    file = "grafica/Vendedores/{} {} {}.jpg".format(mayus(fruta), nombre, apellido)
+    img.save(file)
+    return file
+
+def agregar_datos_multiples(nombre, apellido, numero,
+                            frutillas=6000,
+                            cerezas2=6000, cerezas5=11000,
+                            paltas=5000,
+                            arandanos3=3000, arandanos1=8000,
+                            duraznos=6000):
+    numero = str(numero)[-8:]
+    numero = "+56 9 {} {}".format(numero[:4],numero[4:])
+    img = Image.open("grafica/Fotos/todos.jpg")
+    draw = ImageDraw.Draw(img)
+    font = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", 220)
+    y_n = 2550
+    draw.text((40, y_n), nombre, (0, 0, 0), font) # Nombre
+    draw.text((40, y_n+190), apellido, (0, 0, 0), font) # Apellido
+    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 150)
+    x = 2200
+    draw.text((x, y_n-35), numero, (0, 0, 0), font) # Numero
+    draw = ImageDraw.Draw(img)
+    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 200)
+    y_p = 430
+    draw.text((60, y_p), precio(paltas), (255, 255, 255), font) # Paltas
+    draw.text((660, y_p), precio(arandanos3), (255, 255, 255), font) # Arandanos
+    draw.text((1260, y_p), precio(frutillas), (255, 255, 255), font) # Frutillas
+    draw.text((1860, y_p), precio(cerezas2), (255, 255, 255), font) # Cerezas
+    draw.text((2460, y_p), precio(duraznos), (255, 255, 255), font) # Duraznos
+    y_p = 2200
+    draw.text((660, y_p), precio(arandanos1), (255, 255, 255), font) # Arandanos
+    draw.text((1860-20, y_p), precio(cerezas5), (255, 255, 255), font) # Cerezas
+    file = "grafica/Vendedores/Multiple {} {}.jpg".format(nombre, apellido)
+    img.save(file)
+    return file
+
+def precio(s):
+    s = str(s)
+    return "${}.{}".format(s[:-3], s[-3:])
+
+if __name__ == "__main__":
+    agregar_datos_multiples("Ignacio", "Castañeda", 82328250)
