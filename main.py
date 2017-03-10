@@ -37,7 +37,8 @@ def difusion_datos(nombre, apellido, numero, fruta, precio):
         "1": "cerezas",
         "2": "paltas",
         "3": "arandanos",
-        "4": "duraznos"       
+        "4": "duraznos",
+        "5": "uvas"
         }
     file = agregar_datos(nombre, apellido, numero, frutas[fruta], precio)
     return send_file(file, mimetype='image/gif')
