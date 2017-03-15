@@ -51,43 +51,31 @@ def difusion_multiple():
         apellido = request.form["apellido"].lower().strip()
         telefono = request.form["telefono"]
         frutillas = request.form["frutillas"]
-        cerezas2 = request.form["cerezas2"]
-        cerezas5 = request.form["cerezas5"]
+        uvas= request.form["uvas"]
         paltas = request.form["paltas"]
-        arandanos3 = request.form["arandanos3"]
-        arandanos1 = request.form["arandanos1"]
-        duraznos = request.form["duraznos"]
         
         frutillas = 6000 if frutillas == "" else frutillas
-        cerezas2 = 6000 if cerezas2 == "" else cerezas2
-        cerezas5 = 11000 if cerezas5 == "" else cerezas5
-        paltas = 5000 if paltas == "" else paltas
-        arandanos3 = 3000 if arandanos3 == "" else arandanos3
-        arandanos1 = 8000 if arandanos1 == "" else arandanos1
-        duraznos = 6000 if duraznos == "" else duraznos
+        uvas = 5000 if uvas == "" else cerezas5
+        paltas = 6000 if paltas == "" else paltas
         
         if len(telefono) < 8:
             error = "Telefono no válido."
         else:
             telefono = "+569" + telefono.strip().replace(" ", "")[-8:]
+            print("Hola")
             return redirect(url_for(
                 "difusion_datos_multiples",
                 nombre=nombre, apellido=apellido, numero=telefono,
-                frutillas=frutillas,
-                cerezas2=cerezas2, cerezas5=cerezas5, paltas=paltas,
-                arandanos3=arandanos3, arandanos1=arandanos1,
-                duraznos=duraznos))
+                frutillas=frutillas, uvas=uvas, paltas=paltas))
     return render_template('difusion_multiple.html', error=error)
 
 @app.route(
     "/difusion_multiple/<nombre>-<apellido>-<numero>-<frutillas>-"+
-    "<cerezas2>-<cerezas5>-<paltas>-<arandanos3>-<arandanos1>-<duraznos>")
+    "<uvas>-<paltas>")
 def difusion_datos_multiples(nombre, apellido, numero,
-                   frutillas, cerezas2, cerezas5, paltas,
-                   arandanos3, arandanos1, duraznos):
+                   frutillas, uvas, paltas):
     file = agregar_datos_multiples(nombre, apellido, numero,
-                                   frutillas, cerezas2, cerezas5, paltas,
-                                   arandanos3, arandanos1, duraznos)
+                                   frutillas, uvas, paltas)
     return send_file(file, mimetype='image/gif')
 
 @app.route("/excel_vendedor")
@@ -101,4 +89,4 @@ def construccion():
     return "Página en construcción"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0", debug=True)

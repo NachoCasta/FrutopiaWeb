@@ -42,11 +42,8 @@ def agregar_datos(nombre, apellido, numero, fruta="frutillas", precio=6500):
     return file
 
 def agregar_datos_multiples(nombre, apellido, numero,
-                            frutillas=6000,
-                            cerezas2=6000, cerezas5=11000,
-                            paltas=5000,
-                            arandanos3=3000, arandanos1=8000,
-                            duraznos=6000):
+                            frutillas=6000, uvas=5000,
+                            paltas=6000):
     numero = str(numero)[-8:]
     numero = "+56 9 {} {}".format(numero[:4],numero[4:])
     img = Image.open("grafica/Fotos/todos.jpg")
@@ -61,14 +58,15 @@ def agregar_datos_multiples(nombre, apellido, numero,
     draw = ImageDraw.Draw(img)
     font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 200)
     y_p = 430
-    draw.text((60, y_p), precio(paltas), (255, 255, 255), font) # Paltas
-    draw.text((660, y_p), precio(arandanos3), (255, 255, 255), font) # Arandanos
-    draw.text((1260, y_p), precio(frutillas), (255, 255, 255), font) # Frutillas
-    draw.text((1860, y_p), precio(cerezas2), (255, 255, 255), font) # Cerezas
-    draw.text((2460, y_p), precio(duraznos), (255, 255, 255), font) # Duraznos
+    #y_p = 2200
+    draw.text((280, y_p), precio(paltas), (255, 255, 255), font) # Paltas    #draw.text((660, y_p), precio(arandanos3), (255, 255, 255), font) # Arandanos
+    draw.text((1280, y_p), precio(frutillas), (255, 255, 255), font) # Frutillas
+    draw.text((2280, y_p), precio(uvas), (255, 255, 255), font) # Uvas
+    #draw.text((1860, y_p), precio(cerezas2), (255, 255, 255), font) # Cerezas
+    #draw.text((2460, y_p), precio(duraznos), (255, 255, 255), font) # Duraznos
     y_p = 2200
-    draw.text((660, y_p), precio(arandanos1), (255, 255, 255), font) # Arandanos
-    draw.text((1860-20, y_p), precio(cerezas5), (255, 255, 255), font) # Cerezas
+    #draw.text((660, y_p), precio(arandanos1), (255, 255, 255), font) # Arandanos
+    #draw.text((1860-20, y_p), precio(cerezas5), (255, 255, 255), font) # Cerezas
     file = "grafica/Vendedores/Multiple {} {}.jpg".format(nombre, apellido)
     img.save(file)
     return file
