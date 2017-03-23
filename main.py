@@ -53,10 +53,12 @@ def difusion_multiple():
         frutillas = request.form["frutillas"]
         uvas= request.form["uvas"]
         paltas = request.form["paltas"]
+        limones = request.form["limones"]
         
         frutillas = 6000 if frutillas == "" else frutillas
-        uvas = 5000 if uvas == "" else cerezas5
+        uvas = 5000 if uvas == "" else uvas
         paltas = 6000 if paltas == "" else paltas
+        limones = 6000 if limones == "" else limones
         
         if len(telefono) < 8:
             error = "Telefono no válido."
@@ -66,16 +68,17 @@ def difusion_multiple():
             return redirect(url_for(
                 "difusion_datos_multiples",
                 nombre=nombre, apellido=apellido, numero=telefono,
-                frutillas=frutillas, uvas=uvas, paltas=paltas))
+                frutillas=frutillas, uvas=uvas,
+                paltas=paltas, limones=limones))
     return render_template('difusion_multiple.html', error=error)
 
 @app.route(
     "/difusion_multiple/<nombre>-<apellido>-<numero>-<frutillas>-"+
-    "<uvas>-<paltas>")
+    "<uvas>-<paltas>-<limones>")
 def difusion_datos_multiples(nombre, apellido, numero,
-                   frutillas, uvas, paltas):
+                   frutillas, uvas, paltas, limones):
     file = agregar_datos_multiples(nombre, apellido, numero,
-                                   frutillas, uvas, paltas)
+                                   frutillas, uvas, paltas, limones)
     return send_file(file, mimetype='image/gif')
 
 @app.route("/excel_vendedor")
@@ -89,4 +92,4 @@ def construccion():
     return "Página en construcción"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", debug=True)
+    app.run(host="0.0.0.0")
