@@ -1,6 +1,7 @@
 from flask import Flask, render_template, redirect, url_for, request, \
      send_file, send_from_directory
-from grafica.datos import agregar_datos, agregar_datos_multiples
+from grafica.datos import agregar_datos, agregar_datos_multiples, \
+     agregar_datos_vendedores
 from utilidades import mayus
     
 app = Flask(__name__)
@@ -41,6 +42,29 @@ def difusion_datos(nombre, apellido, numero, fruta, precio):
         "5": "uvas"
         }
     file = agregar_datos(nombre, apellido, numero, frutas[fruta], precio)
+    return send_file(file, mimetype='image/gif')
+
+@app.route("/difusion_vendedores", methods=['GET', 'POST'])
+def difusion_vendedores():
+    error = None
+    if request.method == 'POST':
+        nombre = request.form["nombre"].lower().strip()
+        apellido = request.form["apellido"].lower().strip()
+        telefono = request.form["telefono"]
+        if len(telefono) < 8:
+            error = "Telefono no válido."
+        else:
+            telefono = "+569" + telefono.strip().replace(" ", "")[-8:]
+            return redirect(url_for(
+                "difusion_datos_vendedores", nombre=nombre, apellido=apellido,
+                numero=telefono))
+    return render_template('difusion_datos_vendedores.html', error=error)
+
+@app.route("/difusion_vendedores/<nombre>-<apellido>-<numero>")
+def difusion_datos_vendedores(nombre, apellido, numero):
+    nombre = mayus(nombre)
+    apellido = mayus(apellido)
+    file = agregar_datos_vendedores(nombre, apellido, numero)
     return send_file(file, mimetype='image/gif')
 
 @app.route("/difusion_multiple", methods=['GET', 'POST'])
@@ -92,4 +116,4 @@ def construccion():
     return "Página en construcción"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0", debug=True)

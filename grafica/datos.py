@@ -80,6 +80,36 @@ def agregar_datos_multiples(nombre, apellido, numero,
     img.save(file)
     return file
 
+def agregar_datos_vendedores(nombre, apellido, numero):
+##    numero = str(numero)[-8:]
+##    numero = "+56 9 {} {}".format(numero[:4],numero[4:])
+##    img = Image.open("grafica/Fotos/difusion_vendedores.jpg")
+##    draw = ImageDraw.Draw(img)
+##    font = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", 300)
+##    y_n = 2300
+##    texto_centrado(draw, font, nombre, 3000, y_n)        # Nombre
+##    texto_centrado(draw, font, apellido, 3000, y_n+250)  # Apellido
+##    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 270)
+##    x = 2350
+##    draw.text((x, y_n+545), numero, (0, 0, 0), font) # Numero
+##    draw = ImageDraw.Draw(img)
+##    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 400)
+    numero = str(numero)[-8:]
+    numero = "+56 9 {} {}".format(numero[:4],numero[4:])
+    img = Image.open("grafica/Fotos/difusion_vendedores.jpg")
+    draw = ImageDraw.Draw(img)
+    font = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", 100)
+    y_n = 1060
+    texto_centrado(draw, font, nombre, 240, y_n+60)        # Nombre
+    texto_centrado(draw, font, apellido, 240, y_n+150)  # Apellido
+    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 100)
+    x = 160
+    draw.text((x, y_n-100), numero, (0, 0, 0), font) # Numero
+    draw = ImageDraw.Draw(img)
+    file = "grafica/Vendedores/Vendedores {} {}.jpg".format(nombre, apellido)
+    img.save(file)
+    return file
+
 def precio(s):
     s = str(s)
     return "${}.{}".format(s[:-3], s[-3:])
