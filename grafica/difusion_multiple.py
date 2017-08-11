@@ -19,10 +19,10 @@ def crear_difusion_multiple(vendedor, productos):
     y_formato = 500
     y_precio = y_formato + 150
     y_nombre = 1630
-    y_telefono = y_nombre + 200
+    y_telefono = y_nombre + 155
     draw = ImageDraw.Draw(img)
     font_numeros = ImageFont.truetype("grafica/Fuentes/din_bold.ttf", 130)
-    font_telefono = ImageFont.truetype("grafica/Fuentes/din_bold.ttf", 60)
+    font_telefono = ImageFont.truetype("grafica/Fuentes/din_bold.ttf", 120)
     for producto in arriba:
         img.paste(Image.open("grafica/Fotos/"+producto["foto"]), (0, y_offset))
         formato = producto["masa"] + " " + producto["unidad"].upper()
