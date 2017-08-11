@@ -1,0 +1,93 @@
+{
+    "frutillas": {
+        "2": {
+            "disponible": false,
+            "formato": "cajas",
+            "foto": "frutillas.jpg",
+            "nombre": "Frutillas 2 kg",
+            "precio": "6000",
+            "svg": "frutilla.txt",
+            "unidad": "kg",
+            "variable": "frutillas",
+            "variable_precio": "f_precio"
+        }
+    },
+    "mandarinas": {
+        "4": {
+            "disponible": true,
+            "formato": "mallas",
+            "foto": "mandarinas.jpg",
+            "nombre": "Mandarinas 4 kg",
+            "precio": "6000",
+            "svg": "frutilla.txt",
+            "unidad": "kg",
+            "variable": "mandarinas",
+            "variable_precio": "m_precio"
+        }
+    },
+    "naranjas": {
+        "5": {
+            "disponible": true,
+            "formato": "mallas",
+            "foto": "naranjas.jpg",
+            "nombre": "Naranjas 5 kg",
+            "precio": "4000",
+            "svg": "frutilla.txt",
+            "unidad": "kg",
+            "variable": "naranjas",
+            "variable_precio": "nar_precio"
+        }
+    },
+    "nueces": {
+        "500": {
+            "disponible": true,
+            "formato": "cajas",
+            "foto": "nueces.jpg",
+            "nombre": "Nueces 500 gr",
+            "precio": "7000",
+            "svg": "frutilla.txt",
+            "unidad": "gr",
+            "variable": "nueces",
+            "variable_precio": "nue_precio"
+        }
+    },
+    "paltas": {
+        "2": {
+            "disponible": true,
+            "formato": "mallas",
+            "foto": "paltas.jpg",
+            "nombre": "Paltas 2 kg",
+            "precio": "6000",
+            "svg": "frutilla.txt",
+            "unidad": "kg",
+            "variable": "paltas",
+            "variable_precio": "p_precio"
+        }
+    },
+    "quesos": {
+        "1050": {
+            "disponible": true,
+            "formato": "packs",
+            "foto": "quesos.jpg",
+            "nombre": "Quesos 1050 gr",
+            "precio": "10000",
+            "svg": "frutilla.txt",
+            "unidad": "gr",
+            "variable": "quesos",
+            "variable_precio": "q_precio"
+        }
+    },
+    "tomates cherry": {
+        "1": {
+            "disponible": true,
+            "formato": "cajas",
+            "foto": "tomatescherry.jpg",
+            "nombre": "Tomates Cherry 1 kg",
+            "precio": "6000",
+            "svg": "frutilla.txt",
+            "unidad": "kg",
+            "variable": "tomatecherry",
+            "variable_precio": "t_precio"
+        }
+    }
+}

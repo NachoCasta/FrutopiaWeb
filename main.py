@@ -2,8 +2,9 @@ from flask import Flask, render_template, redirect, url_for, request, \
      send_file, send_from_directory
 from grafica.datos import agregar_datos, agregar_datos_multiples, \
      agregar_datos_vendedores
-from utilidades import mayus
-    
+from utilidades import mayus, obtener_productos, crear_template_multiple
+from grafica.difusion_multiple import crear_difusion_multiple
+
 app = Flask(__name__)
 
 @app.route("/")
@@ -70,31 +71,56 @@ def difusion_datos_vendedores(nombre, apellido, numero):
 @app.route("/difusion_multiple", methods=['GET', 'POST'])
 def difusion_multiple():
     error = None
+    productos = obtener_productos()
     if request.method == 'POST':
         nombre = request.form["nombre"].lower().strip()
         apellido = request.form["apellido"].lower().strip()
         telefono = request.form["telefono"]
-        frutillas = request.form["frutillas"]
-        uvas= request.form["uvas"]
-        paltas = request.form["paltas"]
-        limones = request.form["limones"]
-        
-        frutillas = 6000 if frutillas == "" else frutillas
-        uvas = 5000 if uvas == "" else uvas
-        paltas = 6000 if paltas == "" else paltas
-        limones = 6000 if limones == "" else limones
-        
+        vendedor = {
+            "nombre": nombre,
+            "apellido": apellido,
+            "telefono": telefono
+            }
+        for producto in productos:
+            precio = request.form[producto["variable"]]
+            if precio != "":
+                producto["precio"] = precio
         if len(telefono) < 8:
             error = "Telefono no válido."
         else:
-            telefono = "+569" + telefono.strip().replace(" ", "")[-8:]
-            print("Hola")
-            return redirect(url_for(
-                "difusion_datos_multiples",
-                nombre=nombre, apellido=apellido, numero=telefono,
-                frutillas=frutillas, uvas=uvas,
-                paltas=paltas, limones=limones))
+            file = crear_difusion_multiple(vendedor, productos)
+            return send_file(file, mimetype='image/gif')
+    crear_template_multiple(productos)
     return render_template('difusion_multiple.html', error=error)
+
+##@app.route("/difusion_multiple", methods=['GET', 'POST'])
+##def difusion_multiple():
+##    error = None
+##    if request.method == 'POST':
+##        nombre = request.form["nombre"].lower().strip()
+##        apellido = request.form["apellido"].lower().strip()
+##        telefono = request.form["telefono"]
+##        frutillas = request.form["frutillas"]
+##        uvas= request.form["uvas"]
+##        paltas = request.form["paltas"]
+##        limones = request.form["limones"]
+##        
+##        frutillas = 6000 if frutillas == "" else frutillas
+##        uvas = 5000 if uvas == "" else uvas
+##        paltas = 6000 if paltas == "" else paltas
+##        limones = 6000 if limones == "" else limones
+##        
+##        if len(telefono) < 8:
+##            error = "Telefono no válido."
+##        else:
+##            telefono = "+569" + telefono.strip().replace(" ", "")[-8:]
+##            print("Hola")
+##            return redirect(url_for(
+##                "difusion_datos_multiples",
+##                nombre=nombre, apellido=apellido, numero=telefono,
+##                frutillas=frutillas, uvas=uvas,
+##                paltas=paltas, limones=limones))
+##    return render_template('difusion_multiple.html', error=error)
 
 @app.route(
     "/difusion_multiple/<nombre>-<apellido>-<numero>-<frutillas>-"+
