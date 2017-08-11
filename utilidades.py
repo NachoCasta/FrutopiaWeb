@@ -18,7 +18,8 @@ def obtener_productos(archivo="grafica/productos.json"):
 
 def crear_template_multiple(productos):
     with open("templates/difusion_multiple.html", "w", encoding="utf8") as file:
-        with open("templates/inicio_multiple.txt", "r") as f:
+        with open("templates/inicio_multiple.txt",
+                  "r", encoding="latin-1") as f:
             inicio = "".join(f.readlines())
         file.write(inicio)
         for producto in productos:
@@ -27,7 +28,7 @@ def crear_template_multiple(productos):
           <div class="login__row">
             <svg class="login__icon svg-phone" viewBox="0 0 59 59" width="512px" height="512px">
                 <path d="''')
-            with open("svgs/"+producto["svg"], "r") as f:
+            with open("svgs/"+producto["svg"], "r", encoding="latin-1") as f:
                 svg = "".join(f.readlines())
             file.write(svg)
             file.write('''" fill="#FFFFFF"/>
@@ -41,7 +42,7 @@ def crear_template_multiple(productos):
             file.write(producto["variable"])
             file.write(''' }}"/>
           </div>''')
-        with open("templates/fin_multiple.txt", "r") as f:
+        with open("templates/fin_multiple.txt", "r", encoding="latin-1") as f:
             fin = "".join(f.readlines())
         file.write(fin)
 
