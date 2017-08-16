@@ -64,7 +64,7 @@
             "variable_precio": "p_precio"
         }
     },
-    "quesos huentelauquen": {
+    "quesos": {
         "1050": {
             "disponible": true,
             "formato": "packs",
