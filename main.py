@@ -81,10 +81,10 @@ def difusion_multiple():
             "apellido": apellido,
             "telefono": telefono
             }
-        for producto in productos:
-            precio = request.form[producto["variable"]]
-            if precio != "":
-                producto["precio"] = precio
+##        for producto in productos:
+##            precio = request.form[producto["variable"]]
+##            if precio != "":
+##                producto["precio"] = precio
         if len(telefono) < 8:
             error = "Telefono no válido."
         else:

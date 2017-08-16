@@ -13,6 +13,7 @@ def obtener_productos(archivo="grafica/productos.json"):
         for formato, detalles in formatos.items():
             if detalles["disponible"]:
                 detalles["masa"] = formato
+                detalles["producto"] = producto
                 productos.append(detalles)
     return productos
 
@@ -22,26 +23,25 @@ def crear_template_multiple(productos):
                   "r", encoding="latin-1") as f:
             inicio = "".join(f.readlines())
         file.write(inicio)
-        for producto in productos:
-            pass
-            file.write('''
-          <div class="login__row">
-            <svg class="login__icon svg-phone" viewBox="0 0 59 59" width="512px" height="512px">
-                <path d="''')
-            with open("svgs/"+producto["svg"], "r", encoding="latin-1") as f:
-                svg = "".join(f.readlines())
-            file.write(svg)
-            file.write('''" fill="#FFFFFF"/>
-              </svg>
-            <input type="text" class="login__input pass" placeholder="''')
-            file.write(producto["nombre"])
-            file.write('''" 
-            name="''')
-            file.write(producto["variable"])
-            file.write('''" size="25" value="{{ request.form.''')
-            file.write(producto["variable"])
-            file.write(''' }}"/>
-          </div>''')
+##        for producto in productos:
+##            file.write('''
+##          <div class="login__row">
+##            <svg class="login__icon svg-phone" viewBox="0 0 59 59" width="512px" height="512px">
+##                <path d="''')
+##            with open("svgs/"+producto["svg"], "r", encoding="latin-1") as f:
+##                svg = "".join(f.readlines())
+##            file.write(svg)
+##            file.write('''" fill="#FFFFFF"/>
+##              </svg>
+##            <input type="text" class="login__input pass" placeholder="''')
+##            file.write(producto["nombre"])
+##            file.write('''" 
+##            name="''')
+##            file.write(producto["variable"])
+##            file.write('''" size="25" value="{{ request.form.''')
+##            file.write(producto["variable"])
+##            file.write(''' }}"/>
+##          </div>''')
         with open("templates/fin_multiple.txt", "r", encoding="latin-1") as f:
             fin = "".join(f.readlines())
         file.write(fin)
@@ -52,5 +52,10 @@ if __name__ == "__main__":
         "apellido": "Castañeda",
         "telefono": "+56982328250"
         }
-    crear_difusion_multiple(vendedor, obtener_productos())
+    productos = obtener_productos()
+##    productos.pop()
+##    productos.pop()
+##    productos.pop()
+##    productos.pop()
+    crear_difusion_multiple(vendedor, productos)
         
