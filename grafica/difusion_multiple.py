@@ -20,7 +20,7 @@ def crear_difusion_multiple(vendedor, productos):
     y_precio = y_formato + 150
     y_producto = 900
     x_nombre = 680
-    y_nombre = 1680
+    y_nombre = 1700
     x_telefono = 750
     y_telefono = 1785
     draw = ImageDraw.Draw(img)
@@ -107,7 +107,7 @@ def crear_difusion_multiple(vendedor, productos):
     telefono = str(telefono)[-8:]
     telefono = "+56 9 {} {}".format(telefono[:4],telefono[4:])
     nombre_completo = nombre + " " + apellido
-    s = 200
+    s = 180
     font_nombres = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", s)
     while font_nombres.getsize(nombre_completo)[0] > 1200:
         font_nombres = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", s)
