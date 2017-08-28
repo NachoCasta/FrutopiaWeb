@@ -65,14 +65,14 @@
         }
     },
     "quesos": {
-        "1050": {
+        "1": {
             "disponible": true,
             "formato": "packs",
             "foto": "quesos.jpg",
-            "nombre": "Quesos 1050 gr",
+            "nombre": "Quesos 1 kg",
             "precio": "10000",
             "svg": "frutilla.txt",
-            "unidad": "gr",
+            "unidad": "kg",
             "variable": "quesos",
             "variable_precio": "q_precio"
         }
