@@ -1,11 +1,11 @@
 {
     "frutillas": {
         "2": {
-            "disponible": false,
+            "disponible": true,
             "formato": "cajas",
             "foto": "frutillas.jpg",
             "nombre": "Frutillas 2 kg",
-            "precio": "6000",
+            "precio": "8000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "frutillas",
@@ -31,7 +31,7 @@
             "formato": "mallas",
             "foto": "naranjas.jpg",
             "nombre": "Naranjas 5 kg",
-            "precio": "4000",
+            "precio": "5000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "naranjas",
@@ -51,7 +51,7 @@
             "variable_precio": "nue_precio"
         }
     },
-    "paltas": {
+    "paltas hass": {
         "2": {
             "disponible": true,
             "formato": "mallas",
