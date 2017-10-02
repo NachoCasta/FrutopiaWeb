@@ -12,7 +12,7 @@ from bot.message_handler import MessageHandler
 
 secret = "9359762012088124987"
 bot = telepot.Bot("462586547:AAF0sLikfUc2-ixPIJ125NsWIhifMWQiBv8")
-bot.setWebhook("https://frutopiachile.cl/{}".format(secret), max_connections=1)
+bot.setWebhook("http://frutopiachile.cl/{}".format(secret), max_connections=1)
 
 handler = MessageHandler()
 
