@@ -30,6 +30,7 @@ class Parser:
             ["Vicente Opazo", "V. Opazo", "Vicho"],
             ["Mauricio Hernandez", "MAU"],
             ["Joaquin Eichholz", "Eichholz"],
+            ["Trinidad Pereira", "Trini P", "Trini Pereira"],
             
             ]
         self.repartos = []
