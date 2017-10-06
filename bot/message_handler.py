@@ -1,3 +1,5 @@
+import time
+
 if __name__ == "__main__":
     from pedido_parser import Parser
     from descargar_dropbox import descargar_excels
@@ -7,6 +9,14 @@ else:
     from bot.pedido_parser import Parser
     from bot.descargar_dropbox import descargar_excels
 
+
+def historial(func):
+    def _responder(self, mensaje, chat_id):
+        guardar_mensaje(chat_id, "USER", mensaje)
+        respuesta = func(self, mensaje, chat_id)
+        guardar_mensaje(chat_id, "BOT", respuesta)
+        return respuesta
+    return _responder
 
 class MessageHandler:
 
@@ -18,7 +28,8 @@ class MessageHandler:
             "ayuda": self.help,
             "lector": self.lector
             }
-
+        
+    @historial
     def responder(self, mensaje, chat_id):
         if mensaje[0] == "/":
             mensaje = mensaje.split()
@@ -38,7 +49,7 @@ class MessageHandler:
             return self.chat_bot(mensaje)
 
     def chat_bot(self, mensaje):
-        return "Soy chat bot"
+        return "Chat"
     
     def start(self):
         yield leer("start")
@@ -69,6 +80,11 @@ def leer(texto):
     with open(rel+"mensajes/{}.txt".format(texto)) as file:
         s = "\n".join(file.readlines())
     return s
+
+def guardar_mensaje(chat_id, emisor, mensaje):
+    with open(rel+"historial/{}.txt".format(chat_id), "a") as file:
+        tiempo = time.strftime("%Y-%m-%d %H:%M:%S")
+        file.write("{0} {1:<4}: {2}\n".format(tiempo, emisor, mensaje))
 
 if __name__ == "__main__":
     h = MessageHandler()

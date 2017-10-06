@@ -1,4 +1,13 @@
+import pandas as pd
 
+if __name__ == "__main__":
+    from descargar_dropbox import descargar_jefes
+    from excel import excel_to_table
+    rel = ""
+else:
+    rel = "bot/"
+    from bot.descargar_dropbox import descargar_jefes
+    from bot.excel import excel_to_table
 
 class Parser:
 
@@ -7,31 +16,7 @@ class Parser:
         self.jefes = []
         self.productos = {}
         self.total_por_jefe = {}
-        self.equivalencias = [
-            ["Javi Del Rio", "Javi"],
-            ["Majo Castañeda", "Majo"],
-            ["Joaquin Daly", "Joaquin D"],
-            ["Jose Quiroga", "Jose Q"],
-            ["Rafael Quiroga", "Rafa Quiroga"],
-            ["Rodrigo Fernandez", "R Fdez"],
-            ["Berni Mackenney", "Berni"],
-            ["Maria Luisa Fernandez", "Guisa Fernandez", "Guisa Fdez"],
-            ["Tere Fernandez", "Tere Fdez"],
-            ["Juan Undurraga", "Juan U"],
-            ["Coni Delfau", "Conidelfau"],
-            ["Florencia Croxatto", "Florencia C"],
-            ["Maria Luisa Fernandez", "Guisa"],
-            ["Matias Krumm", "Krumm"],
-            ["Sofia Ovalle", "Sofia", "Sofia Ivalle"],
-            ["Ignacio Montt", "I Montt", "I. Montt", "I.Montt"],
-            ["Raimundo Opazo", "R. Opazo"],
-            ["Rafael Errazuriz", "Fafa"],
-            ["Josefina Nazer", "Cote"],
-            ["Vicente Opazo", "V. Opazo", "Vicho"],
-            ["Mauricio Hernandez", "MAU"],
-            ["Joaquin Eichholz", "Eichholz"],
-            ["Trinidad Pereira", "Trini P", "Trini Pereira"],
-            ]
+        self.cargar_equivalencias()
         self.repartos = []
         self.parse_lines()
         self.parse_jefes()
@@ -55,6 +40,11 @@ class Parser:
                 jefe = mayus(jefe)
                 jefe = self.equivalente(jefe)
                 self.productos[producto].append([jefe, cantidad])
+
+    def cargar_equivalencias(self):
+        descargar_jefes(rel+"datos")
+        tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Apodos")
+        self.equivalencias = tabla
 
     def total_por_producto(self):
         s = ""
