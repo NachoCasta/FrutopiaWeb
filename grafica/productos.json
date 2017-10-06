@@ -14,7 +14,7 @@
     },
     "mandarinas": {
         "4": {
-            "disponible": true,
+            "disponible": false,
             "formato": "mallas",
             "foto": "mandarinas.jpg",
             "nombre": "Mandarinas 4 kg",

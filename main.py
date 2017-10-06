@@ -1,9 +1,20 @@
+import urllib3
+
+import telepot
 from flask import Flask, render_template, redirect, url_for, request, \
      send_file, send_from_directory
+
 from grafica.datos import agregar_datos, agregar_datos_multiples, \
      agregar_datos_vendedores
 from utilidades import mayus, obtener_productos, crear_template_multiple
 from grafica.difusion_multiple import crear_difusion_multiple
+from bot.message_handler import MessageHandler
+
+secret = "9359762012088124987"
+bot = telepot.Bot("462586547:AAF0sLikfUc2-ixPIJ125NsWIhifMWQiBv8")
+bot.setWebhook("https://frutopiachile.cl/{}".format(secret), max_connections=1)
+
+handler = MessageHandler()
 
 app = Flask(__name__)
 
@@ -104,12 +115,12 @@ def difusion_multiple():
 ##        uvas= request.form["uvas"]
 ##        paltas = request.form["paltas"]
 ##        limones = request.form["limones"]
-##        
+##
 ##        frutillas = 6000 if frutillas == "" else frutillas
 ##        uvas = 5000 if uvas == "" else uvas
 ##        paltas = 6000 if paltas == "" else paltas
 ##        limones = 6000 if limones == "" else limones
-##        
+##
 ##        if len(telefono) < 8:
 ##            error = "Telefono no válido."
 ##        else:
@@ -136,6 +147,16 @@ def excel_vendedor():
     return send_from_directory(directory="descargas",
                                filename="Vendedores.xlsx",
                                as_attachment=True)
+
+@app.route('/{}'.format(secret), methods=["POST"])
+def telegram_webhook():
+    update = request.get_json()
+    if "message" in update:
+        mensaje = update["message"]["text"]
+        chat_id = update["message"]["chat"]["id"]
+        respuesta = handler.responder(mensaje, chat_id)
+        bot.sendMessage(chat_id, respuesta)
+    return "OK"
 
 @app.route("/construccion")
 def construccion():

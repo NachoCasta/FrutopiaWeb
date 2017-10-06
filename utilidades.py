@@ -48,9 +48,9 @@ def crear_template_multiple(productos):
 
 if __name__ == "__main__":
     vendedor = {
-        "nombre": "Ignacio",
-        "apellido": "Castañeda",
-        "telefono": "+56982328250"
+        "nombre": "Rodrigo",
+        "apellido": "Fernandez",
+        "telefono": "+56986194003"
         }
     productos = obtener_productos()
 ##    productos.pop()
