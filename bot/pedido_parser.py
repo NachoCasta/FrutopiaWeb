@@ -100,8 +100,8 @@ class Parser:
     def total_por_jefes(self):
         s = ""
         for jefe in sorted(self.jefes.keys()):
-            s += "{0: <25}:".format(jefe)
-            s += "{0: ^8}".format(self.total(jefe))
+            s += "{0: <20}:".format(jefe)
+            s += "{0: ^5}".format(self.total(jefe))
             s += "\n"
         return s.strip()
 
