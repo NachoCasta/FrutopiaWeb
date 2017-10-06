@@ -51,7 +51,8 @@ class MessageHandler:
         print(pedidos)
         try:
             p = Parser(pedidos.split("\n"))
-            respuesta = "```"
+            respuesta =  "```\n"
+            respuesta += "Resumen:\n\n"
             respuesta += p.total_por_producto()
             respuesta += "\n\n"
             respuesta += p.total_por_jefes()
