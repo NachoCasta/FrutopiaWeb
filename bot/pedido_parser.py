@@ -40,6 +40,7 @@ class Parser:
         pedidos = []
         for i, line in enumerate(self.texto):
             if i == 0:
+                self.pedido = line.strip("_")
                 continue
             line = line.strip().strip("*").strip("_")
             if line == "":

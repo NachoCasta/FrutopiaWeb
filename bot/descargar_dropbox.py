@@ -18,6 +18,14 @@ def descargar_excels(download_path):
     file = "Jefes 2017-2.xlsx"
     dbx.files_download_to_file(download_path+file, path + "/" + file)
 
+def descargar_jefes(download_path):
+    token = base64.b64decode(b'WFlYYTUtTnhQY1FBQUFBQUFBQU5JVmtCNlBFZm5IQzVnaVBMS2pCa256Vmg5cXFqMlhRSXNWZUxicGhGaUZSTg==').decode("utf-8")
+    dbx = dropbox.Dropbox(token)
+    download_path = download_path.strip("/") + "/"
+    path = "/Frutillas"
+    file = "Jefes 2017-2.xlsx"
+    dbx.files_download_to_file(download_path+file, path + "/" + file)
+
 
 if __name__ == "__main__":
     descargar_excels("test")
