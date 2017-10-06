@@ -1,10 +1,11 @@
 import os
+import base64
 
 import dropbox
 
 
 def descargar_excels(download_path):
-    token = "XYXa5-NxPcQAAAAAAAANIVkB6PEfnHC5giPLKjBknzVh9qqj2XQIsVeLbphFiFRN"
+    token = base64.b64decode(b'WFlYYTUtTnhQY1FBQUFBQUFBQU5JVmtCNlBFZm5IQzVnaVBMS2pCa256Vmg5cXFqMlhRSXNWZUxicGhGaUZSTg==').decode("utf-8")
     dbx = dropbox.Dropbox(token)
     path = "/Frutillas/Contabilidad/2017 - 2"
     download_path = download_path.strip("/") + "/"

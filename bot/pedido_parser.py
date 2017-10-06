@@ -31,7 +31,6 @@ class Parser:
             ["Mauricio Hernandez", "MAU"],
             ["Joaquin Eichholz", "Eichholz"],
             ["Trinidad Pereira", "Trini P", "Trini Pereira"],
-            
             ]
         self.repartos = []
         self.parse_lines()
@@ -91,10 +90,10 @@ class Parser:
     def resumen_pedidos(self):
         s = ""
         for jefe in sorted(self.jefes.keys()):
-            s += "{0: <25}:".format(jefe)
+            s += "{0:<20}:".format(jefe)
             for producto in self.productos:
                 s += "{0: ^4}".format(self.jefes[jefe][producto])
-            s += "{0: ^8}".format(self.total(jefe))
+            s += "{0: ^5}".format(self.total(jefe))
             s += "\n"
         return s.strip()
 
