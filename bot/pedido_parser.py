@@ -41,7 +41,7 @@ class Parser:
         for i, line in enumerate(self.texto):
             if i == 0:
                 continue
-            line = line.strip()
+            line = line.strip().strip("*").strip("_")
             if line == "":
                 continue
             if line[0] != "-":
