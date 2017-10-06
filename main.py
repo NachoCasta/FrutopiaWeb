@@ -158,7 +158,7 @@ def telegram_webhook():
         if respuesta == "":
             respuesta = "Error."
         try:
-            bot.sendMessage(chat_id, respuesta)
+            bot.sendMessage(chat_id, respuesta, "Markdown")
         except Exception as err:
             bot.sendMessage(chat_id, str(err))
         #bot.sendMessage(chat_id, str(len(mensaje.split("\n"))))
