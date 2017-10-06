@@ -1,7 +1,9 @@
 if __name__ == "__main__":
     from pedido_parser import Parser
     from descargar_dropbox import descargar_excels
+    rel = ""
 else:
+    rel = "bot/"
     from bot.pedido_parser import Parser
     from bot.descargar_dropbox import descargar_excels
 
@@ -61,7 +63,7 @@ class MessageHandler:
         yield respuesta
 
 def leer(texto):
-    with open("mensajes/{}.txt".format(texto)) as file:
+    with open(rel+"mensajes/{}.txt".format(texto)) as file:
         s = "\n".join(file.readlines())
     return s
 
