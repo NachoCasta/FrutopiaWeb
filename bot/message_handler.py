@@ -53,8 +53,10 @@ class MessageHandler:
             p = Parser(pedidos.split("\n"))
             respuesta =  "```\n"
             respuesta += "{}:\n\n".format(p.pedido)
+            respuesta += "Total por producto:\n"
             respuesta += p.total_por_producto()
             respuesta += "\n\n"
+            respuesta += "Total por persona:\n"
             respuesta += p.total_por_jefes()
             respuesta += "```"
         except Exception as err:
