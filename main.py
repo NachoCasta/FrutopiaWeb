@@ -12,7 +12,7 @@ from bot.message_handler import MessageHandler
 
 secret = "9359762012088124987"
 bot = telepot.Bot("462586547:AAF0sLikfUc2-ixPIJ125NsWIhifMWQiBv8")
-bot.setWebhook("https://frutopiachile.cl/{}".format(secret), max_connections=1)
+bot.setWebhook("https://www.frutopiachile.cl/{}".format(secret), max_connections=1)
 
 handler = MessageHandler()
 
@@ -155,7 +155,13 @@ def telegram_webhook():
         mensaje = update["message"]["text"]
         chat_id = update["message"]["chat"]["id"]
         respuesta = handler.responder(mensaje, chat_id)
-        bot.sendMessage(chat_id, respuesta)
+        if respuesta == "":
+            respuesta = "Error."
+        try:
+            bot.sendMessage(chat_id, respuesta)
+        except Exception as err:
+            bot.sendMessage(chat_id, str(err))
+        #bot.sendMessage(chat_id, str(len(mensaje.split("\n"))))
     return "OK"
 
 @app.route("/construccion")

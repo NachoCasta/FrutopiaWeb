@@ -5,7 +5,7 @@ class MessageHandler:
     def __init__(self):
         self.conversaciones = {}
 
-    def responder(mensaje, chat_id):
+    def responder(self, mensaje, chat_id):
         if mensaje == "/start":
             return "Hola!"
         try:
@@ -16,4 +16,6 @@ class MessageHandler:
             respuesta += p.total_por_jefes()
         except Exception as err:
             respuesta = str(err)
+        if respuesta.strip() == "":
+            respuesta = "No entendi."
         return respuesta
