@@ -1,4 +1,4 @@
-if __name__ == __main__:
+if __name__ == "__main__":
     from pedido_parser import Parser
     from descargar_dropbox import descargar_excels
 else:
