@@ -1,4 +1,5 @@
 import urllib3
+import time
 
 import telepot
 from flask import Flask, render_template, redirect, url_for, request, \
@@ -10,11 +11,11 @@ from utilidades import mayus, obtener_productos, crear_template_multiple
 from grafica.difusion_multiple import crear_difusion_multiple
 from bot.message_handler import MessageHandler
 
-secret = "9359762012088124987"
+secret = "hgckmlwpojiky54p9oimk6ht4rj0ioy54ghenjfknjrih398329fbfdihbsiuo"
 bot = telepot.Bot("462586547:AAF0sLikfUc2-ixPIJ125NsWIhifMWQiBv8")
 bot.setWebhook("https://www.frutopiachile.cl/{}".format(secret), max_connections=1)
 
-handler = MessageHandler()
+handler = MessageHandler(True)
 
 app = Flask(__name__)
 
@@ -152,9 +153,17 @@ def excel_vendedor():
 def telegram_webhook():
     update = request.get_json()
     if "message" in update:
+        status = None
         mensaje = update["message"]["text"]
         chat_id = update["message"]["chat"]["id"]
         respuesta = handler.responder(mensaje, chat_id)
+        if len(list(respuesta)) == 2:
+            respuesta, status = respuesta
+        if status == "wait":
+            while status == "wait":
+                bot.sendMessage(chat_id, respuesta, "Markdown")
+                time.sleep(2)
+                respuesta, status = handler.responder(mensaje, chat_id, True)
         if respuesta == "":
             respuesta = "Error."
         try:

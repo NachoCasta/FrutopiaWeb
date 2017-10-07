@@ -1,4 +1,5 @@
 import time
+import threading
 
 if __name__ == "__main__":
     from pedido_parser import Parser
@@ -18,9 +19,18 @@ def historial(func):
         return respuesta
     return _responder
 
+def no_bot(func):
+    def _responder(self, mensaje, chat_id):
+        respuesta = func(self, mensaje, chat_id)
+        if not bot:
+            if len(list(respuesta)) == 2:
+                respuesta = respuesta[0]
+        return respuesta
+    return _responder
+
 class MessageHandler:
 
-    def __init__(self):
+    def __init__(self, bot=False):
         self.conversaciones = {}
         self.funciones = {
             "start": self.start,
@@ -28,7 +38,10 @@ class MessageHandler:
             "ayuda": self.help,
             "lector": self.lector
             }
-        
+        self.parser = Parser(pedidos.split("\n"))
+        self.bot = bot
+
+    @no_bot
     @historial
     def responder(self, mensaje, chat_id):
         if mensaje[0] == "/":
@@ -59,9 +72,11 @@ class MessageHandler:
 
     def lector(self):
         pedidos = yield "Envíame la lista de pedidos!"
-        print(pedidos)
         try:
-            p = Parser(pedidos.split("\n"))
+            p = self.parser
+            thread = threading.Thread(target=p.cargar_equivalencias)
+            thread.start()
+            yield "Espera un segundo...", "wait"
             respuesta =  "```\n"
             respuesta += "{}:\n\n".format(p.pedido)
             respuesta += "Total por producto:\n"
@@ -74,7 +89,7 @@ class MessageHandler:
             respuesta = str(err)
         if respuesta.strip() == "":
             respuesta = "Lo siento, no entendí."
-        yield respuesta
+        yield respuesta, "continue"
 
 def leer(texto):
     with open(rel+"mensajes/{}.txt".format(texto)) as file:

@@ -11,7 +11,15 @@ else:
 
 class Parser:
 
-    def __init__(self, texto, limite=20):
+    def __init__(self):
+        self.texto = ""
+        self.jefes = []
+        self.productos = {}
+        self.total_por_jefe = {}
+        self.cargar_equivalencias()
+        self.repartos = []
+
+    def parse(self, texto, limite=20):
         self.texto = texto
         self.jefes = []
         self.productos = {}
@@ -102,7 +110,8 @@ def mayus(string):
 if __name__ == "__main__":
     with open("pedidos whatsapp.txt") as file:
         texto = file.readlines()
-    p = Parser(texto, 20)
+    p = Parser()
+    p.parse(texto, 20)
     print(p.total_por_producto())
     print()
     print(p.resumen_pedidos())
