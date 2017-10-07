@@ -79,6 +79,7 @@ class MessageHandler:
             yield "Espera un segundo...", "wait"
             while thread.is_alive():
                 yield "Espera un segundo...", "wait"
+            p.parse(pedidos)
             respuesta =  "```\n"
             respuesta += "{}:\n\n".format(p.pedido)
             respuesta += "Total por producto:\n"
