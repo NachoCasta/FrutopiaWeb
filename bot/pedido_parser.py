@@ -17,8 +17,7 @@ class Parser:
         self.jefes = []
         self.productos = {}
         self.total_por_jefe = {}
-        thread = threading.Thread(target=self.cargar_equivalencias)
-        thread.start()
+        self.cargar_equivalencias()
         self.repartos = []
 
     def parse(self, texto, limite=20):
