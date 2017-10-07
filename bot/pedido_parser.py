@@ -1,4 +1,5 @@
 import pandas as pd
+import threading
 
 if __name__ == "__main__":
     from descargar_dropbox import descargar_jefes
@@ -16,7 +17,8 @@ class Parser:
         self.jefes = []
         self.productos = {}
         self.total_por_jefe = {}
-        self.cargar_equivalencias()
+        thread = threading.Thread(target=self.cargar_equivalencias)
+        thread.start()
         self.repartos = []
 
     def parse(self, texto, limite=20):
