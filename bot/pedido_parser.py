@@ -17,7 +17,10 @@ class Parser:
         self.jefes = []
         self.productos = {}
         self.total_por_jefe = {}
-        self.cargar_equivalencias()
+        if __name__ == "__main__":
+            self.actualizar_equivalencias()
+        else:
+            self.cargar_equivalencias()
         self.repartos = []
 
     def parse(self, texto, limite=20):
@@ -50,8 +53,11 @@ class Parser:
                 jefe = self.equivalente(jefe)
                 self.productos[producto].append([jefe, cantidad])
 
-    def cargar_equivalencias(self):
+    def actualizar_equivalencias(self):
         descargar_jefes(rel+"datos")
+        self.cargar_equivalencias()
+
+    def cargar_equivalencias(self):
         tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Apodos")
         self.equivalencias = tabla
 
