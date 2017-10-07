@@ -50,3 +50,5 @@
 2017-10-06 18:32:54 BOT : Supongo que bien.
 2017-10-06 18:32:55 USER: como estas
 2017-10-06 18:32:56 BOT : Supongo que bien.
+2017-10-07 17:00:51 USER: hol
+2017-10-07 17:00:51 BOT : Chat

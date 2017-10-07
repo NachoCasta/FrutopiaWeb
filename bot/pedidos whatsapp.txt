@@ -1,6 +1,6 @@
-Pedido Viernes 06/10
+_Pedido Viernes 06/10_
 
-Naranjas Jugo
+*Naranjas Jugo*
 - R. Opazo 5
 - Jesu V 1
 - Cami de La Sotta 5
@@ -9,7 +9,7 @@ Naranjas Jugo
 - Pablo Vial 1
 -Michella 2
 
-Paltas Hass
+*Paltas Hass*
 - R. Opazo 11
 - Jesu V 1
 - Cami de la Sotta 5
@@ -21,13 +21,13 @@ Paltas Hass
 - Trini Pereira 1
 -rodrigo m 5
 
-Quesos Huentelauquen
+*Quesos Huentelauquen*
 - R. Opazo 5
 - Cami de la Sotta 2
 -Barbara 5
 - Martin Araos 2
 
-Frutillas
+*Frutillas*
 - R. Opazo 7
 - Cami de la Sotta 3
 -Barbara 4
@@ -37,7 +37,7 @@ Frutillas
 - Trini p 3
 -rodrigo m 6
 
-Tomates
+*Tomates*
 - R. Opazo 4
 - Jesu V 1
 - Cami de la Sotta 2
@@ -45,7 +45,7 @@ Tomates
 - javi 2 
 - Michella 1
 
-Nueces
+*Nueces*
 - R. Opazo 4
 - Cami de la Sotta 2
 - Barbara 5

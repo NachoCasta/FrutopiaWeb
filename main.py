@@ -169,7 +169,6 @@ def telegram_webhook():
             bot.sendMessage(chat_id, respuesta, "Markdown")
         except Exception as err:
             bot.sendMessage(chat_id, str(err))
-        #bot.sendMessage(chat_id, str(len(mensaje.split("\n"))))
     return "OK"
 
 @app.route("/construccion")

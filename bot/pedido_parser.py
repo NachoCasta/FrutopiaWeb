@@ -1,11 +1,11 @@
 import pandas as pd
 import threading
 
-if __name__ == "__main__":
+try:
     from descargar_dropbox import descargar_jefes
     from excel import excel_to_table
     rel = ""
-else:
+except Exception as err:
     rel = "bot/"
     from bot.descargar_dropbox import descargar_jefes
     from bot.excel import excel_to_table
