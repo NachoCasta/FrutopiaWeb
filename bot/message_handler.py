@@ -74,8 +74,8 @@ class MessageHandler:
         pedidos = yield "Envíame la lista de pedidos!"
         try:
             p = self.parser
-            thread = threading.Thread(target=p.cargar_equivalencias)
-            thread.start()
+##            thread = threading.Thread(target=p.cargar_equivalencias)
+##            thread.start()
             yield "Espera un segundo...", "wait"
             respuesta =  "```\n"
             respuesta += "{}:\n\n".format(p.pedido)
