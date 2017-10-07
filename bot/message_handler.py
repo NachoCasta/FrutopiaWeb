@@ -38,7 +38,7 @@ class MessageHandler:
             "ayuda": self.help,
             "lector": self.lector
             }
-        self.parser = Parser(pedidos.split("\n"))
+        self.parser = Parser()
         self.bot = bot
 
     @no_bot
