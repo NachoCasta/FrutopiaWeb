@@ -22,7 +22,7 @@ def historial(func):
 def no_bot(func):
     def _responder(self, mensaje, chat_id):
         respuesta = func(self, mensaje, chat_id)
-        if not bot:
+        if not self.bot:
             if len(list(respuesta)) == 2:
                 respuesta = respuesta[0]
         return respuesta
