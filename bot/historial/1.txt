@@ -52,3 +52,169 @@
 2017-10-06 18:32:56 BOT : Supongo que bien.
 2017-10-07 17:00:51 USER: hol
 2017-10-07 17:00:51 BOT : Chat
+2017-10-07 21:03:22 USER: /vendedores
+2017-10-07 21:03:37 USER: /vendedores
+2017-10-07 21:03:37 BOT : ('Espera un segundo...', 'wait')
+2017-10-07 21:03:42 USER: 
+2017-10-07 21:05:00 USER: /vendedores
+2017-10-07 21:05:53 USER: /vendedores
+2017-10-07 21:05:53 BOT : 
+2017-10-07 21:05:59 USER: 
+2017-10-07 21:07:04 USER: /vendedores
+2017-10-07 21:07:06 BOT : 
+2017-10-07 21:07:27 USER: /vendedores
+2017-10-07 21:07:29 BOT : 
+2017-10-07 21:10:00 USER: /vendedores
+2017-10-07 21:11:13 USER: /vendedores
+2017-10-07 21:11:26 USER: /vendedores
+2017-10-07 21:11:28 BOT : ['Amalia', 'Abogabir', 'Condominio El Algarrobal 2 Casa Z-95', 'Chicureo', 'Piedra Roja', 'CLSA', 'JEFE', 56982328250, 'amalia.abr@gmail.com', 'Joaquin Eichholz']
+['Maida', 'Andrews', 'Martin De Zamora 5245, Torre 2, Dpto 52', 'Las Condes', 'Manquehue', 'VMA', 'JEFE', 56954219968, 'maidaandrews25@gmail.com', 'Joaquin Eichholz']
+['Gabriel', 'Araneda', 'Apoquindo 6797 Dpto 203-3', 'Las Condes', 'Manquehue', 'UDD', 'JEFE', 56976237859, 'garanedaa@udd.cl', 'Lukas Quense']
+['Martin', 'Araos', 'Cristal De Roca 10542', 'Chicureo', 'La Radial', 'Santa Cruz', 'JEFE', 56962094749, 'araos.m13@gmail.com', 'Lukas Quense']
+['Javi', 'Bernaus', 'Cerro La Campana 2311 Casa 2', 'Lo Barnechea', 'Los Trapenses', 'UAI', 'JEFE', 56993333225, 'jbernaus@alumnos.uai.cl', 'Ignacio Castañeda']
+['Paul', 'Brenner', 'San Jose De La Sierra 1105', 'Las Condes', 'Quinchamali', 'UDD', 'JEFE', 56955324629, 'paulmartinbrenner@hotmail.com', 'Lukas Quense']
+['Alvaro', 'Caeviedes', 'Cerro El Paico 9756', 'Lo Barnechea', 'Los Trapenses', 'UC', 'JEFE', 56963033603, 'acaeviedes@uc.cl', 'Joaquin Eichholz']
+['Ignacio', 'Castañeda', 'Punta de Aguilas Norte 9300 Casa 12', 'Lo Barnechea', 'Los Trapenses', 'UC', 'SOCIO', 56982328250, 'icastanedaw@gmail.com', 'Ignacio Castañeda']
+['Majo', 'Castañeda', 'Punta de Aguilas Norte 9300 Casa 12', 'Lo Barnechea', 'Los Trapenses', 'UAndes', 'JEFE', 56982328251, 'mjcastaneda@miuandes.cl', 'Ignacio Castañeda']
+['Vicky', 'Chaparro', 'Carolina Rabat 780 Casa 8', 'Vitacura', 'Santa Maria', 'UDD', 'JEFE', 56968348679, 'mchaparroh@udd.cl', 'Ignacio Castañeda']
+['Antonia', 'Cisternas', 'Calle Parque 12700 Casa 38', 'Lo Barnechea', 'Los Trapenses', 'JEFE', 56944346775, 'antocisternas@hotmail.com', 'Lukas Quense']
+['Josefa', 'Covarrubias', 'Camino Las Flores 12163', 'Las Condes', 'San Carlos', 'Saint George', 'JEFE', 56995346870, 'josefacovarrubias@gmail.com', 'Joaquin Eichholz']
+['Florencia', 'Croxatto', 'Los Olivos 12179', 'Las Condes', 'San Carlos', 'UC', 'JEFE', 56963061299, 'fcroxatto@uc.cl', 'Joaquin Eichholz']
+['Joaquin', 'Daly', 'Polo 1 de Manquehue Casa 112', 'Chicureo', 'Piedra Roja', 'CSA', 'JEFE', 56979987750, 'dalyjoaquin@gmail.com', 'Lukas Quense']
+['Dominique', 'Daroch', 'El Algarrobal 2 Casa U2', 'Chicureo', 'Vespucio', 'Highlands', 'JEFE', 56974474437, 'dominique_daroch@hotmail.com', 'Ignacio Castañeda']
+['Camila', 'De La Sotta', 'Jose de Moraleda 4837', 'Las Condes', 'Vespucio', 'UDD', 'JEFE', 56967289638, 'camila.delasotta@gmail.com', 'Ignacio Castañeda']
+['Javi', 'Del Rio', 'Valle del monasterio 2664', 'Lo Barnechea', 'Los Trapenses', 'UC', 'JEFE', 56967898535, 'jpdelrio@uc.cl', 'Ignacio Castañeda']
+['Amelia', 'Del Rio', 'Candelaria Goyenechea 5765', 'Vitacura', 'Manquehue', 'UCH', 'JEFE', 56998222891, 'adelrioa@fen.uchile.cl', 'Ignacio Castañeda']
+['Constanza', 'Delfau', 'Calle Parque 12700 Casa 1', 'Lo Barnechea', 'La Dehesa', 'UC', 'JEFE', 56991889995, 'conidelfau@gmail.com', 'Ignacio Castañeda']
+['Pilar', 'Edwards', 'El Roquerio 2028', 'Lo Barnechea', 'Los Trapenses', 'UDD', 'JEFE', 56983708702, 'piliedwards@gmail.com', 'Joaquin Eichholz']
+['Joaquin', 'Eichholz', 'Estrella Del Norte 980 Dpto 154', 'Las Condes', 'Alto Las Condes', 'UC', 'SOCIO', 56996324787, 'joaquin.eichholz@gmail.com', 'Joaquin Eichholz']
+['Maria Jesus', 'Elias', 'Manquehue Norte 555', 'Las Condes', 'Manquehue', 'UDD', 'JEFE', 56958589916, 'meliasm@udd.cl', 'Lukas Quense']
+['Rafael', 'Errazuriz', 'Pasaje La Aurora 1883', 'Vitacura', 'Estoril', 'UDD', 'JEFE', 56995483434, 'rerrazurizf@udd.cl', 'Joaquin Eichholz']
+['Isidora', 'Fernandez', 'Casa De Piedra 2628', 'Las Condes', 'San Carlos', 'UAndes', 'JEFE', 56997550244, 'ifernandez1@miuandes.cl', 'Joaquin Eichholz']
+['Maria Luisa', 'Fernandez', 'La Invernada 7005', 'Vitacura', 'Santa Maria', 'UCH', 'JEFE', 56982978895, 'guisa97@hotmail.com', 'Lukas Quense']
+['Rodrigo', 'Fernandez', 'Las Hualtatas 4555 Casa 9', 'Lo Barnechea', 'Los Trapenses', 'UC', 'JEFE', 56986194003, 'rfernandezdelrio@uc.cl', 'Lukas Quense']
+['Tere', 'Fernandez', 'Las Torcazas 3080', 'Chicureo', 'Colina', 'Highlands', 'JEFE', 56965542496, 'terefernandez99@yahoo.com', 'Lukas Quense']
+['Diego', 'Figueroa', 'Las Lavandulas 10006', 'Las Condes', 'San Carlos', 'JEFE', 56979579233, 'diegofiba2@gmail.com', 'Joaquin Eichholz']
+['Matias', 'Flores', 'Condominio Sta Teresita P14 Sta Ester De Liray', 'Chicureo', 'Lo Pinto', 'UDD', 'JEFE', 56986351953, 'matifloresdonetch@hotmail.com', 'Ignacio Castañeda']
+['Benjamin', 'Hartmann', 'Camino Otonal 1368 Casa 6', 'Las Condes', 'San Carlos', 'UC', 'JEFE', 56982958975, 'hartmann12@gmail.com', 'Ignacio Castañeda']
+['Mauricio', 'Hernandez', 'Julia Bernstein 607 Casa G-40', 'La Reina', 'La Reina', 'UCH', 'JEFE', 56965951459, 'mauhernand@fen.uchile.cl', 'Lukas Quense']
+['Andres', 'Infante', 'Camino De Las Ermitas 3804', 'Lo Barnechea', 'Los Trapenses', 'UAI', 'JEFE', 56979891544, 'andres_infanter@hotmail.com', 'Lukas Quense']
+['Cata', 'Izcue', 'Los Pumas 11996', 'Las Condes', 'San Carlos', 'Los Andes', 'JEFE', 56995952212, 'cataizcue@gmail.com', 'Lukas Quense']
+['Margarita', 'Joglar', 'Camino Los Trapenses 4860 Casa 9', 'Lo Barnechea', 'Los Trapenses', 'JEFE', 56963124612, 'magui.joglar22@gmail.com', 'Lukas Quense']
+['Ric', 'Jungk', 'Pasaje Pie Andino 4209A', 'Lo Barnechea', 'La Dehesa', 'UAndes', 'JEFE', 56966477967, 'rtjungk@miuandes.cl', 'Ignacio Castañeda']
+['Matias', 'Krumm', 'La Cienaga 12315', 'Lo Barnechea', 'La Dehesa', 'UAI', 'JEFE', 56988587944, 'matiask7@gmail.com', 'Lukas Quense']
+['Juan Diego', 'Lyon', 'Las Hualtatas 10725', 'Vitacura', 'Estoril', 'UAndes', 'JEFE', 56977684576, 'juandiegolyon@gmail.com', 'Joaquin Eichholz']
+['Bernardita', 'Mackenney', 'La Fontana 11221', 'Las Condes', 'San Carlos', 'UC', 'JEFE', 56978785698, 'bmackenney@uc.cl', 'Joaquin Eichholz']
+['Michella', 'Mascarello', 'Quinchamali 14336', 'Las Condes', 'Quinchamali', 'UC', 'JEFE', 56979878976, 'miki.mascarello@gmail.com', 'Joaquin Eichholz']
+['Vicente', 'Mayol', 'Paseo Pie Andino 6500 Casa O', 'Lo Barnechea', 'Los Trapenses', 'Monte Tabor', 'JEFE', 56978189115, 'vmayol@live.cl', 'Lukas Quense']
+['Jesu', 'Mckay', 'Blvd Jardin De Los Pajaros 4700 Casa 5', 'Lo Barnechea', 'Los Trapenses', 'CLA', 'JEFE', 56971837517, 'jesumckayg@hotmail.com', 'Joaquin Eichholz']
+['Ignacio', 'Montt', 'Rio Maule 475', 'Las Condes', 'Estoril', 'JEFE', 56954243532, 'imontt@miuandes.cl', 'Joaquin Eichholz']
+['Rodrigo', 'Morales', 'Los Trapenses 3230', 'Lo Barnechea', 'Los Trapenses', 'UDD', 'JEFE', 56975684552, 'morales.villar25@gmail.com', 'Ignacio Castañeda']
+['Ignacio', 'Morales', 'Cristobal Colon 4696 Dpto 1403', 'Las Condes', 'Colon', 'UC', 'JEFE', 56993024442, 'ibmorales@uc.cl', 'Lukas Quense']
+['Josefina', 'Nazer', 'Camino del ayuntamiento 2087', 'Lo Barnechea', 'La Dehesa', 'Newland', 'JEFE', 56998246537, 'cotenazer@hotmail.com', 'Joaquin Eichholz']
+['Raimundo', 'Opazo', 'Av Contralmirante Fernandez Vial 10455', 'Lo Barnechea', 'Los Trapenses', 'Monte Tabor', 'JEFE', 56952304675, 'opazoraimundo@gmail.com', 'Lukas Quense']
+['Trinidad', 'Ossa', 'Escribano Diego Rutal 2471', 'Vitacura', 'Vespucio', 'JEFE', 56978647106, 'trinidadossag@gmail.com', 'Ignacio Castañeda']
+['Sofia', 'Ovalle', 'Manuel Guzman Maturana 1900 Casa 9', 'Lo Barnechea', 'Los Trapenses', 'UDD', 'JEFE', 56987143347, 'maovallel@udd.cl', 'Lukas Quense']
+['Francesco', 'Pamparana', 'Parque Las Garzas 16, Condominio Las Banadadas', 'Chicureo', 'Piedra Roja', 'UDD', 'JEFE', 56984695829, 'pancho.pamparana@gmail.com', 'Lukas Quense']
+['Trinidad', 'Pereira', 'Punta de Aguilas 4311', 'Lo Barnechea', 'Los Trapenses', 'UAB', 'JEFE', 56968320616, 'trinipereira@gmail.com', 'Ignacio Castañeda']
+['Agustina', 'Pineda', 'Artigas 643', 'Vitacura', 'Santa Maria', 'Pacifico', 'JEFE', 56991997991, 'agustina-pineda@hotmail.com', 'Lukas Quense']
+['Benjamin', 'Piña', 'La Cienaga 12184', 'Lo Barnechea', 'La Dehesa', 'Uandes', 'JEFE', 56974529859, 'pina.benjamin@gmail.com', 'Ignacio Castañeda']
+['Lukas', 'Quense', 'Cerro Cortadera 9897', 'Lo Barnechea', 'Los Trapenses', 'UC', 'SOCIO', 56987217393, 'lukas.quense@gmail.com', 'Lukas Quense']
+['Josefina', 'Quiroga', 'Santa Rita 1017', 'Las Condes', 'San Carlos', 'UC', 'JEFE', 56981207671, 'josefinaquiroga7@hotmail.com', 'Ignacio Castañeda']
+['Rafa', 'Quiroga', 'Santa Rita 1017', 'Las Condes', 'San Carlos', 'CPH', 'JEFE', 56995408498, 'rafaquiroga7@gmail.com', 'Ignacio Castañeda']
+['Barbara', 'Rodriguez', 'Raimapu 6744', 'Vitacura', 'Santa Maria', 'Aleman', 'JEFE', 56956481962, 'barodriguez@dsstgo.cl', 'Lukas Quense']
+['Fede', 'Schilling', 'Laura Tromben 5754', 'Vitacura', 'Manquehue', 'Aleman', 'JEFE', 56979980568, 'federico.schilling@gmail.com', 'Lukas Quense']
+['Carola', 'Schumann', 'Pedro Canisio 1103 Dpto 142', 'Vitacura', 'Manquehue', 'UAI', 'JEFE', 56998263560, 'cschumann@alumnos.uai.cl', 'Ignacio Castañeda']
+['Cata', 'Tondreau', 'Francisco de Aguirre 4155', 'Vitacura', 'Vespucio', 'UC', 'JEFE', 56942723186, 'catalinatp_97@hotmail.com', 'Joaquin Eichholz']
+['Iñaki', 'Tramontana', 'Los Algarrobos 3 Casa 28', 'Chicureo', 'Piedra Roja', 'UDD', 'JEFE', 56996310424, 'Itramontanae@udd.cl', 'Lukas Quense']
+['Juan', 'Undurraga', 'Huilquehue 4367', 'Lo Barnechea', 'Los Trapenses', 'UAndes', 'JEFE', 56974397201, 'jundurraga3@miuandes.cl', 'Ignacio Castañeda']
+['Cristobal', 'Valdes', 'Los Queltehues 11524', 'Lo Barnechea', 'Los Trapenses', 'Cordillera', 'JEFE', 56964829508, 'cristobalvaldes99@gmail.com', 'Lukas Quense']
+['Antonia', 'Valencia', 'Las Campanas 681, Hacienda Chicureo', 'Chicureo', 'Piedra Roja', 'UAndes', 'JEFE', 56979769748, 'antovalencia@mac.com', 'Joaquin Eichholz']
+['Jesu', 'Valenzuela', 'Bombay 8825', 'Las Condes', 'Alto Las Condes', 'UC', 'JEFE', 56999699652, 'mjvalenzuela3@uc.cl', 'Joaquin Eichholz']
+['Pablo', 'Vial', 'Pachica 8279', 'Las Condes', 'Colon', 'UDD', 'JEFE', 56957230044, 'pabcontrerasm@udd.cl', 'Joaquin Eichholz']
+['Pedro', 'Vial', 'Padre Ted Huard 4144', 'Lo Barnechea', 'Los Trapenses', 'Monte Tabor', 'JEFE', 56966640363, 'pedrovialbo@gmail.com', 'Lukas Quense']
+['Paula', 'Villela', 'Camino La Fuente 2174', 'Las Condes', 'San Carlos', 'JEFE', 56957850035, 'pvillelacaerols@gmail.com', 'Joaquin Eichholz']
+['Gabriel', 'Villela', 'Las Estrellas 14043', 'Las Condes', 'Quinchamali', 'TIPS', 'JEFE', 56973979384, 'gk.alaluf@icloud.com', 'Lukas Quense']
+
+2017-10-07 21:12:44 USER: /vendedores
+2017-10-07 21:12:46 BOT : 0  - Amalia Abogabir
+1  - Maida Andrews
+2  - Gabriel Araneda
+3  - Martin Araos
+4  - Javi Bernaus
+5  - Paul Brenner
+6  - Alvaro Caeviedes
+7  - Ignacio Castañeda
+8  - Majo Castañeda
+9  - Vicky Chaparro
+10 - Antonia Cisternas
+11 - Josefa Covarrubias
+12 - Florencia Croxatto
+13 - Joaquin Daly
+14 - Dominique Daroch
+15 - Camila De La Sotta
+16 - Javi Del Rio
+17 - Amelia Del Rio
+18 - Constanza Delfau
+19 - Pilar Edwards
+20 - Joaquin Eichholz
+21 - Maria Jesus Elias
+22 - Rafael Errazuriz
+23 - Isidora Fernandez
+24 - Maria Luisa Fernandez
+25 - Rodrigo Fernandez
+26 - Tere Fernandez
+27 - Diego Figueroa
+28 - Matias Flores
+29 - Benjamin Hartmann
+30 - Mauricio Hernandez
+31 - Andres Infante
+32 - Cata Izcue
+33 - Margarita Joglar
+34 - Ric Jungk
+35 - Matias Krumm
+36 - Juan Diego Lyon
+37 - Bernardita Mackenney
+38 - Michella Mascarello
+39 - Vicente Mayol
+40 - Jesu Mckay
+41 - Ignacio Montt
+42 - Rodrigo Morales
+43 - Ignacio Morales
+44 - Josefina Nazer
+45 - Raimundo Opazo
+46 - Trinidad Ossa
+47 - Sofia Ovalle
+48 - Francesco Pamparana
+49 - Trinidad Pereira
+50 - Agustina Pineda
+51 - Benjamin Piña
+52 - Lukas Quense
+53 - Josefina Quiroga
+54 - Rafa Quiroga
+55 - Barbara Rodriguez
+56 - Fede Schilling
+57 - Carola Schumann
+58 - Cata Tondreau
+59 - Iñaki Tramontana
+60 - Juan Undurraga
+61 - Cristobal Valdes
+62 - Antonia Valencia
+63 - Jesu Valenzuela
+64 - Pablo Vial
+65 - Pedro Vial
+66 - Paula Villela
+67 - Gabriel Villela
+
+2017-10-07 21:18:26 USER: /datos 3
+2017-10-07 21:18:53 USER: /datos 3
+2017-10-07 21:18:58 BOT : *Gabriel Araneda*
+Direccion: Apoquindo 6797 Dpto 203-3
+Comuna: Las Condes
+Sector: Manquehue
+Universidad: UDD
+Telefono: JEFE
+Mail: 56976237859
+Encargado: garanedaa@udd.cl
+
+2017-10-07 21:19:36 USER: /vendedores

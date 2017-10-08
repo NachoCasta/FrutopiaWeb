@@ -3,12 +3,16 @@ import threading
 
 if __name__ == "__main__":
     from pedido_parser import Parser
-    from descargar_dropbox import descargar_excels
+    from descargar_dropbox import descargar_excels, descargar_jefes
+    from chatbot import ChatBot
+    from excel import excel_to_table
     rel = ""
 else:
     rel = "bot/"
     from bot.pedido_parser import Parser
-    from bot.descargar_dropbox import descargar_excels
+    from bot.descargar_dropbox import descargar_excels, descargar_jefes
+    from bot.chatbot import ChatBot
+    from bot.excel import excel_to_table
 
 
 def historial(func):
@@ -36,10 +40,13 @@ class MessageHandler:
             "start": self.start,
             "help": self.help,
             "ayuda": self.help,
-            "lector": self.lector
+            "lector": self.lector,
+            "jefes": self.jefes,
+            "datos": self.datos
             }
         self.parser = Parser()
         self.bot = bot
+        self.chatbot = ChatBot()
 
     @no_bot
     @historial
@@ -47,7 +54,10 @@ class MessageHandler:
         if mensaje[0] == "/":
             mensaje = mensaje.split()
             func, args = mensaje[0].strip("/"), mensaje[1:]
-            generador = self.funciones[func](*args)
+            try:
+                generador = self.funciones[func](*args)
+            except KeyError:
+                return "Funcion no encontrada."
             self.conversaciones[chat_id] = generador
             respuesta = next(generador)
             return respuesta
@@ -76,9 +86,11 @@ class MessageHandler:
             p = self.parser
             thread = threading.Thread(target=p.actualizar_equivalencias)
             thread.start()
-            yield "Espera un segundo...", "wait"
-            while thread.is_alive():
+            if self.bot:
                 yield "Espera un segundo...", "wait"
+            while thread.is_alive():
+                if self.bot:
+                    yield "Espera un segundo...", "wait"
             p.parse(pedidos.split("\n"))
             respuesta =  "```\n"
             respuesta += "{}:\n\n".format(p.pedido)
@@ -93,6 +105,42 @@ class MessageHandler:
         if respuesta.strip() == "":
             respuesta = "Lo siento, no entendí."
         yield respuesta, "continue"
+
+    def jefes(self):
+        thread = threading.Thread(target=descargar_jefes, args=(rel+"datos",))
+        thread.start()
+        if self.bot:
+            yield "Espera un segundo...", "wait"
+        while thread.is_alive():
+            if self.bot:
+                yield "Espera un segundo...", "wait"
+        tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
+        s = ""
+        for i, jefe in enumerate(tabla):
+            s += "{0:<2} - {1} {2}\n".format(i+1, jefe[0], jefe[1])
+        yield s
+        
+    def datos(self, id_jefe):
+        thread = threading.Thread(target=descargar_excels, args=(rel+"datos",))
+        thread.start()
+        if self.bot:
+            yield "Espera un segundo...", "wait"
+        while thread.is_alive():
+            if self.bot:
+                yield "Espera un segundo...", "wait"
+        tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
+        jefe = tabla[int(id_jefe)-1]
+        s = "*{} {}*\n".format(jefe[0], jefe[1])
+        s += "Direccion: {}\n".format(jefe[2])
+        s += "Comuna: {}\n".format(jefe[3])
+        s += "Sector: {}\n".format(jefe[4])
+        s += "Universidad: {}\n".format(jefe[5])
+        s += "Telefono: {}\n".format(jefe[7])
+        s += "Mail: {}\n".format(jefe[8])
+        s += "Encargado: {}\n".format(jefe[9])
+        yield s
+        
+        
 
 def leer(texto):
     with open(rel+"mensajes/{}.txt".format(texto)) as file:

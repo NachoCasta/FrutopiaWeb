@@ -1,2 +1,3 @@
 Mis funciones son las siguientes:
 /lector - Resumen pedido
+/jefes - Lista de jefes de
