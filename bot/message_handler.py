@@ -108,8 +108,8 @@ class MessageHandler:
 
     def jefes(self):
         try:
-            thread = threading.Thread(
-                target=lambda: descargar_jefes(rel+"datos"))
+            thread = threading.Thread(target=self.actualizar_jefes)
+                #target=descargar_jefes, args=(rel+"datos",))
             thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -126,7 +126,8 @@ class MessageHandler:
         
     def datos(self, id_jefe):
         try:
-            thread = threading.Thread(target=descargar_excels, args=(rel+"datos",))
+            thread = threading.Thread(
+                target=descargar_excels, args=(rel+"datos",))
             thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -146,6 +147,12 @@ class MessageHandler:
         except Exception as err:
             s = str(err)
         yield s, "continue"
+
+    def actualizar_jefes(self):
+        descargar_jefes(rel+"datos")
+
+    def actualizar_excels(self):
+        descargar_excels(rel+"datos")
         
         
 
