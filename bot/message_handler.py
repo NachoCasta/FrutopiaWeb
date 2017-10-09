@@ -108,7 +108,8 @@ class MessageHandler:
 
     def jefes(self):
         try:
-            thread = threading.Thread(target=descargar_jefes, args=(rel+"datos",))
+            thread = threading.Thread(
+                target=lambda k: descargar_jefes(rel+"datos"))
             thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
