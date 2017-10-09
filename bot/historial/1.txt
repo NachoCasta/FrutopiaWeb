@@ -218,3 +218,47 @@ Mail: 56976237859
 Encargado: garanedaa@udd.cl
 
 2017-10-07 21:19:36 USER: /vendedores
+2017-10-09 16:42:32 USER: /datos Nacho
+2017-10-09 16:42:34 BOT : No se han encontrado coincidencias
+2017-10-09 16:42:37 USER: /datos Maida
+2017-10-09 16:42:39 BOT : No se han encontrado coincidencias
+2017-10-09 16:42:43 USER: /datos maida andrews
+2017-10-09 16:42:43 BOT : datos() takes 2 positional arguments but 3 were given
+2017-10-09 16:44:25 USER: /datos maida andrews
+2017-10-09 16:44:27 BOT : can only concatenate list (not "tuple") to list
+2017-10-09 16:44:40 USER: /datos maida andrews
+2017-10-09 16:44:42 BOT : Esta es la coincidencia que se encontro:
+
+*M a*
+Direccion: i
+Comuna: d
+Sector: a
+Universidad:  
+Telefono: n
+Mail: d
+Encargado: r
+
+2017-10-09 16:45:14 USER: /datos maida andrews
+2017-10-09 16:45:15 BOT : Esta es la coincidencia que se encontro:
+
+*Maida Andrews*
+Direccion: Martin De Zamora 5245, Torre 2, Dpto 52
+Comuna: Las Condes
+Sector: Manquehue
+Universidad: VMA
+Telefono: 56954219968
+Mail: maidaandrews25@gmail.com
+Encargado: Joaquin Eichholz
+
+2017-10-09 16:45:26 USER: /datos joaqui ecihhz
+2017-10-09 16:45:27 BOT : Esta es la coincidencia que se encontro:
+
+*Joaquin Eichholz*
+Direccion: Estrella Del Norte 980 Dpto 154
+Comuna: Las Condes
+Sector: Alto Las Condes
+Universidad: UC
+Telefono: 56996324787
+Mail: joaquin.eichholz@gmail.com
+Encargado: Joaquin Eichholz
+

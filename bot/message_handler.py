@@ -1,5 +1,6 @@
 import time
 import threading
+import difflib
 
 if __name__ == "__main__":
     from pedido_parser import Parser
@@ -119,14 +120,25 @@ class MessageHandler:
             s = str(err)
         yield s, "continue"
         
-    def datos(self, id_jefe):
+    def datos(self, id_jefe, *args):
         try:
+            s = ""
             if self.bot:
                 yield "Espera un segundo...", "wait"
             descargar_jefes(rel+"datos")
             tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
-            jefe = tabla[int(id_jefe)-1]
-            s = "*{} {}*\n".format(jefe[0], jefe[1])
+            if is_int(id_jefe):
+                jefe = tabla[int(id_jefe)-1]
+            else:
+                nombres = [j[0] + " " + j[1] for j in tabla]
+                nombre = " ".join([id_jefe]+list(args))
+                match = difflib.get_close_matches(nombre, nombres)
+                if len(match) > 0:
+                    jefe = tabla[nombres.index(match[0])]
+                    s += "Esta es la coincidencia que se encontro:\n\n"
+                else:
+                    yield "No se han encontrado coincidencias", "continue"
+            s += "Nombre: *{} {}*\n".format(jefe[0], jefe[1])
             s += "Direccion: {}\n".format(jefe[2])
             s += "Comuna: {}\n".format(jefe[3])
             s += "Sector: {}\n".format(jefe[4])
@@ -148,6 +160,13 @@ def guardar_mensaje(chat_id, emisor, mensaje):
     with open(rel+"historial/{}.txt".format(chat_id), "a") as file:
         tiempo = time.strftime("%Y-%m-%d %H:%M:%S")
         file.write("{0} {1:<4}: {2}\n".format(tiempo, emisor, mensaje))
+
+def is_int(n):
+    try:
+        int(n)
+        return True
+    except ValueError:
+        return False
 
 if __name__ == "__main__":
     h = MessageHandler()
