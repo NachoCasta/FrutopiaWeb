@@ -123,7 +123,8 @@ class MessageHandler:
             respuesta += "\n\n"
             respuesta += "Total por persona:\n"
             respuesta += p.resumen_pedidos()
-            respuesta += "```"
+            respuesta += "```\n"
+            respuesta += "Poner en modo horizontal para ver correctamente."
         except Exception as err:
             respuesta = str(err)
         if respuesta.strip() == "":
