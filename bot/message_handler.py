@@ -55,7 +55,7 @@ class MessageHandler:
             mensaje = mensaje.split()
             func, args = mensaje[0].strip("/"), mensaje[1:]
             if func == "chat_id":
-                return chat_id
+                return str(chat_id)
             try:
                 generador = self.funciones[func](*args)
             except KeyError:
