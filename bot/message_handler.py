@@ -83,14 +83,10 @@ class MessageHandler:
     def lector(self):
         pedidos = yield "Envíame la lista de pedidos!"
         try:
-            p = self.parser
-            thread = threading.Thread(target=p.actualizar_equivalencias)
-            thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
-            while thread.is_alive():
-                if self.bot:
-                    yield "Espera un segundo...", "wait"
+            p = self.parser
+            p.actualizar_equivalencias()
             p.parse(pedidos.split("\n"))
             respuesta =  "```\n"
             respuesta += "{}:\n\n".format(p.pedido)
