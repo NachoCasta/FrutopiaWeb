@@ -42,7 +42,8 @@ class MessageHandler:
             "ayuda": self.help,
             "lector": self.lector,
             "jefes": self.jefes,
-            "datos": self.datos
+            "datos": self.datos,
+            "chat_id": self.chat_id
             }
         self.parser = Parser()
         self.bot = bot
@@ -54,6 +55,8 @@ class MessageHandler:
         if mensaje[0] == "/":
             mensaje = mensaje.split()
             func, args = mensaje[0].strip("/"), mensaje[1:]
+            if func == "chat_id":
+                return chat_id
             try:
                 generador = self.funciones[func](*args)
             except KeyError:
@@ -132,7 +135,7 @@ class MessageHandler:
             s += "Encargado: {}\n".format(jefe[9])
         except Exception as err:
             s = str(err)
-        yield s, "continue"        
+        yield s, "continue"
         
 
 def leer(texto):
