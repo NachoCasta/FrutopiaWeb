@@ -96,14 +96,18 @@ class Parser:
     def resumen_pedidos(self):
         s = ""
         jefes = sorted(self.jefes.keys())
-        s += " "*21
+        s += " "*17
         for producto in self.productos:
-            s += "{0: ^4}".format(mayus(producto[0:2]))
+            s += "{0: ^3}".format(mayus(producto[0:2]))
         s += "Total \n"
         for jefe in jefes:
-            s += "{0:<20}:".format(jefe)
+            if len(jefe) > 16:
+                nombre = jefe[:16]
+            else:
+                nombre = jefe
+            s += "{0:<16}:".format(nombre)
             for producto in self.productos:
-                s += "{0: ^4}".format(self.jefes[jefe][producto])
+                s += "{0: ^3}".format(self.jefes[jefe][producto])
             s += "{0: ^5}".format(self.total(jefe))
             s += "\n"
         return s
