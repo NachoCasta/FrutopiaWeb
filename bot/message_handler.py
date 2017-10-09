@@ -139,7 +139,7 @@ class MessageHandler:
 
 def leer(texto):
     with open(rel+"mensajes/{}.txt".format(texto)) as file:
-        s = "\n".join(file.readlines())
+        s = "".join(file.readlines())
     return s
 
 def guardar_mensaje(chat_id, emisor, mensaje):
