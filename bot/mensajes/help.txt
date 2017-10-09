@@ -1,6 +1,6 @@
 Mis funciones son las siguientes:
 /lector - Resumen pedido totales
-/lector_detalles - Resumen pedido por fruta
+/lector\_detalles - Resumen pedido por fruta
 /jefes - Lista de jefes
 /datos <id> - Datos del jefe <id>
 /datos <nombre> - Datos del jefe <nombre>
