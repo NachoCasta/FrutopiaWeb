@@ -108,14 +108,9 @@ class MessageHandler:
 
     def jefes(self):
         try:
-            thread = threading.Thread(target=self.actualizar_jefes)
-                #target=descargar_jefes, args=(rel+"datos",))
-            thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
-            while thread.is_alive():
-                if self.bot:
-                    yield "Espera un segundo...", "wait"
+            descargar_jefes(rel+"datos")
             tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
             s = ""
             for i, jefe in enumerate(tabla):
@@ -126,14 +121,9 @@ class MessageHandler:
         
     def datos(self, id_jefe):
         try:
-            thread = threading.Thread(
-                target=descargar_excels, args=(rel+"datos",))
-            thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
-            while thread.is_alive():
-                if self.bot:
-                    yield "Espera un segundo...", "wait"
+            descargar_jefes(rel+"datos")
             tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
             jefe = tabla[int(id_jefe)-1]
             s = "*{} {}*\n".format(jefe[0], jefe[1])
@@ -146,14 +136,7 @@ class MessageHandler:
             s += "Encargado: {}\n".format(jefe[9])
         except Exception as err:
             s = str(err)
-        yield s, "continue"
-
-    def actualizar_jefes(self):
-        descargar_jefes(rel+"datos")
-
-    def actualizar_excels(self):
-        descargar_excels(rel+"datos")
-        
+        yield s, "continue"        
         
 
 def leer(texto):
