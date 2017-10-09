@@ -43,7 +43,8 @@ class MessageHandler:
             "ayuda": self.help,
             "lector": self.lector,
             "jefes": self.jefes,
-            "datos": self.datos
+            "datos": self.datos,
+            "lector_detalles": self.lector_detalles
             }
         self.parser = Parser()
         self.bot = bot
