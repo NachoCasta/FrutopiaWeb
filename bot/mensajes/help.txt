@@ -1,3 +1,4 @@
 Mis funciones son las siguientes:
 /lector - Resumen pedido
-/jefes - Lista de jefes de
+/jefes - Lista de jefes
+/datos <id> - Datos del jefe <id>
