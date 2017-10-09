@@ -107,37 +107,43 @@ class MessageHandler:
         yield respuesta, "continue"
 
     def jefes(self):
-        thread = threading.Thread(target=descargar_jefes, args=(rel+"datos",))
-        thread.start()
-        if self.bot:
-            yield "Espera un segundo...", "wait"
-        while thread.is_alive():
+        try:
+            thread = threading.Thread(target=descargar_jefes, args=(rel+"datos",))
+            thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
-        tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
-        s = ""
-        for i, jefe in enumerate(tabla):
-            s += "{0:<2} - {1} {2}\n".format(i+1, jefe[0], jefe[1])
+            while thread.is_alive():
+                if self.bot:
+                    yield "Espera un segundo...", "wait"
+            tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
+            s = ""
+            for i, jefe in enumerate(tabla):
+                s += "{0:<2} - {1} {2}\n".format(i+1, jefe[0], jefe[1])
+        except Exception as err:
+            respuesta = str(err)
         yield s, "continue"
         
     def datos(self, id_jefe):
-        thread = threading.Thread(target=descargar_excels, args=(rel+"datos",))
-        thread.start()
-        if self.bot:
-            yield "Espera un segundo...", "wait"
-        while thread.is_alive():
+        try:
+            thread = threading.Thread(target=descargar_excels, args=(rel+"datos",))
+            thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
-        tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
-        jefe = tabla[int(id_jefe)-1]
-        s = "*{} {}*\n".format(jefe[0], jefe[1])
-        s += "Direccion: {}\n".format(jefe[2])
-        s += "Comuna: {}\n".format(jefe[3])
-        s += "Sector: {}\n".format(jefe[4])
-        s += "Universidad: {}\n".format(jefe[5])
-        s += "Telefono: {}\n".format(jefe[7])
-        s += "Mail: {}\n".format(jefe[8])
-        s += "Encargado: {}\n".format(jefe[9])
+            while thread.is_alive():
+                if self.bot:
+                    yield "Espera un segundo...", "wait"
+            tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
+            jefe = tabla[int(id_jefe)-1]
+            s = "*{} {}*\n".format(jefe[0], jefe[1])
+            s += "Direccion: {}\n".format(jefe[2])
+            s += "Comuna: {}\n".format(jefe[3])
+            s += "Sector: {}\n".format(jefe[4])
+            s += "Universidad: {}\n".format(jefe[5])
+            s += "Telefono: {}\n".format(jefe[7])
+            s += "Mail: {}\n".format(jefe[8])
+            s += "Encargado: {}\n".format(jefe[9])
+        except Exception as err:
+            respuesta = str(err)
         yield s, "continue"
         
         
