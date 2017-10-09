@@ -11,7 +11,7 @@ from utilidades import mayus, obtener_productos, crear_template_multiple
 from grafica.difusion_multiple import crear_difusion_multiple
 from bot.message_handler import MessageHandler
 
-secret = "hgckmlwpojiky54p9oimk6ht4rj0ioy54ghenjfknjrih398329fbfdihbsiuo"
+secret = "hgckmlwpojik9fbfdihbsiuo"
 bot = telepot.Bot("462586547:AAF0sLikfUc2-ixPIJ125NsWIhifMWQiBv8")
 bot.setWebhook("https://www.frutopiachile.cl/{}".format(secret), max_connections=1)
 

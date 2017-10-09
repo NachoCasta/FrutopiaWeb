@@ -162,11 +162,8 @@ class MessageHandler:
                 else:
                     yield "No se han encontrado coincidencias", "continue"
             s += "Nombre: *{} {}*\n".format(jefe[0], jefe[1])
-            s += "Direccion: {}\n".format(jefe[2])
-            s += "Comuna: {}\n".format(jefe[3])
-            s += "Sector: {}\n".format(jefe[4])
-            s += "Universidad: {}\n".format(jefe[5])
-            s += "Telefono: {}\n".format(jefe[7])
+            s += "Direccion: {}, {}\n".format(jefe[2], jefe[3])
+            s += "Telefono: +{}\n".format(jefe[7])
             s += "Mail: {}\n".format(jefe[8])
             s += "Encargado: {}\n".format(jefe[9])
         except Exception as err:
