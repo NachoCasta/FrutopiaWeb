@@ -160,8 +160,8 @@ def telegram_webhook():
         if len(list(respuesta)) == 2:
             respuesta, status = respuesta
         if status == "wait":
+            bot.sendMessage(chat_id, respuesta, "Markdown")
             while status == "wait":
-                bot.sendMessage(chat_id, respuesta, "Markdown")
                 respuesta, status = handler.responder(mensaje, chat_id)
         if respuesta == "":
             respuesta = "Error."

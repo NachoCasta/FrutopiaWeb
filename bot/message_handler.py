@@ -48,8 +48,8 @@ class MessageHandler:
         self.bot = bot
         self.chatbot = ChatBot()
 
-    @no_bot
     @historial
+    @no_bot
     def responder(self, mensaje, chat_id):
         if mensaje[0] == "/":
             mensaje = mensaje.split()
@@ -118,7 +118,7 @@ class MessageHandler:
         s = ""
         for i, jefe in enumerate(tabla):
             s += "{0:<2} - {1} {2}\n".format(i+1, jefe[0], jefe[1])
-        yield s
+        yield s, "continue"
         
     def datos(self, id_jefe):
         thread = threading.Thread(target=descargar_excels, args=(rel+"datos",))
@@ -138,7 +138,7 @@ class MessageHandler:
         s += "Telefono: {}\n".format(jefe[7])
         s += "Mail: {}\n".format(jefe[8])
         s += "Encargado: {}\n".format(jefe[9])
-        yield s
+        yield s, "continue"
         
         
 
