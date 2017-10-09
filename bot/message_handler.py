@@ -60,6 +60,8 @@ class MessageHandler:
                 generador = self.funciones[func](*args)
             except KeyError:
                 return "Funcion no encontrada."
+            except TypeError as err:
+                return str(err)
             self.conversaciones[chat_id] = generador
             respuesta = next(generador)
             return respuesta
