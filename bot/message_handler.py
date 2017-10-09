@@ -109,7 +109,7 @@ class MessageHandler:
     def jefes(self):
         try:
             thread = threading.Thread(
-                target=lambda k: descargar_jefes(rel+"datos"))
+                target=lambda: descargar_jefes(rel+"datos"))
             thread.start()
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -121,7 +121,7 @@ class MessageHandler:
             for i, jefe in enumerate(tabla):
                 s += "{0:<2} - {1} {2}\n".format(i+1, jefe[0], jefe[1])
         except Exception as err:
-            respuesta = str(err)
+            s = str(err)
         yield s, "continue"
         
     def datos(self, id_jefe):
@@ -144,7 +144,7 @@ class MessageHandler:
             s += "Mail: {}\n".format(jefe[8])
             s += "Encargado: {}\n".format(jefe[9])
         except Exception as err:
-            respuesta = str(err)
+            s = str(err)
         yield s, "continue"
         
         
