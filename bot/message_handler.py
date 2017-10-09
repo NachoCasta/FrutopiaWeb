@@ -121,7 +121,7 @@ class MessageHandler:
             respuesta += "Total por producto:\n"
             respuesta += p.total_por_producto()
             respuesta += "\n\n"
-            respuesta += "Total por persona:\n"
+            respuesta += "Detalle:\n"
             respuesta += p.resumen_pedidos()
             respuesta += "``` "
             respuesta += "Poner en modo horizontal para ver correctamente."
@@ -170,7 +170,9 @@ class MessageHandler:
         except Exception as err:
             s = str(err)
         yield s, "continue"
-        
+
+    def deudas(self):
+        pass
 
 def leer(texto):
     with open(rel+"mensajes/{}.txt".format(texto)) as file:

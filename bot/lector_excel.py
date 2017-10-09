@@ -9,7 +9,7 @@ def cargar_pedido(file, hoja):
         parse_cols="B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q," + \
         " R, S, T, U, V, W, X, Y, Z")
     deseadas = ["Nombre", "Apellido", "Direccion", "Comuna", "Sector",
-                "Telefono", "Mail", "Deuda"]
+                "Encargado", "Pagado", "Telefono", "Mail", "Deuda"]
     columnas = {}
     productos_keys = {}
     agregar = False
@@ -25,13 +25,13 @@ def cargar_pedido(file, hoja):
             agregar = True
     fin = 0
     for i in range(len(table)):
-        fila = table.irow(i).real
+        fila = table.iloc[i].real
         nombre = fila[0]
         if str(nombre) == "nan":
             fin = i
             break
     tabla = table[0:fin]
-    precios = table.irow(fin+9).real
+    precios = table.iloc[fin+9].real
 
     pedidos = []
     productos = utilidades.obtener_productos(todos=True)
@@ -41,7 +41,7 @@ def cargar_pedido(file, hoja):
             if producto["variable"] == variable:
                 productos_disponibles[variable] = producto
     for i in range(len(tabla)):
-        fila = tabla.irow(i).real
+        fila = tabla.iloc[i].real
         if fila[columnas["total"]] == 0:
             continue
         pedido = {}
@@ -52,6 +52,8 @@ def cargar_pedido(file, hoja):
                                      str(fila[columnas["apellido"]])))
         pedido["numero"] = int(fila[columnas["telefono"]])
         pedido["mail"] = fila[columnas["mail"]]
+        pedido["encargado"] = fila[columnas["encargado"]]
+        pedido["pagado"] = fila[columnas["pagado"]]
         for variable, x in productos_keys.items():
             producto = productos_disponibles[variable]
             pedido[variable] = fila[x]
