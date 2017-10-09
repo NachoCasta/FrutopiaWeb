@@ -107,6 +107,28 @@ class MessageHandler:
             respuesta = "Lo siento, no entendí."
         yield respuesta, "continue"
 
+    def lector_detalles(self):
+        pedidos = yield "Envíame la lista de pedidos!"
+        try:
+            if self.bot:
+                yield "Espera un segundo...", "wait"
+            p = self.parser
+            p.actualizar_equivalencias()
+            p.parse(pedidos.split("\n"))
+            respuesta =  "```\n"
+            respuesta += "{}:\n\n".format(p.pedido)
+            respuesta += "Total por producto:\n"
+            respuesta += p.total_por_producto()
+            respuesta += "\n\n"
+            respuesta += "Total por persona:\n"
+            respuesta += p.resumen_pedidos()
+            respuesta += "```"
+        except Exception as err:
+            respuesta = str(err)
+        if respuesta.strip() == "":
+            respuesta = "Lo siento, no entendí."
+        yield respuesta, "continue"
+
     def jefes(self):
         try:
             if self.bot:
