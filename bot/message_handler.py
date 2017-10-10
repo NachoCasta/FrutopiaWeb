@@ -201,7 +201,7 @@ class MessageHandler:
 
     @permiso("admin")
     def agregar_usuario(self, chat_id, rol, id_usuario):
-        if len(id_usuario) != 8 or not is_int(id_usuario):
+        if len(id_usuario) != 9 or not is_int(id_usuario):
             yield "chat\_id no valida."
         try:
             self.roles[rol].append(int(id_usuario))
@@ -234,7 +234,7 @@ def is_int(n):
 if __name__ == "__main__":
     h = MessageHandler()
 
-    i = 11111111
+    i = 111111111
 
     while True:
         r = h.responder(input(">>> "), i)
