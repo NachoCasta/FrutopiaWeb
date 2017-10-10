@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 try:
-    import bot.utilidades
+    import bot.utilidades as utilidades
 except Exception:
     import utilidades
 
