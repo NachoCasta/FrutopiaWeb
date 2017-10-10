@@ -1,7 +1,10 @@
 import pandas as pd
 import json
 
-import utilidades
+try:
+    import utilidades
+except Exception:
+    import bot.utilidades
 
 def cargar_pedido(file, hoja):
     table = pd.read_excel(
@@ -61,10 +64,14 @@ def cargar_pedido(file, hoja):
         pedido["deuda"] = fila[columnas["deuda"]]
         pedidos.append(pedido)
 
+    fecha_formato = file.replace(" ","").split("(")[0] + \
+                    "-" + hoja.split()[1].zfill(2)
+    fecha_formato = fecha_formato.split("/")[-1]
+
     info = {
         "pedido": hoja,
         "productos": list(productos_disponibles.values()),
-        "fecha_formato": file.replace(" ","").split("(")[0]+"-"+hoja.split()[1].zfill(2),
+        "fecha_formato": fecha_formato,
         "fecha": " de ".join((hoja, file.split("(")[1].split(")")[0],
                               file.split(" - ")[0]))
             }

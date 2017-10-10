@@ -7,14 +7,14 @@ if __name__ == "__main__":
     from pedido_parser import Parser
     from descargar_dropbox import descargar_excels, descargar_jefes
     from chatbot import ChatBot
-    from excel import excel_to_table
+    from excel import excel_to_table, cargar_pedidos, deudas_jefe
     rel = ""
 else:
     rel = "bot/"
     from bot.pedido_parser import Parser
     from bot.descargar_dropbox import descargar_excels, descargar_jefes
     from bot.chatbot import ChatBot
-    from bot.excel import excel_to_table
+    from bot.excel import excel_to_table, cargar_pedidos, deudas_jefe
 
 
 def historial(func):
@@ -68,7 +68,9 @@ class MessageHandler:
             "agregar": self.agregar_usuario,
             "chat_id": self.chat_id,
             "ver_roles": self.ver_roles,
-            "encargados": self.encargados
+            "encargados": self.encargados,
+            "deudas": self.deudas,
+            "cobranza": self.cobranza
             }
         with open(rel+"datos/roles.json", "r") as file:
             self.roles = json.load(file)
@@ -190,7 +192,7 @@ class MessageHandler:
                     s += "Esta es la coincidencia que se encontro:\n\n"
                 else:
                     yield "No se han encontrado coincidencias", "continue"
-            s += "Nombre: *{} {}*\n".format(jefe[0], jefe[1])
+            s += "*{} {}*\n\n".format(jefe[0], jefe[1])
             s += "Direccion: {}, {}\n".format(jefe[2], jefe[3])
             s += "Telefono: +{}\n".format(jefe[7])
             s += "Mail: {}\n".format(jefe[8].replace("_", "\\_"))
@@ -224,8 +226,36 @@ class MessageHandler:
         yield s.strip()
 
     @permiso("owner", "admin")
-    def deudas(self, chat_id):
-        pass
+    def deudas(self, chat_id, id_jefe, *args):
+        try:
+            s = ""
+            if self.bot:
+                yield "Espera un segundo...", "wait"
+            descargar_excels(rel+"datos")
+            tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
+            if is_int(id_jefe):
+                jefe = tabla[int(id_jefe)-1]
+            else:
+                nombres = [j[0] + " " + j[1] for j in tabla]
+                nombre = " ".join([id_jefe]+list(args))
+                match = difflib.get_close_matches(nombre, nombres)
+                if len(match) > 0:
+                    jefe = tabla[nombres.index(match[0])]
+                    s += "Esta es la coincidencia que se encontro:\n\n"
+                else:
+                    yield "No se han encontrado coincidencias", "continue"
+            nombre = jefe[0] + " " + jefe[1]
+            deudas = deudas_jefe(nombre)
+            s += "*{} {}*\n\n".format(jefe[0], jefe[1])
+            s += "Deudas:\n"
+            total = 0
+            for fecha, deuda in deudas:
+                s += "- {}: {}\n".format(fecha, deuda)
+                total += int(deuda)
+            s += "Total: {}".format(total)
+        except Exception as err:
+            s = str(err)
+        yield s.strip(), "continue"
 
     @permiso("owner", "admin")
     def cobranza(self, chat_id, encargado):

@@ -28,4 +28,4 @@ def descargar_jefes(download_path):
 
 
 if __name__ == "__main__":
-    descargar_jefes("datos")
+    descargar_excels("datos")

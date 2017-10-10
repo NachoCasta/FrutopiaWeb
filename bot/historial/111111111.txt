@@ -130,3 +130,26 @@ Repartidor:
 2017-10-10 16:17:37 BOT : 1  - Joaquin Eichholz
 2  - Ignacio Castañeda
 3  - Lukas Quense
+2017-10-10 19:00:53 USER: /deudas 3
+2017-10-10 19:00:59 BOT : local variable 's' referenced before assignment
+2017-10-10 19:01:00 USER: 
+2017-10-10 19:01:25 USER: /deudas majo castañeda
+2017-10-10 19:01:25 BOT : deudas() takes 3 positional arguments but 4 were given
+2017-10-10 19:01:46 USER: /deudas majo castañeda
+2017-10-10 19:01:53 BOT : Esta es la coincidencia que se encontro:
+
+Nombre: *Majo Castañeda*
+Deudas:
+- 2017-09-02: 18400
+- 2017-09-09: 12900
+- 2017-09-23: 37400
+- 2017-09-30: 16400
+2017-10-10 19:03:08 USER: /deudas constanza delfau
+2017-10-10 19:03:14 BOT : Esta es la coincidencia que se encontro:
+
+*Constanza Delfau*
+
+Deudas:
+- 2017-09-09: 78000
+- 2017-09-30: 55800
+Total: 133800
