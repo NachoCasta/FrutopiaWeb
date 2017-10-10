@@ -246,7 +246,7 @@ class MessageHandler:
                     yield "No se han encontrado coincidencias", "continue"
             nombre = jefe[0] + " " + jefe[1]
             deudas = deudas_jefe(nombre)
-            s += "*{} {}*\n\n".format(jefe[0], jefe[1])
+            s += "*{}*\n\n".format(nombre)
             s += "Deudas:\n"
             total = 0
             for fecha, deuda in deudas:

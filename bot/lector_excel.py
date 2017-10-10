@@ -2,9 +2,9 @@ import pandas as pd
 import json
 
 try:
-    import utilidades
-except Exception:
     import bot.utilidades
+except Exception:
+    import utilidades
 
 def cargar_pedido(file, hoja):
     table = pd.read_excel(
