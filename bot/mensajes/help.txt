@@ -2,5 +2,7 @@ Mis funciones son las siguientes:
 /lector - Resumen pedido totales
 /lector\_detalles - Resumen pedido por fruta
 /jefes - Lista de jefes
-/datos <id> - Datos del jefe <id>
-/datos <nombre> - Datos del jefe <nombre>
+/datos <jefe> - Datos del <jefe>
+/deudas <jefe> - Deudas del <jefe>
+/cobranza <encargado> - Deudores de <encargado>
+/encargados - Lisa de encargados

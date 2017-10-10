@@ -66,7 +66,9 @@ class MessageHandler:
             "datos": self.datos,
             "lector_detalles": self.lector_detalles,
             "agregar": self.agregar_usuario,
-            "chat_id": self.chat_id
+            "chat_id": self.chat_id,
+            "ver_roles": self.ver_roles,
+            "encargados": self.encargados
             }
         with open(rel+"datos/roles.json", "r") as file:
             self.roles = json.load(file)
@@ -82,7 +84,7 @@ class MessageHandler:
             func, args = mensaje[0].strip("/"), mensaje[1:]
             try:
                 generador = self.funciones[func](chat_id, *args)
-            except KeyError:
+            except KeyError as err:
                 return "Funcion no encontrada."
             except TypeError as err:
                 return str(err)
@@ -108,7 +110,7 @@ class MessageHandler:
     def help(self, chat_id):
         yield leer("help")
 
-    @permiso("admin", "moderador")
+    @permiso("owner", "admin", "moderador")
     def lector(self, chat_id):
         pedidos = yield "Envíame la lista de pedidos!"
         try:
@@ -131,7 +133,7 @@ class MessageHandler:
             respuesta = "Lo siento, no entendí."
         yield respuesta, "continue"
 
-    @permiso("admin", "moderador")
+    @permiso("owner", "admin", "moderador")
     def lector_detalles(self, chat_id):
         pedidos = yield "Envíame la lista de pedidos!"
         try:
@@ -155,7 +157,7 @@ class MessageHandler:
             respuesta = "Lo siento, no entendí."
         yield respuesta, "continue"
 
-    @permiso("admin", "moderador", "repartidor")
+    @permiso("owner", "admin", "moderador", "repartidor")
     def jefes(self, chat_id):
         try:
             if self.bot:
@@ -169,7 +171,7 @@ class MessageHandler:
             s = str(err)
         yield s, "continue"
 
-    @permiso("admin", "moderador", "repartidor")
+    @permiso("owner", "admin", "moderador", "repartidor")
     def datos(self, chat_id, id_jefe, *args):
         try:
             s = ""
@@ -197,11 +199,7 @@ class MessageHandler:
             s = str(err)
         yield s, "continue"
 
-    @permiso("admin", "moderador")
-    def deudas(self, chat_id):
-        pass
-
-    @permiso("admin")
+    @permiso("owner")
     def agregar_usuario(self, chat_id, rol, id_usuario):
         if len(id_usuario) != 9 or not is_int(id_usuario):
             yield "chat\_id no valida."
@@ -216,6 +214,39 @@ class MessageHandler:
     def chat_id(self, chat_id):
         yield str(chat_id)
 
+    @permiso("owner", "admin")
+    def ver_roles(self, chat_id):
+        s = ""
+        for rol in self.roles:
+            s += mayus(rol) + ":\n"
+            for usuario in self.roles[rol]:
+                s += " - {}\n".format(usuario)
+        yield s.strip()
+
+    @permiso("owner", "admin")
+    def deudas(self, chat_id):
+        pass
+
+    @permiso("owner", "admin")
+    def cobranza(self, chat_id, encargado):
+        pass
+
+    @permiso("owner", "admin")
+    def encargados(self, chat_id):
+        try:
+            if self.bot:
+                yield "Espera un segundo...", "wait"
+            descargar_jefes(rel+"datos")
+            tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
+            encargados = list(set([jefe[9] for jefe in tabla]))
+            s = ""
+            for i, encargado in enumerate(encargados):
+                s += "{0:<2} - {1}\n".format(i+1, encargado)
+        except Exception as err:
+            s = str(err)
+        yield s.strip(), "continue"
+        
+        
 def leer(texto):
     with open(rel+"mensajes/{}.txt".format(texto)) as file:
         s = "".join(file.readlines())
@@ -232,6 +263,9 @@ def is_int(n):
         return True
     except ValueError:
         return False
+
+def mayus(string):
+    return " ".join([s[0].upper() + s[1:] for s in string.split()])
 
 if __name__ == "__main__":
     h = MessageHandler()

@@ -1,0 +1,132 @@
+2017-10-10 15:01:37 USER: /ver_roles
+2017-10-10 15:01:37 BOT : Funcion no encontrada.
+2017-10-10 15:02:09 USER: /ver_roles
+2017-10-10 15:02:42 USER: /ver_roles
+2017-10-10 15:02:42 BOT : Admin:
+ - 308964210
+ - 111111111
+Moderador:
+ - 472995729
+Repartidor:
+
+2017-10-10 15:03:35 USER: /ver_roles
+2017-10-10 15:03:35 BOT : Admin:
+ - 308964210
+ - 111111111
+Moderador:
+ - 472995729
+Repartidor:
+2017-10-10 16:07:57 USER: /encargados
+2017-10-10 16:07:57 BOT : Funcion no encontrada.
+2017-10-10 16:08:13 USER: /encargados
+2017-10-10 16:08:13 BOT : Funcion no encontrada.
+2017-10-10 16:08:22 USER: /encargados
+2017-10-10 16:08:22 BOT : Funcion no encontrada.
+2017-10-10 16:08:38 USER: /encargados
+2017-10-10 16:08:38 BOT : Funcion no encontrada.
+2017-10-10 16:08:53 USER: /encargados
+2017-10-10 16:08:53 BOT : Funcion no encontrada.
+2017-10-10 16:08:56 USER: asd
+2017-10-10 16:08:56 BOT : Chat
+2017-10-10 16:09:02 USER: /help
+2017-10-10 16:09:02 BOT : Mis funciones son las siguientes:
+/lector - Resumen pedido totales
+/lector\_detalles - Resumen pedido por fruta
+/jefes - Lista de jefes
+/datos <jefe> - Datos del <jefe>
+/deudas <jefe> - Deudas del <jefe>
+/cobranza <encargado> - Deudores de <encargado>
+/encargados - Lisa de encargados
+2017-10-10 16:09:16 USER: /encargados
+2017-10-10 16:09:16 BOT : Funcion no encontrada.
+2017-10-10 16:09:34 USER: /encargados
+2017-10-10 16:09:34 BOT : Funcion no encontrada.
+2017-10-10 16:10:03 USER: /encargados
+2017-10-10 16:10:03 BOT : Funcion no encontrada.
+2017-10-10 16:10:07 USER: encargados
+2017-10-10 16:10:07 BOT : Chat
+2017-10-10 16:10:11 USER: /encargados
+2017-10-10 16:10:11 BOT : Funcion no encontrada.
+2017-10-10 16:11:32 USER: /encargados
+2017-10-10 16:11:32 BOT : Funcion no encontrada.
+2017-10-10 16:12:01 USER: /encargados
+2017-10-10 16:12:01 BOT : Funcion no encontrada.
+2017-10-10 16:12:23 USER: /encargados
+2017-10-10 16:13:44 USER: /encargados
+2017-10-10 16:13:47 BOT : list index out of range
+2017-10-10 16:14:18 USER: /encargados
+2017-10-10 16:14:23 BOT : 1  - miki.mascarello@gmail.com
+2  - pina.benjamin@gmail.com
+3  - josefacovarrubias@gmail.com
+4  - mauhernand@fen.uchile.cl
+5  - gk.alaluf@icloud.com
+6  - jundurraga3@miuandes.cl
+7  - dalyjoaquin@gmail.com
+8  - juandiegolyon@gmail.com
+9  - cotenazer@hotmail.com
+10 - piliedwards@gmail.com
+11 - mjcastaneda@miuandes.cl
+12 - hartmann12@gmail.com
+13 - agustina-pineda@hotmail.com
+14 - cataizcue@gmail.com
+15 - andres_infanter@hotmail.com
+16 - rfernandezdelrio@uc.cl
+17 - araos.m13@gmail.com
+18 - jesumckayg@hotmail.com
+19 - trinipereira@gmail.com
+20 - catalinatp_97@hotmail.com
+21 - antovalencia@mac.com
+22 - bmackenney@uc.cl
+23 - Ignacio Castañeda
+24 - cschumann@alumnos.uai.cl
+25 - cristobalvaldes99@gmail.com
+26 - Lukas Quense
+27 - matifloresdonetch@hotmail.com
+28 - rtjungk@miuandes.cl
+29 - Itramontanae@udd.cl
+30 - pabcontrerasm@udd.cl
+31 - paulmartinbrenner@hotmail.com
+32 - pancho.pamparana@gmail.com
+33 - jbernaus@alumnos.uai.cl
+34 - acaeviedes@uc.cl
+35 - icastanedaw@gmail.com
+36 - guisa97@hotmail.com
+37 - jpdelrio@uc.cl
+38 - mchaparroh@udd.cl
+39 - camila.delasotta@gmail.com
+40 - joaquin.eichholz@gmail.com
+41 - rerrazurizf@udd.cl
+42 - opazoraimundo@gmail.com
+43 - adelrioa@fen.uchile.cl
+44 - fcroxatto@uc.cl
+45 - maidaandrews25@gmail.com
+46 - morales.villar25@gmail.com
+47 - josefinaquiroga7@hotmail.com
+48 - vmayol@live.cl
+49 - rafaquiroga7@gmail.com
+50 - ibmorales@uc.cl
+51 - mjvalenzuela3@uc.cl
+52 - terefernandez99@yahoo.com
+53 - lukas.quense@gmail.com
+54 - amalia.abr@gmail.com
+55 - maovallel@udd.cl
+56 - dominique_daroch@hotmail.com
+57 - conidelfau@gmail.com
+58 - Joaquin Eichholz
+59 - pedrovialbo@gmail.com
+60 - meliasm@udd.cl
+61 - garanedaa@udd.cl
+62 - matiask7@gmail.com
+63 - federico.schilling@gmail.com
+64 - ifernandez1@miuandes.cl
+65 - barodriguez@dsstgo.cl
+2017-10-10 16:14:42 USER: /encargados
+2017-10-10 16:14:47 BOT : list index out of range
+2017-10-10 16:15:38 USER: /encargado
+2017-10-10 16:15:38 BOT : Funcion no encontrada.
+2017-10-10 16:15:41 USER: /encargados
+2017-10-10 16:15:45 BOT : list index out of range
+2017-10-10 16:17:34 USER: /encargados
+2017-10-10 16:17:37 BOT : 1  - Joaquin Eichholz
+2  - Ignacio Castañeda
+3  - Lukas Quense

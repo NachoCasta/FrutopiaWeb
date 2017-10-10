@@ -13,7 +13,7 @@ def excel_to_table(file, hoja):
         if str(nombre) == " " or str(nombre) == "nan" or str(nombre) == "":
             break
     tabla = table[0:fin]
-    tabla = [[j for j in tabla.iloc[i].real if str(j) != "nan"]
+    tabla = [[j for j in tabla.iloc[i].real]
              for i in range(len(tabla))]
     return tabla
 
