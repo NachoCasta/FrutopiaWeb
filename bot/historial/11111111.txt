@@ -1,0 +1,151 @@
+2017-10-10 14:09:56 USER: /chat_id
+2017-10-10 14:09:56 BOT : 11111111
+2017-10-10 14:12:39 USER: hola
+2017-10-10 14:12:39 BOT : Chat
+2017-10-10 14:12:43 USER: /jefs
+2017-10-10 14:12:43 BOT : Funcion no encontrada.
+2017-10-10 14:12:45 USER: /jefes
+2017-10-10 14:12:49 BOT : ('1  - Amalia Abogabir\n2  - Maida Andrews\n3  - Gabriel Araneda\n4  - Martin Araos\n5  - Javi Bernaus\n6  - Paul Brenner\n7  - Alvaro Caeviedes\n8  - Ignacio Castañeda\n9  - Majo Castañeda\n10 - Vicky Chaparro\n11 - Antonia Cisternas\n12 - Josefa Covarrubias\n13 - Florencia Croxatto\n14 - Joaquin Daly\n15 - Dominique Daroch\n16 - Camila De La Sotta\n17 - Javi Del Rio\n18 - Amelia Del Rio\n19 - Constanza Delfau\n20 - Pilar Edwards\n21 - Joaquin Eichholz\n22 - Maria Jesus Elias\n23 - Rafael Errazuriz\n24 - Isidora Fernandez\n25 - Maria Luisa Fernandez\n26 - Rodrigo Fernandez\n27 - Tere Fernandez\n28 - Diego Figueroa\n29 - Matias Flores\n30 - Benjamin Hartmann\n31 - Mauricio Hernandez\n32 - Andres Infante\n33 - Cata Izcue\n34 - Margarita Joglar\n35 - Ric Jungk\n36 - Matias Krumm\n37 - Juan Diego Lyon\n38 - Bernardita Mackenney\n39 - Michella Mascarello\n40 - Vicente Mayol\n41 - Jesu Mckay\n42 - Ignacio Montt\n43 - Rodrigo Morales\n44 - Ignacio Morales\n45 - Josefina Nazer\n46 - Raimundo Opazo\n47 - Trinidad Ossa\n48 - Sofia Ovalle\n49 - Francesco Pamparana\n50 - Trinidad Pereira\n51 - Agustina Pineda\n52 - Benjamin Piña\n53 - Lukas Quense\n54 - Josefina Quiroga\n55 - Rafa Quiroga\n56 - Barbara Rodriguez\n57 - Fede Schilling\n58 - Carola Schumann\n59 - Cata Tondreau\n60 - Iñaki Tramontana\n61 - Juan Undurraga\n62 - Cristobal Valdes\n63 - Antonia Valencia\n64 - Jesu Valenzuela\n65 - Pablo Vial\n66 - Pedro Vial\n67 - Paula Villela\n68 - Gabriel Villela\n', 'continue')
+2017-10-10 14:13:12 USER: type(("asd",12))
+2017-10-10 14:13:12 BOT : Chat
+2017-10-10 14:13:14 USER: 
+2017-10-10 14:14:06 USER: /jefes
+2017-10-10 14:14:09 BOT : 1  - Amalia Abogabir
+2  - Maida Andrews
+3  - Gabriel Araneda
+4  - Martin Araos
+5  - Javi Bernaus
+6  - Paul Brenner
+7  - Alvaro Caeviedes
+8  - Ignacio Castañeda
+9  - Majo Castañeda
+10 - Vicky Chaparro
+11 - Antonia Cisternas
+12 - Josefa Covarrubias
+13 - Florencia Croxatto
+14 - Joaquin Daly
+15 - Dominique Daroch
+16 - Camila De La Sotta
+17 - Javi Del Rio
+18 - Amelia Del Rio
+19 - Constanza Delfau
+20 - Pilar Edwards
+21 - Joaquin Eichholz
+22 - Maria Jesus Elias
+23 - Rafael Errazuriz
+24 - Isidora Fernandez
+25 - Maria Luisa Fernandez
+26 - Rodrigo Fernandez
+27 - Tere Fernandez
+28 - Diego Figueroa
+29 - Matias Flores
+30 - Benjamin Hartmann
+31 - Mauricio Hernandez
+32 - Andres Infante
+33 - Cata Izcue
+34 - Margarita Joglar
+35 - Ric Jungk
+36 - Matias Krumm
+37 - Juan Diego Lyon
+38 - Bernardita Mackenney
+39 - Michella Mascarello
+40 - Vicente Mayol
+41 - Jesu Mckay
+42 - Ignacio Montt
+43 - Rodrigo Morales
+44 - Ignacio Morales
+45 - Josefina Nazer
+46 - Raimundo Opazo
+47 - Trinidad Ossa
+48 - Sofia Ovalle
+49 - Francesco Pamparana
+50 - Trinidad Pereira
+51 - Agustina Pineda
+52 - Benjamin Piña
+53 - Lukas Quense
+54 - Josefina Quiroga
+55 - Rafa Quiroga
+56 - Barbara Rodriguez
+57 - Fede Schilling
+58 - Carola Schumann
+59 - Cata Tondreau
+60 - Iñaki Tramontana
+61 - Juan Undurraga
+62 - Cristobal Valdes
+63 - Antonia Valencia
+64 - Jesu Valenzuela
+65 - Pablo Vial
+66 - Pedro Vial
+67 - Paula Villela
+68 - Gabriel Villela
+
+2017-10-10 14:14:49 USER: /jefes
+2017-10-10 14:14:51 BOT : 1  - Amalia Abogabir
+2  - Maida Andrews
+3  - Gabriel Araneda
+4  - Martin Araos
+5  - Javi Bernaus
+6  - Paul Brenner
+7  - Alvaro Caeviedes
+8  - Ignacio Castañeda
+9  - Majo Castañeda
+10 - Vicky Chaparro
+11 - Antonia Cisternas
+12 - Josefa Covarrubias
+13 - Florencia Croxatto
+14 - Joaquin Daly
+15 - Dominique Daroch
+16 - Camila De La Sotta
+17 - Javi Del Rio
+18 - Amelia Del Rio
+19 - Constanza Delfau
+20 - Pilar Edwards
+21 - Joaquin Eichholz
+22 - Maria Jesus Elias
+23 - Rafael Errazuriz
+24 - Isidora Fernandez
+25 - Maria Luisa Fernandez
+26 - Rodrigo Fernandez
+27 - Tere Fernandez
+28 - Diego Figueroa
+29 - Matias Flores
+30 - Benjamin Hartmann
+31 - Mauricio Hernandez
+32 - Andres Infante
+33 - Cata Izcue
+34 - Margarita Joglar
+35 - Ric Jungk
+36 - Matias Krumm
+37 - Juan Diego Lyon
+38 - Bernardita Mackenney
+39 - Michella Mascarello
+40 - Vicente Mayol
+41 - Jesu Mckay
+42 - Ignacio Montt
+43 - Rodrigo Morales
+44 - Ignacio Morales
+45 - Josefina Nazer
+46 - Raimundo Opazo
+47 - Trinidad Ossa
+48 - Sofia Ovalle
+49 - Francesco Pamparana
+50 - Trinidad Pereira
+51 - Agustina Pineda
+52 - Benjamin Piña
+53 - Lukas Quense
+54 - Josefina Quiroga
+55 - Rafa Quiroga
+56 - Barbara Rodriguez
+57 - Fede Schilling
+58 - Carola Schumann
+59 - Cata Tondreau
+60 - Iñaki Tramontana
+61 - Juan Undurraga
+62 - Cristobal Valdes
+63 - Antonia Valencia
+64 - Jesu Valenzuela
+65 - Pablo Vial
+66 - Pedro Vial
+67 - Paula Villela
+68 - Gabriel Villela
+

@@ -1,6 +1,7 @@
 import time
 import threading
 import difflib
+import json
 
 if __name__ == "__main__":
     from pedido_parser import Parser
@@ -20,6 +21,8 @@ def historial(func):
     def _responder(self, mensaje, chat_id):
         guardar_mensaje(chat_id, "USER", mensaje)
         respuesta = func(self, mensaje, chat_id)
+        if type(respuesta).__name__ == "tuple":
+            respuesta = respuesta[0]
         guardar_mensaje(chat_id, "BOT", respuesta)
         return respuesta
     return _responder
@@ -28,10 +31,25 @@ def no_bot(func):
     def _responder(self, mensaje, chat_id):
         respuesta = func(self, mensaje, chat_id)
         if not self.bot:
-            if len(list(respuesta)) == 2:
+            if type(respuesta).__name__ == "tuple":
                 respuesta = respuesta[0]
         return respuesta
     return _responder
+
+def permiso(*roles):
+    def _permiso(func):
+        def _func(self, chat_id, *args):
+            for rol in roles:
+                if chat_id in self.roles[rol]:
+                    break
+            else:
+                def no_permiso():
+                    yield "No tienes permiso para utilizar esta función"
+                return no_permiso()
+            return func(self, chat_id, *args)
+        return _func
+    return _permiso
+    
 
 class MessageHandler:
 
@@ -44,8 +62,12 @@ class MessageHandler:
             "lector": self.lector,
             "jefes": self.jefes,
             "datos": self.datos,
-            "lector_detalles": self.lector_detalles
+            "lector_detalles": self.lector_detalles,
+            "agregar": self.agregar_usuario,
+            "chat_id": self.chat_id
             }
+        with open(rel+"datos/roles.json", "r") as file:
+            self.roles = json.load(file)
         self.parser = Parser()
         self.bot = bot
         self.chatbot = ChatBot()
@@ -56,10 +78,8 @@ class MessageHandler:
         if mensaje[0] == "/":
             mensaje = mensaje.split()
             func, args = mensaje[0].strip("/"), mensaje[1:]
-            if func == "chat_id":
-                return str(chat_id)
             try:
-                generador = self.funciones[func](*args)
+                generador = self.funciones[func](chat_id, *args)
             except KeyError:
                 return "Funcion no encontrada."
             except TypeError as err:
@@ -70,23 +90,24 @@ class MessageHandler:
         elif chat_id in self.conversaciones:
             generador = self.conversaciones[chat_id]
         else:
-            return self.chat_bot(mensaje)
+            return self.chat_bot(chat_id, mensaje)
         try:
             respuesta = generador.send(mensaje)
             return respuesta
         except (StopIteration, NameError):
-            return self.chat_bot(mensaje)
+            return self.chat_bot(chat_id, mensaje)
 
-    def chat_bot(self, mensaje):
+    def chat_bot(self, chat_id, mensaje):
         return "Chat"
     
-    def start(self):
+    def start(self, chat_id):
         yield leer("start")
 
-    def help(self):
+    def help(self, chat_id):
         yield leer("help")
 
-    def lector(self):
+    @permiso("admin", "moderador")
+    def lector(self, chat_id):
         pedidos = yield "Envíame la lista de pedidos!"
         try:
             if self.bot:
@@ -108,7 +129,8 @@ class MessageHandler:
             respuesta = "Lo siento, no entendí."
         yield respuesta, "continue"
 
-    def lector_detalles(self):
+    @permiso("admin", "moderador")
+    def lector_detalles(self, chat_id):
         pedidos = yield "Envíame la lista de pedidos!"
         try:
             if self.bot:
@@ -131,7 +153,8 @@ class MessageHandler:
             respuesta = "Lo siento, no entendí."
         yield respuesta, "continue"
 
-    def jefes(self):
+    @permiso("admin", "moderador", "repartidor")
+    def jefes(self, chat_id):
         try:
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -143,8 +166,9 @@ class MessageHandler:
         except Exception as err:
             s = str(err)
         yield s, "continue"
-        
-    def datos(self, id_jefe, *args):
+
+    @permiso("admin", "moderador", "repartidor")
+    def datos(self, chat_id, id_jefe, *args):
         try:
             s = ""
             if self.bot:
@@ -171,8 +195,24 @@ class MessageHandler:
             s = str(err)
         yield s, "continue"
 
-    def deudas(self):
+    @permiso("admin", "moderador")
+    def deudas(self, chat_id):
         pass
+
+    @permiso("admin")
+    def agregar_usuario(self, chat_id, rol, id_usuario):
+        if len(id_usuario) != 8 or not is_int(id_usuario):
+            yield "chat\_id no valida."
+        try:
+            self.roles[rol].append(int(id_usuario))
+        except KeyError:
+            yield "Rol no válido."
+        with open(rel+"datos/roles.json", "w") as file:
+            json.dump(self.roles, file, sort_keys=True, indent=4)
+        yield "Hecho!"
+
+    def chat_id(self, chat_id):
+        yield str(chat_id)
 
 def leer(texto):
     with open(rel+"mensajes/{}.txt".format(texto)) as file:
@@ -194,7 +234,7 @@ def is_int(n):
 if __name__ == "__main__":
     h = MessageHandler()
 
-    i = 1
+    i = 11111111
 
     while True:
         r = h.responder(input(">>> "), i)

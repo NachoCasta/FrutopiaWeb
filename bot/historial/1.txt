@@ -263,3 +263,13 @@ Mail: joaquin.eichholz@gmail.com
 Encargado: Joaquin Eichholz
 
 2017-10-09 16:54:16 USER: 
+2017-10-09 23:35:59 USER: /datos
+2017-10-09 23:35:59 BOT : datos() missing 1 required positional argument: 'id_jefe'
+2017-10-10 12:47:54 USER: /agregar moderador 123123
+2017-10-10 12:47:54 BOT : Hecho!
+2017-10-10 12:48:58 USER: /agregar moderador 12312765
+2017-10-10 12:48:58 BOT : Hecho!
+2017-10-10 13:55:36 USER: /lector
+2017-10-10 13:57:04 USER: /lector
+2017-10-10 13:57:04 BOT : No tienes permiso para utilizar esta función
+2017-10-10 13:57:06 USER: 
