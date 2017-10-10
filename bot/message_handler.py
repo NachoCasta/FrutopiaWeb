@@ -165,7 +165,7 @@ class MessageHandler:
             s += "Nombre: *{} {}*\n".format(jefe[0], jefe[1])
             s += "Direccion: {}, {}\n".format(jefe[2], jefe[3])
             s += "Telefono: +{}\n".format(jefe[7])
-            s += "Mail: {}\n".format(jefe[8])
+            s += "Mail: {}\n".format(jefe[8].replace("_", "\\_"))
             s += "Encargado: {}\n".format(jefe[9])
         except Exception as err:
             s = str(err)
