@@ -23,6 +23,8 @@ def historial(func):
         respuesta = func(self, mensaje, chat_id)
         if type(respuesta).__name__ == "tuple":
             respuesta_a_guardar = respuesta[0]
+        else:
+            respuesta_a_guardar = respuesta
         guardar_mensaje(chat_id, "BOT", respuesta_a_guardar)
         return respuesta
     return _responder
