@@ -262,7 +262,7 @@ class MessageHandler:
         try:
             if self.bot:
                 yield "Espera un segundo...", "wait"
-            #descargar_excels(rel+"datos")
+            descargar_excels(rel+"datos")
             tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
             encargados = list(set([jefe[9] for jefe in tabla]))
             if is_int(encargado):
@@ -274,6 +274,7 @@ class MessageHandler:
                     encargado = match[0]
                 else:
                     yield "No se han encontrado coincidencias", "continue"
+            yield "Encargado: {}".format(encargado), "more"
             jefes = [jefe[0] + " " + jefe[1] for jefe in tabla
                      if jefe[9] == encargado]
             for jefe in jefes:
