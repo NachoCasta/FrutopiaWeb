@@ -288,11 +288,12 @@ class MessageHandler:
                     continue
                 d += "Total: {}".format(total)
                 s = s.format(nombre=jefe, deudas=d)
+                yield jefe, "more"
                 yield s, "more"
         except Exception as err:
             raise err
             s = str(err)
-        yield s.strip(), "continue"
+        yield "Listo!", "continue"
 
     @permiso("owner", "admin")
     def encargados(self, chat_id):
