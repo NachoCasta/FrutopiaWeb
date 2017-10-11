@@ -166,3 +166,14 @@ Deudas:
 - 2017-09-23: 37400
 - 2017-09-30: 16400
 Total: 85100
+2017-10-10 19:48:39 USER: /deudas majo castañeda
+2017-10-10 19:48:46 BOT : Esta es la coincidencia que se encontro:
+
+*Majo Castañeda*
+
+Deudas:
+- 2017/09/02: 18400
+- 2017/09/09: 12900
+- 2017/09/23: 37400
+- 2017/09/30: 16400
+Total: 85100

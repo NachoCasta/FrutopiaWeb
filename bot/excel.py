@@ -43,7 +43,8 @@ def deudas_jefe(jefe, path=rel+"datos"):
         for persona in pedidos[fecha]:
             if persona["nombre"] == jefe:
                 if persona["pagado"] == "NO":
-                    deudas_jefe.append((fecha, persona["deuda"]))
+                    deudas_jefe.append(
+                        (fecha.replace("-", "/"), persona["deuda"]))
     return deudas_jefe
             
 
