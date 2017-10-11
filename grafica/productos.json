@@ -9,7 +9,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "frutillas",
-            "variable_precio": "f_precio"
+            "variable_precio": "f_precio",
+            "orden": 1
         }
     },
     "mandarinas": {
@@ -22,7 +23,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "mandarinas",
-            "variable_precio": "m_precio"
+            "variable_precio": "m_precio",
+            "orden": 2
         }
     },
     "naranjas": {
@@ -35,7 +37,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "naranjas",
-            "variable_precio": "nar_precio"
+            "variable_precio": "nar_precio",
+            "orden": 5
         }
     },
     "paltas hass": {
@@ -48,7 +51,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "paltas",
-            "variable_precio": "p_precio"
+            "variable_precio": "p_precio",
+            "orden": 2
         }
     },
     "quesos": {
@@ -61,7 +65,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "quesos",
-            "variable_precio": "q_precio"
+            "variable_precio": "q_precio",
+            "orden": 3
         }
     },
     "tomates cherry": {
@@ -74,7 +79,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "tomatecherry",
-            "variable_precio": "t_precio"
+            "variable_precio": "t_precio",
+            "orden": 4
         }
     },
     "nueces": {
@@ -87,7 +93,8 @@
             "svg": "frutilla.txt",
             "unidad": "gr",
             "variable": "nueces",
-            "variable_precio": "nue_precio"
+            "variable_precio": "nue_precio",
+            "orden": 8
         }
     },
     "mani": {
@@ -100,7 +107,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "mani",
-            "variable_precio": "mani_precio"
+            "variable_precio": "mani_precio",
+            "orden": 6
         }
     },
     "almendras": {
@@ -113,7 +121,8 @@
             "svg": "frutilla.txt",
             "unidad": "gr",
             "variable": "almendras",
-            "variable_precio": "alm_precio"
+            "variable_precio": "alm_precio",
+            "orden": 7
         }
     },
     "caju": {
@@ -126,7 +135,8 @@
             "svg": "frutilla.txt",
             "unidad": "gr",
             "variable": "caju",
-            "variable_precio": "caju_precio"
+            "variable_precio": "caju_precio",
+            "orden": 9
         }
     },
     "pistachos": {
@@ -139,7 +149,8 @@
             "svg": "frutilla.txt",
             "unidad": "gr",
             "variable": "pistachos",
-            "variable_precio": "pist_precio"
+            "variable_precio": "pist_precio",
+            "orden": 10
         }
     }
 }
