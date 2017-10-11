@@ -1,0 +1,3 @@
+{nombre}! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+{deudas}

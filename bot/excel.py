@@ -49,4 +49,5 @@ def deudas_jefe(jefe, path=rel+"datos"):
             
 
 if __name__ == "__main__":
-    d = deudas("Majo Castañeda")
+    d = deudas_jefe("Majo Castañeda")
+    print(d)

@@ -258,8 +258,41 @@ class MessageHandler:
         yield s.strip(), "continue"
 
     @permiso("owner", "admin")
-    def cobranza(self, chat_id, encargado):
-        pass
+    def cobranza(self, chat_id, encargado, *args):
+        try:
+            if self.bot:
+                yield "Espera un segundo...", "wait"
+            #descargar_excels(rel+"datos")
+            tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
+            encargados = list(set([jefe[9] for jefe in tabla]))
+            if is_int(encargado):
+                encargado = encargados[int(encargado)-1]
+            else:
+                nombre = " ".join([encargado]+list(args))
+                match = difflib.get_close_matches(nombre, encargados)
+                if len(match) > 0:
+                    encargado = match[0]
+                else:
+                    yield "No se han encontrado coincidencias", "continue"
+            jefes = [jefe[0] + " " + jefe[1] for jefe in tabla
+                     if jefe[9] == encargado]
+            for jefe in jefes:
+                s = leer("texto_deudas")
+                deudas = deudas_jefe(jefe)
+                d = ""
+                total = 0
+                for fecha, deuda in deudas:
+                    d += "- {}: {}\n".format(fecha, deuda)
+                    total += int(deuda)
+                if total == 0:
+                    continue
+                d += "Total: {}".format(total)
+                s = s.format(nombre=jefe, deudas=d)
+                yield s, "more"
+        except Exception as err:
+            raise err
+            s = str(err)
+        yield s.strip(), "continue"
 
     @permiso("owner", "admin")
     def encargados(self, chat_id):

@@ -105,35 +105,6 @@ def difusion_multiple():
     crear_template_multiple(productos)
     return render_template('difusion_multiple.html', error=error)
 
-##@app.route("/difusion_multiple", methods=['GET', 'POST'])
-##def difusion_multiple():
-##    error = None
-##    if request.method == 'POST':
-##        nombre = request.form["nombre"].lower().strip()
-##        apellido = request.form["apellido"].lower().strip()
-##        telefono = request.form["telefono"]
-##        frutillas = request.form["frutillas"]
-##        uvas= request.form["uvas"]
-##        paltas = request.form["paltas"]
-##        limones = request.form["limones"]
-##
-##        frutillas = 6000 if frutillas == "" else frutillas
-##        uvas = 5000 if uvas == "" else uvas
-##        paltas = 6000 if paltas == "" else paltas
-##        limones = 6000 if limones == "" else limones
-##
-##        if len(telefono) < 8:
-##            error = "Telefono no válido."
-##        else:
-##            telefono = "+569" + telefono.strip().replace(" ", "")[-8:]
-##            print("Hola")
-##            return redirect(url_for(
-##                "difusion_datos_multiples",
-##                nombre=nombre, apellido=apellido, numero=telefono,
-##                frutillas=frutillas, uvas=uvas,
-##                paltas=paltas, limones=limones))
-##    return render_template('difusion_multiple.html', error=error)
-
 @app.route(
     "/difusion_multiple/<nombre>-<apellido>-<numero>-<frutillas>-"+
     "<uvas>-<paltas>-<limones>")
@@ -163,6 +134,10 @@ def telegram_webhook():
             bot.sendMessage(chat_id, respuesta, "Markdown")
             while status == "wait":
                 respuesta, status = handler.responder("waiting", chat_id)
+        if status == "more":
+            while status == "more":
+                bot.sendMessage(chat_id, respuesta, "Markdown")
+                respuesta, status = handler.responder("more", chat_id)
         if respuesta == "":
             respuesta = "Error."
         try:

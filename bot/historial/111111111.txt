@@ -177,3 +177,113 @@ Deudas:
 - 2017/09/23: 37400
 - 2017/09/30: 16400
 Total: 85100
+2017-10-11 16:40:45 USER: /cobranza ignacio castañeda
+2017-10-11 16:40:51 BOT : name 'id_jefe' is not defined
+2017-10-11 16:41:05 USER: /cobranza ignacio castañeda
+2017-10-11 16:41:11 BOT : name 'nombres' is not defined
+2017-10-11 16:41:42 USER: /cobranza ignacio castañeda
+2017-10-11 16:41:42 BOT : local variable 's' referenced before assignment
+2017-10-11 16:42:07 USER: /cobranza ignacio castañeda
+2017-10-11 16:42:07 BOT : local variable 'total' referenced before assignment
+2017-10-11 16:42:16 USER: /cobranza ignacio castañeda
+2017-10-11 16:42:16 BOT : 'deudas'
+2017-10-11 16:42:50 USER: /cobranza ignacio castañeda
+2017-10-11 16:42:51 BOT : 'deudas'
+2017-10-11 16:43:49 USER: /cobranza ignacio castañeda
+2017-10-11 16:43:59 USER: /cobranza ignacio castañeda
+2017-10-11 16:44:11 BOT : {nombre}! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+{deudas}
+2017-10-11 16:45:37 USER: /cobranza ignacio castañeda
+2017-10-11 16:45:48 BOT : {0}! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+{1}
+2017-10-11 16:46:33 USER: /cobranza ignacio castañeda
+2017-10-11 16:46:44 BOT : {0}! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+{1}
+2017-10-11 16:47:37 USER: /cobranza ignacio castañeda
+2017-10-11 16:47:49 BOT : {0}! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+{1}
+2017-10-11 16:49:18 USER: /cobranza ignacio castañeda
+2017-10-11 16:51:34 USER: /cobranza ignacio castañeda
+2017-10-11 16:51:46 BOT : {0}! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+{1}
+2017-10-11 17:33:08 USER: /cobranza ignacio castañeda
+2017-10-11 17:33:28 USER: /cobranza ignacio castañeda
+2017-10-11 17:33:39 BOT : {0}! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+{1}
+2017-10-11 17:34:58 USER: /cobranza ignacio castañeda
+2017-10-11 17:35:10 BOT : Juan Undurraga! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: 59900
+- 2017/09/09: 88700
+Total: 148600
+2017-10-11 17:36:14 USER: /cobranza ignacio castañeda
+2017-10-11 17:36:26 BOT : Juan Undurraga! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: 59900
+- 2017/09/09: 88700
+Total: 148600
+2017-10-11 19:51:40 USER: /cobranza ignacio castañeda
+2017-10-11 19:51:42 BOT : Majo Castañeda! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: 18400
+- 2017/09/09: 12900
+- 2017/09/23: 37400
+- 2017/09/30: 16400
+Total: 85100
+2017-10-11 19:51:46 USER: asd
+2017-10-11 19:51:47 BOT : Camila De La Sotta! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: 39500
+- 2017/09/23: 14100
+- 2017/09/30: 195400
+- 2017/10/06: 96000
+Total: 345000
+2017-10-11 19:51:48 USER: asd
+2017-10-11 19:51:49 BOT : Javi Del Rio! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: 43200
+Total: 43200
+2017-10-11 19:51:50 USER: asd
+2017-10-11 19:51:50 BOT : Amelia Del Rio! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: 252200
+Total: 252200
+2017-10-11 19:51:51 USER: asd
+2017-10-11 19:51:52 BOT : Constanza Delfau! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: 78000
+- 2017/09/30: 55800
+Total: 133800
+2017-10-11 19:51:52 USER: asd
+2017-10-11 19:51:53 BOT : Matias Flores! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: 40600
+Total: 40600
+2017-10-11 19:51:53 USER: asd
+2017-10-11 19:51:55 BOT : Ric Jungk! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: 37500
+Total: 37500
+2017-10-11 19:51:55 USER: asd
+2017-10-11 19:51:56 BOT : Rodrigo Morales! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: 59500
+Total: 59500
+2017-10-11 19:51:57 USER: asd
+2017-10-11 19:51:58 BOT : Trinidad Pereira! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/30: 106400
+- 2017/10/06: 22700
+Total: 129100
+2017-10-11 19:51:59 USER: asd
+2017-10-11 19:52:02 BOT : Juan Undurraga! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: 59900
+- 2017/09/09: 88700
+Total: 148600
