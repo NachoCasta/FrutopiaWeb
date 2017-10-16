@@ -287,3 +287,20 @@ Esto es lo que estay debiendo:
 - 2017/09/02: 59900
 - 2017/09/09: 88700
 Total: 148600
+2017-10-16 14:50:15 USER: /cobranza ignacio castañeda
+2017-10-16 14:50:21 BOT : Encargado: Ignacio Castañeda
+2017-10-16 14:50:24 USER: sdf
+2017-10-16 14:50:26 BOT : Majo Castañeda
+2017-10-16 14:50:27 USER: sdf
+2017-10-16 14:50:27 BOT : Majo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: 66300
+Total: 66300
+2017-10-16 14:50:34 USER: sadf
+2017-10-16 14:50:36 BOT : Camila De La Sotta
+2017-10-16 14:50:37 USER: sdf
+2017-10-16 14:50:37 BOT : Cami! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/30: 195400
+- 2017/10/14: 39100
+Total: 234500

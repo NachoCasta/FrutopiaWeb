@@ -265,6 +265,9 @@ class MessageHandler:
             descargar_excels(rel+"datos")
             tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
             encargados = list(set([jefe[9] for jefe in tabla]))
+            apodos = excel_to_table(rel+"datos/Jefes 2017-2.xlsx",
+                                    "Apodos Cobranza")
+            apodos = {nombre: apodo for nombre, apodo in apodos}
             if is_int(encargado):
                 encargado = encargados[int(encargado)-1]
             else:
@@ -288,7 +291,7 @@ class MessageHandler:
                 if total == 0:
                     continue
                 d += "Total: {}".format(total)
-                s = s.format(nombre=jefe, deudas=d)
+                s = s.format(nombre=apodos[jefe], deudas=d)
                 yield jefe, "more"
                 yield s, "more"
         except Exception as err:
