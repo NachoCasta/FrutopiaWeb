@@ -5,16 +5,17 @@
             "formato": "cajas",
             "foto": "frutillas.jpg",
             "nombre": "Frutillas 2 kg",
-            "precio": "9000",
+            "precio": "7000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "frutillas",
-            "variable_precio": "f_precio"
+            "variable_precio": "f_precio",
+            "orden": 1
         }
     },
     "mandarinas": {
         "4": {
-            "disponible": true,
+            "disponible": false,
             "formato": "mallas",
             "foto": "mandarinas.jpg",
             "nombre": "Mandarinas 4 kg",
@@ -22,7 +23,8 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "mandarinas",
-            "variable_precio": "m_precio"
+            "variable_precio": "m_precio",
+            "orden": 2
         }
     },
     "naranjas": {
@@ -31,37 +33,26 @@
             "formato": "mallas",
             "foto": "naranjas.jpg",
             "nombre": "Naranjas 5 kg",
-            "precio": "4000",
+            "precio": "5000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "naranjas",
-            "variable_precio": "nar_precio"
+            "variable_precio": "nar_precio",
+            "orden": 5
         }
     },
-    "nueces": {
-        "500": {
-            "disponible": true,
-            "formato": "cajas",
-            "foto": "nueces.jpg",
-            "nombre": "Nueces 500 gr",
-            "precio": "7000",
-            "svg": "frutilla.txt",
-            "unidad": "gr",
-            "variable": "nueces",
-            "variable_precio": "nue_precio"
-        }
-    },
-    "paltas": {
+    "paltas hass": {
         "2": {
             "disponible": true,
             "formato": "mallas",
             "foto": "paltas.jpg",
             "nombre": "Paltas 2 kg",
-            "precio": "6000",
+            "precio": "5000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "paltas",
-            "variable_precio": "p_precio"
+            "variable_precio": "p_precio",
+            "orden": 2
         }
     },
     "quesos": {
@@ -70,11 +61,12 @@
             "formato": "packs",
             "foto": "quesos.jpg",
             "nombre": "Quesos 1 kg",
-            "precio": "10000",
+            "precio": "9000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "quesos",
-            "variable_precio": "q_precio"
+            "variable_precio": "q_precio",
+            "orden": 3
         }
     },
     "tomates cherry": {
@@ -87,7 +79,78 @@
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "tomatecherry",
-            "variable_precio": "t_precio"
+            "variable_precio": "t_precio",
+            "orden": 4
+        }
+    },
+    "nueces": {
+        "500": {
+            "disponible": true,
+            "formato": "cajas",
+            "foto": "nueces.jpg",
+            "nombre": "Nueces 500 gr",
+            "precio": "7000",
+            "svg": "frutilla.txt",
+            "unidad": "gr",
+            "variable": "nueces",
+            "variable_precio": "nue_precio",
+            "orden": 8
+        }
+    },
+    "mani": {
+        "1": {
+            "disponible": true,
+            "formato": "bolsa",
+            "foto": "mani.jpg",
+            "nombre": "Mani 1 kg",
+            "precio": "6000",
+            "svg": "frutilla.txt",
+            "unidad": "kg",
+            "variable": "mani",
+            "variable_precio": "mani_precio",
+            "orden": 6
+        }
+    },
+    "almendras": {
+        "500": {
+            "disponible": true,
+            "formato": "bolsa",
+            "foto": "almendras.jpg",
+            "nombre": "Almendras 500 gr",
+            "precio": "9000",
+            "svg": "frutilla.txt",
+            "unidad": "gr",
+            "variable": "almendras",
+            "variable_precio": "alm_precio",
+            "orden": 7
+        }
+    },
+    "caju": {
+        "400": {
+            "disponible": true,
+            "formato": "bolsa",
+            "foto": "caju.jpg",
+            "nombre": "Caju 400 gr",
+            "precio": "9000",
+            "svg": "frutilla.txt",
+            "unidad": "gr",
+            "variable": "caju",
+            "variable_precio": "caju_precio",
+            "orden": 9
+        }
+    },
+    "pistachos": {
+        "500": {
+            "disponible": true,
+            "formato": "bolsa",
+            "foto": "pistachos.jpg",
+            "nombre": "Pistachos 500 gr",
+            "precio": "10000",
+            "svg": "frutilla.txt",
+            "unidad": "gr",
+            "variable": "pistachos",
+            "variable_precio": "pist_precio",
+            "orden": 10
         }
     }
 }

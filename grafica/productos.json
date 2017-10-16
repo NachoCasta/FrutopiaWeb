@@ -5,7 +5,7 @@
             "formato": "cajas",
             "foto": "frutillas.jpg",
             "nombre": "Frutillas 2 kg",
-            "precio": "8000",
+            "precio": "7000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "frutillas",
@@ -47,7 +47,7 @@
             "formato": "mallas",
             "foto": "paltas.jpg",
             "nombre": "Paltas 2 kg",
-            "precio": "6000",
+            "precio": "5000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "paltas",
@@ -61,7 +61,7 @@
             "formato": "packs",
             "foto": "quesos.jpg",
             "nombre": "Quesos 1 kg",
-            "precio": "10000",
+            "precio": "9000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "quesos",
@@ -126,12 +126,12 @@
         }
     },
     "caju": {
-        "500": {
+        "400": {
             "disponible": true,
             "formato": "bolsa",
             "foto": "caju.jpg",
-            "nombre": "Caju 500 gr",
-            "precio": "10000",
+            "nombre": "Caju 400 gr",
+            "precio": "9000",
             "svg": "frutilla.txt",
             "unidad": "gr",
             "variable": "caju",
