@@ -127,6 +127,7 @@ def telegram_webhook():
         status = None
         mensaje = update["message"]["text"]
         chat_id = update["message"]["chat"]["id"]
+        #bot.sendMessage(chat_id, mensaje)
         respuesta = handler.responder(mensaje, chat_id)
         if len(list(respuesta)) == 2:
             respuesta, status = respuesta

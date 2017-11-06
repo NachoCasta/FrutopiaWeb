@@ -29,7 +29,7 @@
     },
     "naranjas": {
         "5": {
-            "disponible": true,
+            "disponible": false,
             "formato": "mallas",
             "foto": "naranjas.jpg",
             "nombre": "Naranjas 5 kg",

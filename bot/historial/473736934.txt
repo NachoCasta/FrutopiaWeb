@@ -1,0 +1,2311 @@
+2017-10-09 16:25:58 USER: /start
+2017-10-09 16:25:58 BOT : Hola, soy FrutopiaBot!
+
+Si quieres saber que cosas puedo hacer, escribe /help.
+
+Cualquier problema o duda contactate con mi creador @nachocasta.
+2017-10-09 16:26:10 USER: Help
+2017-10-09 16:26:10 BOT : Chat
+2017-10-09 16:26:22 USER: Hola
+2017-10-09 16:26:22 BOT : Chat
+2017-10-09 16:26:41 USER: /help.
+2017-10-09 16:26:41 BOT : Funcion no encontrada.
+2017-10-09 16:28:35 USER: /jefes
+2017-10-09 16:28:35 BOT : ('Espera un segundo...', 'wait')
+2017-10-09 16:28:35 USER: waiting
+2017-10-09 16:28:36 BOT : ('1  - Amalia Abogabir\n2  - Maida Andrews\n3  - Gabriel Araneda\n4  - Martin Araos\n5  - Javi Bernaus\n6  - Paul Brenner\n7  - Alvaro Caeviedes\n8  - Ignacio Castañeda\n9  - Majo Castañeda\n10 - Vicky Chaparro\n11 - Antonia Cisternas\n12 - Josefa Covarrubias\n13 - Florencia Croxatto\n14 - Joaquin Daly\n15 - Dominique Daroch\n16 - Camila De La Sotta\n17 - Javi Del Rio\n18 - Amelia Del Rio\n19 - Constanza Delfau\n20 - Pilar Edwards\n21 - Joaquin Eichholz\n22 - Maria Jesus Elias\n23 - Rafael Errazuriz\n24 - Isidora Fernandez\n25 - Maria Luisa Fernandez\n26 - Rodrigo Fernandez\n27 - Tere Fernandez\n28 - Diego Figueroa\n29 - Matias Flores\n30 - Benjamin Hartmann\n31 - Mauricio Hernandez\n32 - Andres Infante\n33 - Cata Izcue\n34 - Margarita Joglar\n35 - Ric Jungk\n36 - Matias Krumm\n37 - Juan Diego Lyon\n38 - Bernardita Mackenney\n39 - Michella Mascarello\n40 - Vicente Mayol\n41 - Jesu Mckay\n42 - Ignacio Montt\n43 - Rodrigo Morales\n44 - Ignacio Morales\n45 - Josefina Nazer\n46 - Raimundo Opazo\n47 - Trinidad Ossa\n48 - Sofia Ovalle\n49 - Francesco Pamparana\n50 - Trinidad Pereira\n51 - Agustina Pineda\n52 - Benjamin Piña\n53 - Lukas Quense\n54 - Josefina Quiroga\n55 - Rafa Quiroga\n56 - Barbara Rodriguez\n57 - Fede Schilling\n58 - Carola Schumann\n59 - Cata Tondreau\n60 - Iñaki Tramontana\n61 - Juan Undurraga\n62 - Cristobal Valdes\n63 - Antonia Valencia\n64 - Jesu Valenzuela\n65 - Pablo Vial\n66 - Pedro Vial\n67 - Paula Villela\n68 - Gabriel Villela\n', 'continue')
+2017-10-09 16:28:49 USER: /pedido
+2017-10-09 16:28:49 BOT : Funcion no encontrada.
+2017-10-09 16:31:26 USER: /lector
+2017-10-09 16:31:26 BOT : Envíame la lista de pedidos!
+2017-10-09 19:56:54 USER: [00:05, 6/10/2017] +56 9 5648 1962: Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6                        
+[00:06, 6/10/2017] Nacho Castañeda ✌: @Barbara Rodriguez creo que no copiaste el ultimo                        
+[00:09, 6/10/2017] +56 9 5648 1962: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+2017-10-09 19:56:54 BOT : Chat
+2017-10-09 19:57:40 USER: /lector
+2017-10-09 19:57:40 BOT : Envíame la lista de pedidos!
+2017-10-09 19:57:45 USER: [00:05, 6/10/2017] +56 9 5648 1962: Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6                        
+[00:06, 6/10/2017] Nacho Castañeda ✌: @Barbara Rodriguez creo que no copiaste el ultimo                        
+[00:09, 6/10/2017] +56 9 5648 1962: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+2017-10-09 19:57:45 BOT : Chat
+2017-10-09 19:57:58 USER: [00:05, 6/10/2017] +56 9 5648 1962: Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6                        
+[00:06, 6/10/2017] Nacho Castañeda ✌: @Barbara Rodriguez creo que no copiaste el ultimo                        
+[00:09, 6/10/2017] +56 9 5648 1962: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+2017-10-09 19:57:58 BOT : Chat
+2017-10-09 19:58:11 USER: /lector
+2017-10-09 19:58:11 BOT : Envíame la lista de pedidos!
+2017-10-09 19:58:15 USER: [00:05, 6/10/2017] +56 9 5648 1962: Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6                        
+[00:06, 6/10/2017] Nacho Castañeda ✌: @Barbara Rodriguez creo que no copiaste el ultimo                        
+[00:09, 6/10/2017] +56 9 5648 1962: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+2017-10-09 19:58:15 BOT : ('Espera un segundo...', 'wait')
+2017-10-09 19:58:15 USER: waiting
+2017-10-09 19:58:16 BOT : ("local variable 'producto' referenced before assignment", 'continue')
+2017-10-09 19:58:58 USER: /lector
+2017-10-09 19:58:58 BOT : Envíame la lista de pedidos!
+2017-10-09 19:59:05 USER: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+2017-10-09 19:59:05 BOT : Chat
+2017-10-09 19:59:17 USER: /lector
+2017-10-09 19:59:17 BOT : Envíame la lista de pedidos!
+2017-10-09 19:59:21 USER: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+2017-10-09 19:59:21 BOT : ('Espera un segundo...', 'wait')
+2017-10-09 19:59:22 USER: waiting
+2017-10-09 19:59:22 BOT : ('```\nPedido Viernes 06/10:\n\nTotal por producto:\nQuesos Huentelauquen - 14\nFrutillas - 27\nTomates - 16\nNueces - 12\nNaranjas Jugo - 27\nPaltas Hass - 66\n\nTotal por persona:\nBarbara Rodriguez   : 52  \nCami De La Sotta    : 19  \nCata Tondreau       :  5  \nJavi Del Rio        :  9  \nJesu Valenzuela     :  3  \nMartin Araos        :  5  \nMichella Mascarello :  3  \nPablo Vial          :  3  \nRaimundo Opazo      : 36  \nRodrigo Fernandez   : 12  \nRodrigo Morales     : 11  \nTrinidad Pereira    :  4```', 'continue')
+2017-10-09 20:03:48 USER: pedido
+2017-10-09 20:03:48 BOT : Chat
+2017-10-09 20:20:49 USER: /lector_detalles
+2017-10-09 20:20:49 BOT : Envíame la lista de pedidos!
+2017-10-09 20:21:03 USER: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+2017-10-09 20:21:03 BOT : Chat
+2017-10-09 20:21:29 USER: /lector_detalles
+2017-10-09 20:21:29 BOT : Envíame la lista de pedidos!
+2017-10-09 20:21:34 USER: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+2017-10-09 20:21:34 BOT : Chat
+2017-10-09 20:21:52 USER: /lector_detalles
+2017-10-09 20:21:52 BOT : Envíame la lista de pedidos!
+2017-10-09 20:21:56 USER: Pedido Viernes 06/10
+
+Naranjas Jugo
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+
+Nueces
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+
+
+
+Paltas Hass
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+Quesos Huentelauquen
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+Tomates
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+Frutillas
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+2017-10-09 20:21:56 BOT : ('Espera un segundo...', 'wait')
+2017-10-09 20:21:56 USER: waiting
+2017-10-09 20:21:57 BOT : ('```\nPedido Viernes 06/10:\n\nTotal por producto:\nFrutillas - 27\nNueces - 12\nPaltas Hass - 66\nNaranjas Jugo - 27\nTomates - 16\nQuesos Huentelauquen - 14\n\nTotal por persona:\n                 Fr Nu Pa Na To Qu Total \nBarbara Rodrigue: 4  5 20 12  6  5  52  \nCami De La Sotta: 3  2  5  5  2  2  19  \nCata Tondreau   : 1  0  3  1  0  0   5  \nJavi Del Rio    : 1  0  6  0  2  0   9  \nJesu Valenzuela : 0  0  1  1  1  0   3  \nMartin Araos    : 0  1  2  0  0  2   5  \nMichella Mascare: 0  0  0  2  1  0   3  \nPablo Vial      : 2  0  0  1  0  0   3  \nRaimundo Opazo  : 7  4 11  5  4  5  36  \nRodrigo Fernande: 0  0 12  0  0  0  12  \nRodrigo Morales : 6  0  5  0  0  0  11  \nTrinidad Pereira: 3  0  1  0  0  0   4  \n```', 'continue')
+2017-10-10 17:38:10 USER: /Chat_id
+2017-10-10 17:38:10 BOT : Funcion no encontrada.
+2017-10-10 17:38:25 USER: /chat_id
+2017-10-10 17:38:25 BOT : 473736934
+2017-10-13 22:03:20 USER: /lector_detalles
+2017-10-13 22:03:20 BOT : Envíame la lista de pedidos!
+2017-10-13 22:03:25 USER: _Pedido Sabado 14/10_
+
+*Naranjas Jugo*
+- R. Opazo 11
+- Majo 4
+- javi 1
+- Ric 1
+- Michella 3
+-Alvaro Caviedes 2
+-Florencia 2
+- Samuel Billikopf 2
+- Jesu V 3
+-Pedro Vial 2
+- guisa 1
+- mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+
+*Nueces*
+- R. Opazo 1
+- Juan Diego Lyon 1
+- Majo 1
+- Ric 1
+-Pedro Vial 1
+
+*Paltas Hass*
+- R. Opazo 9
+- Juan Diego Lyon 3
+- Majo 4
+- Cote 2
+- Michella 3
+-Ric 1
+-Alvaro Caviedes 3
+-Florencia 2
+-rodrigo m 1
+- Samuel Billikopf 2
+- Jesu V 3
+- Pablo Vial 2
+- Rodrigo Fdez 20
+-Pedro Vial 2
+- guisa 2
+-mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+-paul b 3
+*Quesos*
+- R. Opazo 5
+- Juan Diego Lyon 2
+- Michella 1
+-Alvaro Caviedes 1
+- Jesu V 1
+- mau 3
+- Cami de ma sotta 1
+-paul b 1
+
+*Frutillas*
+- R. Opazo 7
+- Majo 1
+- javi 1
+- Michella 1 
+-Alvaro Caviedes 1
+-Rodrigo M 3
+-Samuel Billikopf 1
+- Jesu V 2
+- Pablo Vial 2
+-Pedro Vial 1
+- guisa 2
+- mau 1
+- Cami de la Sotta 1
+
+
+*Mani*
+- R. Opazo 5
+- Michella 1
+- Jesu V 1
+- Rodrigo Fdez 2
+
+*Pistacho*
+- R. Opazo 2
+- Majo 1
+- Cote 1
+- Michella 1
+- Ric 1
+- Jesu V 1
+- Rodrigo Fdez 4
+- paul b 1
+
+*Castañas de Caju*
+- R. Opazo 1
+- Cote 1
+- Ric 1
+- guisa 1
+- michella 1
+
+*Almendra*
+- R. Opazo 3
+- Michella 1
+- Rodrigo Fdez 3
+-Pedro Vial 1
+2017-10-13 22:03:25 BOT : Espera un segundo...
+2017-10-13 22:03:25 USER: waiting
+2017-10-13 22:03:26 BOT : ```
+Pedido Sabado 14/10:
+
+Total por producto:
+Nueces - 5
+Frutillas - 24
+Almendra - 8
+Mani - 9
+Quesos - 15
+Naranjas Jugo - 40
+Pistacho - 12
+Paltas Hass - 70
+Castañas de Caju - 5
+
+Detalle:
+                 Nu Fr Al Ma Qu Na Pi Pa Ca Total 
+Alvaro Caviedes : 0  1  0  0  1  2  0  3  0   7  
+Cami De La Sotta: 0  1  0  0  0  3  0  3  0   7  
+Cami De Ma Sotta: 0  0  0  0  1  0  0  0  0   1  
+Cata Tondreau   : 0  0  0  0  0  1  0  1  0   2  
+Florencia       : 0  0  0  0  0  2  0  2  0   4  
+Javi Del Rio    : 0  1  0  0  0  1  0  0  0   2  
+Jesu Valenzuela : 0  2  0  1  1  3  1  3  0  11  
+Josefina Nazer  : 0  0  0  0  0  0  1  2  1   4  
+Juan Diego Lyon : 1  0  0  0  2  0  0  3  0   6  
+Majo Castañeda  : 1  1  0  0  0  4  1  4  0  11  
+Maria Luisa Fern: 0  2  0  0  0  1  0  2  1   6  
+Mauricio Hernand: 0  1  0  0  3  4  0  4  0  12  
+Michella Mascare: 0  1  1  1  1  3  1  3  1  12  
+Pablo Vial      : 0  2  0  0  0  0  0  2  0   4  
+Paul B          : 0  0  0  0  1  0  1  3  0   5  
+Pedro Vial      : 1  1  1  0  0  2  0  2  0   7  
+Raimundo Opazo  : 1  7  3  5  5 11  2  9  1  44  
+Ric             : 1  0  0  0  0  1  1  1  1   5  
+Rodrigo Fernande: 0  0  3  2  0  0  4 20  0  29  
+Rodrigo Morales : 0  3  0  0  0  0  0  1  0   4  
+Samuel Billikopf: 0  1  0  0  0  2  0  2  0   5  
+``` Poner en modo horizontal para ver correctamente.
+2017-10-14 00:44:41 USER: /lector
+2017-10-14 00:44:41 BOT : Envíame la lista de pedidos!
+2017-10-14 00:44:47 USER: _Pedido Sabado 14/10_
+
+*Naranjas Jugo*
+- R. Opazo 11
+- Majo 4
+- javi 1
+- Ric 1
+- Michella 3
+-Alvaro Caviedes 2
+-Florencia 2
+- Samuel Billikopf 2
+- Jesu V 3
+-Pedro Vial 2
+- guisa 1
+- mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+
+*Nueces*
+- R. Opazo 1
+- Juan Diego Lyon 1
+- Majo 1
+- Ric 1
+-Pedro Vial 1
+
+*Paltas Hass*
+- R. Opazo 9
+- Juan Diego Lyon 3
+- Majo 4
+- Cote 2
+- Michella 3
+-Ric 1
+-Alvaro Caviedes 3
+-Florencia 2
+-rodrigo m 1
+- Samuel Billikopf 2
+- Jesu V 3
+- Pablo Vial 2
+- Rodrigo Fdez 20
+-Pedro Vial 2
+- guisa 3
+-mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+-paul b 3
+- javi 5
+
+*Quesos*
+- R. Opazo 5
+- Juan Diego Lyon 2
+- Michella 1
+-Alvaro Caviedes 1
+- Jesu V 1
+- mau 3
+- Cami de ma sotta 1
+-paul b 1
+
+*Frutillas*
+- R. Opazo 7
+- Majo 1
+- javi 1
+- Michella 1 
+-Alvaro Caviedes 1
+-Rodrigo M 3
+-Samuel Billikopf 1
+- Jesu V 2
+- Pablo Vial 2
+-Pedro Vial 1
+- guisa 3
+- mau 1
+- Cami de la Sotta 1
+
+
+*Mani*
+- R. Opazo 5
+- Michella 1
+- Jesu V 1
+- Rodrigo Fdez 2
+- guisa 1
+
+*Pistacho*
+- R. Opazo 2
+- Majo 1
+- Cote 1
+- Michella 1
+- Ric 1
+- Jesu V 1
+- Rodrigo Fdez 4
+- paul b 1
+- guisa 1
+
+*Castañas de Caju*
+- R. Opazo 1
+- Cote 1
+- Ric 1
+- guisa 2
+- michella 1
+
+*Almendra*
+- R. Opazo 3
+- Michella 1
+- Rodrigo Fdez 3
+-Pedro Vial 1
+2017-10-14 00:44:47 BOT : Chat
+2017-10-14 00:44:55 USER: /lector
+2017-10-14 00:44:55 BOT : Envíame la lista de pedidos!
+2017-10-14 00:44:59 USER: _Pedido Sabado 14/10_
+
+*Naranjas Jugo*
+- R. Opazo 11
+- Majo 4
+- javi 1
+- Ric 1
+- Michella 3
+-Alvaro Caviedes 2
+-Florencia 2
+- Samuel Billikopf 2
+- Jesu V 3
+-Pedro Vial 2
+- guisa 1
+- mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+
+*Nueces*
+- R. Opazo 1
+- Juan Diego Lyon 1
+- Majo 1
+- Ric 1
+-Pedro Vial 1
+
+*Paltas Hass*
+- R. Opazo 9
+- Juan Diego Lyon 3
+- Majo 4
+- Cote 2
+- Michella 3
+-Ric 1
+-Alvaro Caviedes 3
+-Florencia 2
+-rodrigo m 1
+- Samuel Billikopf 2
+- Jesu V 3
+- Pablo Vial 2
+- Rodrigo Fdez 20
+-Pedro Vial 2
+- guisa 3
+-mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+-paul b 3
+- javi 5
+
+*Quesos*
+- R. Opazo 5
+- Juan Diego Lyon 2
+- Michella 1
+-Alvaro Caviedes 1
+- Jesu V 1
+- mau 3
+- Cami de ma sotta 1
+-paul b 1
+
+*Frutillas*
+- R. Opazo 7
+- Majo 1
+- javi 1
+- Michella 1 
+-Alvaro Caviedes 1
+-Rodrigo M 3
+-Samuel Billikopf 1
+- Jesu V 2
+- Pablo Vial 2
+-Pedro Vial 1
+- guisa 3
+- mau 1
+- Cami de la Sotta 1
+
+
+*Mani*
+- R. Opazo 5
+- Michella 1
+- Jesu V 1
+- Rodrigo Fdez 2
+- guisa 1
+
+*Pistacho*
+- R. Opazo 2
+- Majo 1
+- Cote 1
+- Michella 1
+- Ric 1
+- Jesu V 1
+- Rodrigo Fdez 4
+- paul b 1
+- guisa 1
+
+*Castañas de Caju*
+- R. Opazo 1
+- Cote 1
+- Ric 1
+- guisa 2
+- michella 1
+
+*Almendra*
+- R. Opazo 3
+- Michella 1
+- Rodrigo Fdez 3
+-Pedro Vial 1
+2017-10-14 00:44:59 BOT : Espera un segundo...
+2017-10-14 00:44:59 USER: waiting
+2017-10-14 00:45:00 BOT : ```
+Pedido Sabado 14/10:
+
+Total por producto:
+Nueces - 5
+Frutillas - 25
+Almendra - 8
+Mani - 10
+Quesos - 15
+Naranjas Jugo - 40
+Pistacho - 13
+Paltas Hass - 76
+Castañas de Caju - 6
+
+Total por persona:
+Alvaro Caviedes     :  7  
+Cami De La Sotta    :  7  
+Cami De Ma Sotta    :  1  
+Cata Tondreau       :  2  
+Florencia           :  4  
+Javi Del Rio        :  7  
+Jesu Valenzuela     : 11  
+Josefina Nazer      :  4  
+Juan Diego Lyon     :  6  
+Majo Castañeda      : 11  
+Maria Luisa Fernandez: 11  
+Mauricio Hernandez  : 12  
+Michella Mascarello : 12  
+Pablo Vial          :  4  
+Paul B              :  5  
+Pedro Vial          :  7  
+Raimundo Opazo      : 44  
+Ric                 :  5  
+Rodrigo Fernandez   : 29  
+Rodrigo Morales     :  4  
+Samuel Billikopf    :  5```
+2017-10-14 01:24:33 USER: /lector
+2017-10-14 01:24:33 BOT : Envíame la lista de pedidos!
+2017-10-14 01:24:38 USER: /lector
+2017-10-14 01:24:38 BOT : Envíame la lista de pedidos!
+2017-10-14 01:24:44 USER: _Pedido Sabado 14/10_
+
+*Naranjas Jugo*
+- R. Opazo 11
+- Majo 4
+- javi 1
+- Ric 1
+- Michella 3
+-Alvaro Caviedes 2
+-Florencia 2
+- Samuel Billikopf 2
+- Jesu V 3
+-Pedro Vial 2
+- guisa 1
+- mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+
+*Nueces*
+- R. Opazo 1
+- Juan Diego Lyon 1
+- Majo 1
+- Ric 1
+-Pedro Vial 1
+- Samuel Billikopf 1
+
+*Paltas Hass*
+- R. Opazo 9
+- Juan Diego Lyon 3
+- Majo 4
+- Cote 2
+- Michella 3
+-Ric 1
+-Alvaro Caviedes 3
+-Florencia 2
+-rodrigo m 1
+- Samuel Billikopf 2
+- Jesu V 3
+- Pablo Vial 2
+- Rodrigo Fdez 20
+-Pedro Vial 2
+- guisa 3
+-mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+-paul b 3
+- javi 5
+
+*Quesos*
+- R. Opazo 5
+- Juan Diego Lyon 2
+- Michella 1
+-Alvaro Caviedes 1
+- Jesu V 1
+- mau 3
+- Cami de ma sotta 1
+-paul b 1
+
+*Frutillas*
+- R. Opazo 7
+- Majo 1
+- javi 1
+- Michella 1 
+-Alvaro Caviedes 1
+-Rodrigo M 3
+-Samuel Billikopf 1 
+- Jesu V 2
+- Pablo Vial 2
+-Pedro Vial 1
+- guisa 3
+- mau 1
+- Cami de la Sotta 1
+
+
+*Mani*
+- R. Opazo 5
+- Michella 1
+- Jesu V 1
+- Rodrigo Fdez 2
+- guisa 1
+- Samuel B 1 
+
+*Pistacho*
+- R. Opazo 2
+- Majo 1
+- Cote 1
+- Michella 1
+- Ric 1
+- Jesu V 1
+- Rodrigo Fdez 4
+- paul b 1
+- guisa 1
+- Samuel 1
+
+*Castañas de Caju*
+- R. Opazo 1
+- Cote 1
+- Ric 1
+- guisa 2
+- michella 1
+- Samuel B 1
+ 
+*Almendra*
+- R. Opazo 3
+- Michella 1
+- Rodrigo Fdez 3
+-Pedro Vial 1
+- Samuel B 1
+2017-10-14 01:24:44 BOT : Espera un segundo...
+2017-10-14 01:24:44 USER: waiting
+2017-10-14 01:24:45 BOT : ```
+Pedido Sabado 14/10:
+
+Total por producto:
+Nueces - 6
+Frutillas - 25
+Almendra - 9
+Mani - 11
+Quesos - 15
+Naranjas Jugo - 40
+Pistacho - 14
+Paltas Hass - 76
+Castañas de Caju - 7
+
+Total por persona:
+Alvaro Caviedes     :  7  
+Cami De La Sotta    :  7  
+Cami De Ma Sotta    :  1  
+Cata Tondreau       :  2  
+Florencia           :  4  
+Javi Del Rio        :  7  
+Jesu Valenzuela     : 11  
+Josefina Nazer      :  4  
+Juan Diego Lyon     :  6  
+Majo Castañeda      : 11  
+Maria Luisa Fernandez: 11  
+Mauricio Hernandez  : 12  
+Michella Mascarello : 12  
+Pablo Vial          :  4  
+Paul B              :  5  
+Pedro Vial          :  7  
+Raimundo Opazo      : 44  
+Ric                 :  5  
+Rodrigo Fernandez   : 29  
+Rodrigo Morales     :  4  
+Samuel              :  1  
+Samuel B            :  3  
+Samuel Billikopf    :  6```
+2017-10-14 05:12:55 USER: /lector
+2017-10-14 05:12:55 BOT : Envíame la lista de pedidos!
+2017-10-14 05:13:02 USER: _Pedido Sabado 14/10_
+
+*Naranjas Jugo*
+- R. Opazo 11
+- Majo 4
+- javi 1
+- Ric 1
+- Michella 3
+-Alvaro Caviedes 2
+-Florencia 2
+- Samuel Billikopf 2
+- Jesu V 3
+-Pedro Vial 2
+- guisa 1
+- mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+
+*Nueces*
+- R. Opazo 1
+- Juan Diego Lyon 1
+- Majo 1
+- Ric 1
+-Pedro Vial 1
+- Samuel Billikopf 1
+
+*Paltas Hass*
+- R. Opazo 9
+- Juan Diego Lyon 3
+- Majo 4
+- Cote 2
+- Michella 3
+-Ric 1
+-Alvaro Caviedes 3
+-Florencia 2
+-rodrigo m 1
+- Samuel Billikopf 2
+- Jesu V 3
+- Pablo Vial 2
+- Rodrigo Fdez 20
+-Pedro Vial 2
+- guisa 3
+-mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+-paul b 3
+- javi 5
+-barbara 1
+-rosario 11
+
+*Quesos*
+- R. Opazo 5
+- Juan Diego Lyon 2
+- Michella 1
+-Alvaro Caviedes 1
+- Jesu V 1
+- mau 3
+- Cami de ma sotta 1
+-paul b 1
+-rosario 1
+
+*Frutillas*
+- R. Opazo 7
+- Majo 1
+- javi 1
+- Michella 1 
+-Alvaro Caviedes 1
+-Rodrigo M 3
+-Samuel Billikopf 1 
+- Jesu V 2
+- Pablo Vial 2
+-Pedro Vial 1
+- guisa 3
+- mau 1
+- Cami de la Sotta 1
+-rosario 5
+
+
+
+*Mani*
+- R. Opazo 5
+- Michella 1
+- Jesu V 1
+- Rodrigo Fdez 2
+- guisa 1
+- Samuel B 1 
+-barbara 1
+
+*Pistacho*
+- R. Opazo 2
+- Majo 1
+- Cote 1
+- Michella 1
+- Ric 1
+- Jesu V 1
+- Rodrigo Fdez 4
+- paul b 1
+- guisa 1
+- Samuel 1
+-barbara 1
+
+*Castañas de Caju*
+- R. Opazo 1
+- Cote 1
+- Ric 1
+- guisa 2
+- michella 1
+- Samuel B 1
+- barbara 1
+ 
+*Almendra*
+- R. Opazo 3
+- Michella 1
+- Rodrigo Fdez 3
+-Pedro Vial 1
+- Samuel B 1
+2017-10-14 05:13:02 BOT : Espera un segundo...
+2017-10-14 05:13:02 USER: waiting
+2017-10-14 05:13:03 BOT : ```
+Pedido Sabado 14/10:
+
+Total por producto:
+Nueces - 6
+Frutillas - 30
+Almendra - 9
+Mani - 12
+Quesos - 16
+Naranjas Jugo - 40
+Pistacho - 15
+Paltas Hass - 88
+Castañas de Caju - 8
+
+Total por persona:
+Alvaro Caviedes     :  7  
+Barbara Rodriguez   :  4  
+Cami De La Sotta    :  7  
+Cami De Ma Sotta    :  1  
+Cata Tondreau       :  2  
+Florencia           :  4  
+Javi Del Rio        :  7  
+Jesu Valenzuela     : 11  
+Josefina Nazer      :  4  
+Juan Diego Lyon     :  6  
+Majo Castañeda      : 11  
+Maria Luisa Fernandez: 11  
+Mauricio Hernandez  : 12  
+Michella Mascarello : 12  
+Pablo Vial          :  4  
+Paul B              :  5  
+Pedro Vial          :  7  
+Raimundo Opazo      : 44  
+Ric                 :  5  
+Rodrigo Fernandez   : 29  
+Rodrigo Morales     :  4  
+Rosario             : 17  
+Samuel              :  1  
+Samuel B            :  3  
+Samuel Billikopf    :  6```
+2017-10-14 05:13:56 USER: /lector_detalles
+2017-10-14 05:13:56 BOT : Envíame la lista de pedidos!
+2017-10-14 05:14:00 USER: _Pedido Sabado 14/10_
+
+*Naranjas Jugo*
+- R. Opazo 11
+- Majo 4
+- javi 1
+- Ric 1
+- Michella 3
+-Alvaro Caviedes 2
+-Florencia 2
+- Samuel Billikopf 2
+- Jesu V 3
+-Pedro Vial 2
+- guisa 1
+- mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+
+*Nueces*
+- R. Opazo 1
+- Juan Diego Lyon 1
+- Majo 1
+- Ric 1
+-Pedro Vial 1
+- Samuel Billikopf 1
+
+*Paltas Hass*
+- R. Opazo 9
+- Juan Diego Lyon 3
+- Majo 4
+- Cote 2
+- Michella 3
+-Ric 1
+-Alvaro Caviedes 3
+-Florencia 2
+-rodrigo m 1
+- Samuel Billikopf 2
+- Jesu V 3
+- Pablo Vial 2
+- Rodrigo Fdez 20
+-Pedro Vial 2
+- guisa 3
+-mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+-paul b 3
+- javi 5
+-barbara 1
+-rosario 11
+
+*Quesos*
+- R. Opazo 5
+- Juan Diego Lyon 2
+- Michella 1
+-Alvaro Caviedes 1
+- Jesu V 1
+- mau 3
+- Cami de ma sotta 1
+-paul b 1
+-rosario 1
+
+*Frutillas*
+- R. Opazo 7
+- Majo 1
+- javi 1
+- Michella 1 
+-Alvaro Caviedes 1
+-Rodrigo M 3
+-Samuel Billikopf 1 
+- Jesu V 2
+- Pablo Vial 2
+-Pedro Vial 1
+- guisa 3
+- mau 1
+- Cami de la Sotta 1
+-rosario 5
+
+
+
+*Mani*
+- R. Opazo 5
+- Michella 1
+- Jesu V 1
+- Rodrigo Fdez 2
+- guisa 1
+- Samuel B 1 
+-barbara 1
+
+*Pistacho*
+- R. Opazo 2
+- Majo 1
+- Cote 1
+- Michella 1
+- Ric 1
+- Jesu V 1
+- Rodrigo Fdez 4
+- paul b 1
+- guisa 1
+- Samuel 1
+-barbara 1
+
+*Castañas de Caju*
+- R. Opazo 1
+- Cote 1
+- Ric 1
+- guisa 2
+- michella 1
+- Samuel B 1
+- barbara 1
+ 
+*Almendra*
+- R. Opazo 3
+- Michella 1
+- Rodrigo Fdez 3
+-Pedro Vial 1
+- Samuel B 1
+2017-10-14 05:14:00 BOT : Chat
+2017-10-14 05:14:06 USER: /lector_detalles
+2017-10-14 05:14:06 BOT : Envíame la lista de pedidos!
+2017-10-14 05:14:09 USER: _Pedido Sabado 14/10_
+
+*Naranjas Jugo*
+- R. Opazo 11
+- Majo 4
+- javi 1
+- Ric 1
+- Michella 3
+-Alvaro Caviedes 2
+-Florencia 2
+- Samuel Billikopf 2
+- Jesu V 3
+-Pedro Vial 2
+- guisa 1
+- mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+
+*Nueces*
+- R. Opazo 1
+- Juan Diego Lyon 1
+- Majo 1
+- Ric 1
+-Pedro Vial 1
+- Samuel Billikopf 1
+
+*Paltas Hass*
+- R. Opazo 9
+- Juan Diego Lyon 3
+- Majo 4
+- Cote 2
+- Michella 3
+-Ric 1
+-Alvaro Caviedes 3
+-Florencia 2
+-rodrigo m 1
+- Samuel Billikopf 2
+- Jesu V 3
+- Pablo Vial 2
+- Rodrigo Fdez 20
+-Pedro Vial 2
+- guisa 3
+-mau 4
+-cata Tondreau 1
+- Cami de la sotta 3
+-paul b 3
+- javi 5
+-barbara 1
+-rosario 11
+
+*Quesos*
+- R. Opazo 5
+- Juan Diego Lyon 2
+- Michella 1
+-Alvaro Caviedes 1
+- Jesu V 1
+- mau 3
+- Cami de ma sotta 1
+-paul b 1
+-rosario 1
+
+*Frutillas*
+- R. Opazo 7
+- Majo 1
+- javi 1
+- Michella 1 
+-Alvaro Caviedes 1
+-Rodrigo M 3
+-Samuel Billikopf 1 
+- Jesu V 2
+- Pablo Vial 2
+-Pedro Vial 1
+- guisa 3
+- mau 1
+- Cami de la Sotta 1
+-rosario 5
+
+
+
+*Mani*
+- R. Opazo 5
+- Michella 1
+- Jesu V 1
+- Rodrigo Fdez 2
+- guisa 1
+- Samuel B 1 
+-barbara 1
+
+*Pistacho*
+- R. Opazo 2
+- Majo 1
+- Cote 1
+- Michella 1
+- Ric 1
+- Jesu V 1
+- Rodrigo Fdez 4
+- paul b 1
+- guisa 1
+- Samuel 1
+-barbara 1
+
+*Castañas de Caju*
+- R. Opazo 1
+- Cote 1
+- Ric 1
+- guisa 2
+- michella 1
+- Samuel B 1
+- barbara 1
+ 
+*Almendra*
+- R. Opazo 3
+- Michella 1
+- Rodrigo Fdez 3
+-Pedro Vial 1
+- Samuel B 1
+2017-10-14 05:14:09 BOT : Espera un segundo...
+2017-10-14 05:14:09 USER: waiting
+2017-10-14 05:14:10 BOT : ```
+Pedido Sabado 14/10:
+
+Total por producto:
+Nueces - 6
+Frutillas - 30
+Almendra - 9
+Mani - 12
+Quesos - 16
+Naranjas Jugo - 40
+Pistacho - 15
+Paltas Hass - 88
+Castañas de Caju - 8
+
+Detalle:
+                 Nu Fr Al Ma Qu Na Pi Pa Ca Total 
+Alvaro Caviedes : 0  1  0  0  1  2  0  3  0   7  
+Barbara Rodrigue: 0  0  0  1  0  0  1  1  1   4  
+Cami De La Sotta: 0  1  0  0  0  3  0  3  0   7  
+Cami De Ma Sotta: 0  0  0  0  1  0  0  0  0   1  
+Cata Tondreau   : 0  0  0  0  0  1  0  1  0   2  
+Florencia       : 0  0  0  0  0  2  0  2  0   4  
+Javi Del Rio    : 0  1  0  0  0  1  0  5  0   7  
+Jesu Valenzuela : 0  2  0  1  1  3  1  3  0  11  
+Josefina Nazer  : 0  0  0  0  0  0  1  2  1   4  
+Juan Diego Lyon : 1  0  0  0  2  0  0  3  0   6  
+Majo Castañeda  : 1  1  0  0  0  4  1  4  0  11  
+Maria Luisa Fern: 0  3  0  1  0  1  1  3  2  11  
+Mauricio Hernand: 0  1  0  0  3  4  0  4  0  12  
+Michella Mascare: 0  1  1  1  1  3  1  3  1  12  
+Pablo Vial      : 0  2  0  0  0  0  0  2  0   4  
+Paul B          : 0  0  0  0  1  0  1  3  0   5  
+Pedro Vial      : 1  1  1  0  0  2  0  2  0   7  
+Raimundo Opazo  : 1  7  3  5  5 11  2  9  1  44  
+Ric             : 1  0  0  0  0  1  1  1  1   5  
+Rodrigo Fernande: 0  0  3  2  0  0  4 20  0  29  
+Rodrigo Morales : 0  3  0  0  0  0  0  1  0   4  
+Rosario         : 0  5  0  0  1  0  0 11  0  17  
+Samuel          : 0  0  0  0  0  0  1  0  0   1  
+Samuel B        : 0  0  1  1  0  0  0  0  1   3  
+Samuel Billikopf: 1  1  0  0  0  2  0  2  0   6  
+``` Poner en modo horizontal para ver correctamente.
+2017-10-14 14:58:08 USER: /datos
+2017-10-14 14:58:08 BOT : datos() missing 1 required positional argument: 'id_jefe'
+2017-10-14 14:58:32 USER: /datos<Rodrigo Fernández>
+2017-10-14 14:58:32 BOT : Funcion no encontrada.
+2017-10-14 15:08:14 USER: /jefes
+2017-10-14 15:08:14 BOT : Espera un segundo...
+2017-10-14 15:08:15 USER: waiting
+2017-10-14 15:08:15 BOT : 1  - Amalia Abogabir
+2  - Maida Andrews
+3  - Gabriel Araneda
+4  - Martin Araos
+5  - Javi Bernaus
+6  - Paul Brenner
+7  - Alvaro Caeviedes
+8  - Ignacio Castañeda
+9  - Majo Castañeda
+10 - Vicky Chaparro
+11 - Antonia Cisternas
+12 - Josefa Covarrubias
+13 - Florencia Croxatto
+14 - Joaquin Daly
+15 - Dominique Daroch
+16 - Camila De La Sotta
+17 - Javi Del Rio
+18 - Amelia Del Rio
+19 - Constanza Delfau
+20 - Pilar Edwards
+21 - Joaquin Eichholz
+22 - Maria Jesus Elias
+23 - Rafael Errazuriz
+24 - Isidora Fernandez
+25 - Maria Luisa Fernandez
+26 - Rodrigo Fernandez
+27 - Tere Fernandez
+28 - Diego Figueroa
+29 - Matias Flores
+30 - Benjamin Hartmann
+31 - Mauricio Hernandez
+32 - Andres Infante
+33 - Cata Izcue
+34 - Margarita Joglar
+35 - Ric Jungk
+36 - Matias Krumm
+37 - Juan Diego Lyon
+38 - Bernardita Mackenney
+39 - Michella Mascarello
+40 - Vicente Mayol
+41 - Jesu Mckay
+42 - Ignacio Montt
+43 - Rodrigo Morales
+44 - Ignacio Morales
+45 - Josefina Nazer
+46 - Raimundo Opazo
+47 - Trinidad Ossa
+48 - Sofia Ovalle
+49 - Francesco Pamparana
+50 - Trinidad Pereira
+51 - Agustina Pineda
+52 - Benjamin Piña
+53 - Lukas Quense
+54 - Josefina Quiroga
+55 - Rafa Quiroga
+56 - Barbara Rodriguez
+57 - Fede Schilling
+58 - Carola Schumann
+59 - Cata Tondreau
+60 - Iñaki Tramontana
+61 - Juan Undurraga
+62 - Cristobal Valdes
+63 - Antonia Valencia
+64 - Jesu Valenzuela
+65 - Pablo Vial
+66 - Pedro Vial
+67 - Paula Villela
+68 - Gabriel Villela
+69 - Vicente Opazo
+70 - Samuel Billikopf
+
+2017-10-14 15:08:40 USER: /datos
+2017-10-14 15:08:40 BOT : datos() missing 1 required positional argument: 'id_jefe'
+2017-10-14 15:12:28 USER: /datos raimundo opazo
+2017-10-14 15:12:28 BOT : Espera un segundo...
+2017-10-14 15:12:28 USER: waiting
+2017-10-14 15:12:29 BOT : Esta es la coincidencia que se encontro:
+
+*Raimundo Opazo*
+
+Direccion: Av Contralmirante Fernandez Vial 10455, Lo Barnechea
+Telefono: +56952304675
+Mail: opazoraimundo@gmail.com
+Encargado: Lukas Quense
+
+2017-10-14 15:12:53 USER: /datos Rodrigo Fernán
+2017-10-14 15:12:53 BOT : Espera un segundo...
+2017-10-14 15:12:53 USER: waiting
+2017-10-14 15:12:54 BOT : Esta es la coincidencia que se encontro:
+
+*Rodrigo Fernandez*
+
+Direccion: Las Hualtatas 4555 Casa 9, Lo Barnechea
+Telefono: +56986194003
+Mail: rfernandezdelrio@uc.cl
+Encargado: Lukas Quense
+
+2017-10-23 17:51:07 USER: /datos Juan undurraga
+2017-10-23 17:51:07 BOT : Espera un segundo...
+2017-10-23 17:51:07 USER: waiting
+2017-10-23 17:51:08 BOT : Esta es la coincidencia que se encontro:
+
+*Juan Undurraga*
+
+Direccion: Huilquehue 4367, Lo Barnechea
+Telefono: +56974397201.0
+Mail: jundurraga3@miuandes.cl
+Encargado: Ignacio Castañeda
+
+2017-10-24 17:41:19 USER: /datos Maria Luisa Fernandez
+2017-10-24 17:41:20 BOT : Espera un segundo...
+2017-10-24 17:41:20 USER: waiting
+2017-10-24 17:41:22 BOT : Esta es la coincidencia que se encontro:
+
+*Maria Luisa Fernandez*
+
+Direccion: La Invernada 7005, Vitacura
+Telefono: +56982978895.0
+Mail: guisa97@hotmail.com
+Encargado: Lukas Quense
+
+2017-10-27 15:49:30 USER: /lector_detalles
+2017-10-27 15:49:30 BOT : Envíame la lista de pedidos!
+2017-10-27 15:49:34 USER: _Pedido Sabado 28/10_
+
+*Naranjas Jugo*
+- Cami de la Sotta 4
+- jesu v 2
+- javi 1
+- cata tondreau 1
+
+*Nueces*
+- Matias Krumm 3
+
+*Paltas Hass*
+- Cami de la Sotta 7
+- Matias Krumm 5
+-Rosario 11
+
+*Quesos Huentelauquen*
+- Cami de la Sotta 1
+- Matias Krumm 1
+- jesu v 1
+-Rosario 1
+
+*Tomates Cherry*
+- Cami de la Sotta 2
+-Rosario 1
+
+
+*Frutillas*
+- Matias Krumm 1
+-Rosario 1
+
+*Mani*
+- jesu v 1
+
+*Pistacho*
+
+
+
+
+*Castaña*
+
+
+
+*Almendra*
+R. Opazo 1
+2017-10-27 15:49:34 BOT : Chat
+2017-10-27 15:49:41 USER: /lector_detalles
+2017-10-27 15:49:41 BOT : Envíame la lista de pedidos!
+2017-10-27 15:49:44 USER: _Pedido Sabado 28/10_
+
+*Naranjas Jugo*
+- Cami de la Sotta 4
+- jesu v 2
+- javi 1
+- cata tondreau 1
+
+*Nueces*
+- Matias Krumm 3
+
+*Paltas Hass*
+- Cami de la Sotta 7
+- Matias Krumm 5
+-Rosario 11
+
+*Quesos Huentelauquen*
+- Cami de la Sotta 1
+- Matias Krumm 1
+- jesu v 1
+-Rosario 1
+
+*Tomates Cherry*
+- Cami de la Sotta 2
+-Rosario 1
+
+
+*Frutillas*
+- Matias Krumm 1
+-Rosario 1
+
+*Mani*
+- jesu v 1
+
+*Pistacho*
+
+
+
+
+*Castaña*
+
+
+
+*Almendra*
+R. Opazo 1
+2017-10-27 15:49:45 BOT : Espera un segundo...
+2017-10-27 15:49:45 USER: waiting
+2017-10-27 15:49:46 BOT : ```
+Pedido Sabado 28/10:
+
+Total por producto:
+Nueces - 3
+Pistacho - 0
+Paltas Hass - 23
+R. Opazo 1 - 0
+Castaña - 0
+Frutillas - 2
+Tomates Cherry - 3
+Quesos Huentelauquen - 4
+Naranjas Jugo - 8
+Mani - 1
+Almendra - 0
+
+Detalle:
+                 Nu Pi Pa R. Ca Fr To Qu Na Ma Al Total 
+Camila De La Sot: 0  0  7  0  0  0  2  1  4  0  0  14  
+Cata Tondreau   : 0  0  0  0  0  0  0  0  1  0  0   1  
+Javi Del Rio    : 0  0  0  0  0  0  0  0  1  0  0   1  
+Jesu Valenzuela : 0  0  0  0  0  0  0  1  2  1  0   4  
+Matias Krumm    : 3  0  5  0  0  1  0  1  0  0  0  10  
+Rosario Diez    : 0  0 11  0  0  1  1  1  0  0  0  14  
+``` Poner en modo horizontal para ver correctamente.
+2017-10-27 15:50:38 USER: /lector
+2017-10-27 15:50:38 BOT : Envíame la lista de pedidos!
+2017-10-27 15:50:42 USER: _Pedido Sabado 28/10_
+
+*Naranjas Jugo*
+- Cami de la Sotta 4
+- jesu v 2
+- javi 1
+- cata tondreau 1
+
+*Nueces*
+- Matias Krumm 3
+
+*Paltas Hass*
+- Cami de la Sotta 7
+- Matias Krumm 5
+-Rosario 11
+
+*Quesos Huentelauquen*
+- Cami de la Sotta 1
+- Matias Krumm 1
+- jesu v 1
+-Rosario 1
+
+*Tomates Cherry*
+- Cami de la Sotta 2
+-Rosario 1
+
+
+*Frutillas*
+- Matias Krumm 1
+-Rosario 1
+
+*Mani*
+- jesu v 1
+
+*Pistacho*
+
+
+
+
+*Castaña*
+
+
+
+*Almendra*
+R. Opazo 1
+2017-10-27 15:50:42 BOT : Espera un segundo...
+2017-10-27 15:50:42 USER: waiting
+2017-10-27 15:50:43 BOT : ```
+Pedido Sabado 28/10:
+
+Total por producto:
+Nueces - 3
+Pistacho - 0
+Paltas Hass - 23
+R. Opazo 1 - 0
+Castaña - 0
+Frutillas - 2
+Tomates Cherry - 3
+Quesos Huentelauquen - 4
+Naranjas Jugo - 8
+Mani - 1
+Almendra - 0
+
+Total por persona:
+Camila De La Sotta  : 14  
+Cata Tondreau       :  1  
+Javi Del Rio        :  1  
+Jesu Valenzuela     :  4  
+Matias Krumm        : 10  
+Rosario Diez        : 14```
+2017-10-30 15:20:37 USER: /deuda Ricardo jungk
+2017-10-30 15:20:37 BOT : Funcion no encontrada.
+2017-10-30 15:22:05 USER: /deudas Ric
+2017-10-30 15:22:05 BOT : No tienes permiso para utilizar esta función
+2017-11-04 14:11:47 USER: /lector_detalles
+2017-11-04 14:11:47 BOT : Envíame la lista de pedidos!
+2017-11-04 14:11:53 USER: _Pedido Sabado 14/10_
+
+
+*Nueces*
+- R. Opazo 1
+- Michella 1
+- Cote 1
+
+*Paltas Hass*
+- R. Opazo 13
+- Cata Tondreau 2
+- Seba Delorenzo 8
+- guisa 9
+-Michella 9
+- Alvaro C. 2 
+- javi 8
+-paul b 4
+-Juan U 3
+- Cami de la Sotta 5
+-Ric 12
+- fafa 3
+- jesu 2
+- R fdez 20
+-Pedro Vial 2
+-Rodrigo Morales 3
+- Cote 12
+
+*Quesos Huentelauquen*
+- R. Opazo 1
+-Seba Delorenzo 1
+- majo 1
+- javi 1
+- Ric 1
+-Cote 3
+- paul b 1
+- Cami de la sotta 1
+
+*Tomates Cherry*
+- R. Opazo 1
+- Seba Delorenzo 5
+- guisa 6
+- Michella 1
+- Cami de la Sotta 1
+- Ric 3
+- jesu 1
+-Pedro Vial 1
+- Cote 6
+
+*Frutillas*
+- R. Opazo 11
+- Seba Delorenzo 3
+- guisa 5
+- Michella 4
+- javi 2
+-paul b 2
+-Juan U 1
+- Ric 3
+- fafa 2
+- jesu 4
+- Rodrigo Morales 29
+-Pedro Vial 2
+- Cami de la sotta 1
+-Cote 5
+
+*Mani*
+- Seba Delorenzo 1
+- Cami de la Sotta 1
+- Ric 1
+
+
+*Pistacho*
+- Seba Delorenzo 1
+- cami de la Sotta 1
+- Ric 1
+- jesu 1
+-Pedro Vial 2
+-paul b 1
+-Cote 1
+-Juan U 1
+
+*Castaña*
+- Seba Delorenzo 1
+- guisa 1
+- Cami de la Sotta 1
+-Pedro Vial 1
+-Juan U 1
+
+
+*Almendra*
+- R. Opazo 1
+- Seba Delorenzo 1
+- Michella 2
+- Ric 2
+- jesu 1
+2017-11-04 14:11:53 BOT : Chat
+2017-11-04 14:12:32 USER: /lector
+2017-11-04 14:12:32 BOT : Envíame la lista de pedidos!
+2017-11-04 14:12:36 USER: _Pedido Sabado 14/10_
+
+
+*Nueces*
+- R. Opazo 1
+- Michella 1
+- Cote 1
+
+*Paltas Hass*
+- R. Opazo 13
+- Cata Tondreau 2
+- Seba Delorenzo 8
+- guisa 9
+-Michella 9
+- Alvaro C. 2 
+- javi 8
+-paul b 4
+-Juan U 3
+- Cami de la Sotta 5
+-Ric 12
+- fafa 3
+- jesu 2
+- R fdez 20
+-Pedro Vial 2
+-Rodrigo Morales 3
+- Cote 12
+
+*Quesos Huentelauquen*
+- R. Opazo 1
+-Seba Delorenzo 1
+- majo 1
+- javi 1
+- Ric 1
+-Cote 3
+- paul b 1
+- Cami de la sotta 1
+
+*Tomates Cherry*
+- R. Opazo 1
+- Seba Delorenzo 5
+- guisa 6
+- Michella 1
+- Cami de la Sotta 1
+- Ric 3
+- jesu 1
+-Pedro Vial 1
+- Cote 6
+
+*Frutillas*
+- R. Opazo 11
+- Seba Delorenzo 3
+- guisa 5
+- Michella 4
+- javi 2
+-paul b 2
+-Juan U 1
+- Ric 3
+- fafa 2
+- jesu 4
+- Rodrigo Morales 29
+-Pedro Vial 2
+- Cami de la sotta 1
+-Cote 5
+
+*Mani*
+- Seba Delorenzo 1
+- Cami de la Sotta 1
+- Ric 1
+
+
+*Pistacho*
+- Seba Delorenzo 1
+- cami de la Sotta 1
+- Ric 1
+- jesu 1
+-Pedro Vial 2
+-paul b 1
+-Cote 1
+-Juan U 1
+
+*Castaña*
+- Seba Delorenzo 1
+- guisa 1
+- Cami de la Sotta 1
+-Pedro Vial 1
+-Juan U 1
+
+
+*Almendra*
+- R. Opazo 1
+- Seba Delorenzo 1
+- Michella 2
+- Ric 2
+- jesu 1
+2017-11-04 14:12:36 BOT : Espera un segundo...
+2017-11-04 14:12:36 USER: waiting
+2017-11-04 14:12:37 BOT : ```
+Pedido Sabado 14/10:
+
+Total por producto:
+Almendra - 7
+Mani - 3
+Paltas Hass - 117
+Pistacho - 9
+Quesos Huentelauquen - 10
+Tomates Cherry - 25
+Nueces - 3
+Frutillas - 74
+Castaña - 5
+
+Total por persona:
+Alvaro Caeviedes    :  2  
+Camila De La Sotta  : 11  
+Cata Tondreau       :  2  
+Javi Del Rio        : 11  
+Jesu Valenzuela     :  9  
+Josefina Nazer      : 28  
+Juan Undurraga      :  6  
+Majo Castañeda      :  1  
+Maria Luisa Fernandez: 21  
+Michella Mascarello : 17  
+Paul Brenner        :  8  
+Pedro Vial          :  8  
+Rafael Errazuriz    :  5  
+Raimundo Opazo      : 28  
+Ric Jungk           : 23  
+Rodrigo Fernandez   : 20  
+Rodrigo Morales     : 32  
+Sebastian Delorenzo : 21```
+2017-11-04 16:37:15 USER: /datos maida
+2017-11-04 16:37:15 BOT : Espera un segundo...
+2017-11-04 16:37:15 USER: waiting
+2017-11-04 16:37:17 BOT : No se han encontrado coincidencias
+2017-11-04 16:37:55 USER: /dato Maida
+2017-11-04 16:37:55 BOT : Funcion no encontrada.
+2017-11-04 16:39:32 USER: /datos
+2017-11-04 16:39:32 BOT : datos() missing 1 required positional argument: 'id_jefe'
+2017-11-04 16:39:51 USER: /datos Maida Astudillo
+2017-11-04 16:39:51 BOT : Espera un segundo...
+2017-11-04 16:39:51 USER: waiting
+2017-11-04 16:39:52 BOT : Esta es la coincidencia que se encontro:
+
+*Magdalena Astudillo*
+
+Direccion: Vaqueria 6926, Vitacura
+Telefono: +56975580528.0
+Mail: maidastu@gmail.com
+Encargado: Joaquin Eichholz
+

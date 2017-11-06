@@ -1,0 +1,239 @@
+2017-10-07 20:21:49 USER: /start
+2017-10-07 20:21:49 BOT : Hola, soy FrutopiaBot!
+
+Si quieres saber que cosas puedo hacer, escribe /help.
+
+Cualquier problema o duda contactate con mi creador @nachocasta.
+2017-10-07 20:22:03 USER: /help
+2017-10-07 20:22:03 BOT : Mis funciones son las siguientes:
+
+/lector - Resumen pedido
+
+2017-10-07 20:22:51 USER: /lector
+2017-10-07 20:22:51 BOT : Envíame la lista de pedidos!
+2017-10-07 20:22:58 USER: _Pedido Viernes 06/10_
+
+*Naranjas Jugo*
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+*Paltas Hass*
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+*Quesos Huentelauquen*
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+*Frutillas*
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+*Tomates*
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+*Nueces*
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+2017-10-07 20:22:58 BOT : ('Espera un segundo...', 'wait')
+2017-10-07 20:22:58 USER: _Pedido Viernes 06/10_
+
+*Naranjas Jugo*
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+*Paltas Hass*
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+*Quesos Huentelauquen*
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+*Frutillas*
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+*Tomates*
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+*Nueces*
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+2017-10-07 20:22:58 BOT : ('```\nPedido Viernes 06/10:\n\nTotal por producto:\nNaranjas Jugo - 27\nFrutillas - 27\nPaltas Hass - 66\nNueces - 12\nQuesos Huentelauquen - 14\nTomates - 16\n\nTotal por persona:\nBarbara Rodriguez   : 52  \nCami De La Sotta    : 19  \nCata Tondreau       :  5  \nJavi Del Rio        :  9  \nJesu Valenzuela     :  3  \nMartin Araos        :  5  \nMichella Mascarello :  3  \nPablo Vial          :  3  \nRaimundo Opazo      : 36  \nRodrigo Fernandez   : 12  \nRodrigo Morales     : 11  \nTrinidad Pereira    :  4```', 'continue')
+2017-10-07 20:30:44 USER: /lector
+2017-10-07 20:30:44 BOT : Envíame la lista de pedidos!
+2017-10-07 20:31:17 USER: _Pedido Viernes 06/10_
+
+*Naranjas Jugo*
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+*Paltas Hass*
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+*Quesos Huentelauquen*
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+*Frutillas*
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+*Tomates*
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+*Nueces*
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+-nacha besos 10000
+2017-10-07 20:31:18 BOT : ('Espera un segundo...', 'wait')
+2017-10-07 20:31:18 USER: _Pedido Viernes 06/10_
+
+*Naranjas Jugo*
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+*Paltas Hass*
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+*Quesos Huentelauquen*
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+*Frutillas*
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+*Tomates*
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+*Nueces*
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+-nacha besos 10000
+2017-10-07 20:31:18 BOT : ('```\nPedido Viernes 06/10:\n\nTotal por producto:\nNaranjas Jugo - 27\nFrutillas - 27\nPaltas Hass - 66\nNueces - 10012\nQuesos Huentelauquen - 14\nTomates - 16\n\nTotal por persona:\nBarbara Rodriguez   : 52  \nCami De La Sotta    : 19  \nCata Tondreau       :  5  \nJavi Del Rio        :  9  \nJesu Valenzuela     :  3  \nMartin Araos        :  5  \nMichella Mascarello :  3  \nNacha Besos         :10000\nPablo Vial          :  3  \nRaimundo Opazo      : 36  \nRodrigo Fernandez   : 12  \nRodrigo Morales     : 11  \nTrinidad Pereira    :  4```', 'continue')
+2017-10-10 02:12:16 USER: /jefes
+2017-10-10 02:12:16 BOT : ('Espera un segundo...', 'wait')
+2017-10-10 02:12:16 USER: waiting
+2017-10-10 02:12:17 BOT : ('1  - Amalia Abogabir\n2  - Maida Andrews\n3  - Gabriel Araneda\n4  - Martin Araos\n5  - Javi Bernaus\n6  - Paul Brenner\n7  - Alvaro Caeviedes\n8  - Ignacio Castañeda\n9  - Majo Castañeda\n10 - Vicky Chaparro\n11 - Antonia Cisternas\n12 - Josefa Covarrubias\n13 - Florencia Croxatto\n14 - Joaquin Daly\n15 - Dominique Daroch\n16 - Camila De La Sotta\n17 - Javi Del Rio\n18 - Amelia Del Rio\n19 - Constanza Delfau\n20 - Pilar Edwards\n21 - Joaquin Eichholz\n22 - Maria Jesus Elias\n23 - Rafael Errazuriz\n24 - Isidora Fernandez\n25 - Maria Luisa Fernandez\n26 - Rodrigo Fernandez\n27 - Tere Fernandez\n28 - Diego Figueroa\n29 - Matias Flores\n30 - Benjamin Hartmann\n31 - Mauricio Hernandez\n32 - Andres Infante\n33 - Cata Izcue\n34 - Margarita Joglar\n35 - Ric Jungk\n36 - Matias Krumm\n37 - Juan Diego Lyon\n38 - Bernardita Mackenney\n39 - Michella Mascarello\n40 - Vicente Mayol\n41 - Jesu Mckay\n42 - Ignacio Montt\n43 - Rodrigo Morales\n44 - Ignacio Morales\n45 - Josefina Nazer\n46 - Raimundo Opazo\n47 - Trinidad Ossa\n48 - Sofia Ovalle\n49 - Francesco Pamparana\n50 - Trinidad Pereira\n51 - Agustina Pineda\n52 - Benjamin Piña\n53 - Lukas Quense\n54 - Josefina Quiroga\n55 - Rafa Quiroga\n56 - Barbara Rodriguez\n57 - Fede Schilling\n58 - Carola Schumann\n59 - Cata Tondreau\n60 - Iñaki Tramontana\n61 - Juan Undurraga\n62 - Cristobal Valdes\n63 - Antonia Valencia\n64 - Jesu Valenzuela\n65 - Pablo Vial\n66 - Pedro Vial\n67 - Paula Villela\n68 - Gabriel Villela\n', 'continue')
+2017-10-10 02:12:31 USER: /datos
+2017-10-10 02:12:31 BOT : datos() missing 1 required positional argument: 'id_jefe'
+2017-10-10 02:12:44 USER: /datos Pablo Vial
+2017-10-10 02:12:44 BOT : ('Espera un segundo...', 'wait')
+2017-10-10 02:12:44 USER: waiting
+2017-10-10 02:12:44 BOT : ('Esta es la coincidencia que se encontro:\n\nNombre: *Pablo Vial*\nDireccion: Pachica 8279, Las Condes\nTelefono: +56957230044\nMail: pabcontrerasm@udd.cl\nEncargado: Joaquin Eichholz\n', 'continue')

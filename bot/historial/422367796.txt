@@ -1,0 +1,89 @@
+2017-10-07 00:25:23 USER: /start
+2017-10-07 00:25:23 BOT : Hola, soy FrutopiaBot!
+
+Si quieres saber que cosas puedo hacer, escribe /help.
+
+Cualquier problema o duda contactate con mi creador @nachocasta.
+2017-10-07 00:25:39 USER: /help
+2017-10-07 00:25:39 BOT : Mis funciones son las siguientes:
+
+/lector - Resumen pedido
+
+2017-10-07 00:25:47 USER: /lector
+2017-10-07 00:25:47 BOT : Envíame la lista de pedidos!
+2017-10-07 01:07:22 USER: _Pedido Viernes 06/10_
+
+*Naranjas Jugo*
+- R. Opazo 5
+- Jesu V 1
+- Cami de La Sotta 5
+- Barbara 12
+- cata Tondreau 1
+- Pablo Vial 1
+-Michella 2
+
+*Paltas Hass*
+- R. Opazo 11
+- Jesu V 1
+- Cami de la Sotta 5
+- Barbara 20
+- javi 6
+- cata Tondreau 3
+-Martin Araos 2
+- Rodrigo Fdez 12
+- Trini Pereira 1
+-rodrigo m 5
+
+*Quesos Huentelauquen*
+- R. Opazo 5
+- Cami de la Sotta 2
+-Barbara 5
+- Martin Araos 2
+
+*Frutillas*
+- R. Opazo 7
+- Cami de la Sotta 3
+-Barbara 4
+- javi 1
+- Pablo Vial 2
+- cata Tondreau 1
+- Trini p 3
+-rodrigo m 6
+
+*Tomates*
+- R. Opazo 4
+- Jesu V 1
+- Cami de la Sotta 2
+-Barbara 6
+- javi 2 
+- Michella 1
+
+*Nueces*
+- R. Opazo 4
+- Cami de la Sotta 2
+- Barbara 5
+- Martin Araos 1
+2017-10-07 01:07:22 BOT : ```
+Pedido Viernes 06/10:
+
+Total por producto:
+Nueces - 12
+Frutillas - 27
+Naranjas Jugo - 27
+Paltas Hass - 66
+Quesos Huentelauquen - 14
+Tomates - 16
+
+Total por persona:
+Barbara Rodriguez   : 52  
+Cami De La Sotta    : 19  
+Cata Tondreau       :  5  
+Javi Del Rio        :  9  
+Jesu Valenzuela     :  3  
+Martin Araos        :  5  
+Michella Mascarello :  3  
+Pablo Vial          :  3  
+Raimundo Opazo      : 36  
+Rodrigo Fernandez   : 12  
+Rodrigo Morales     : 11  
+Trinidad Pereira    :  4```
