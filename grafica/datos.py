@@ -81,19 +81,6 @@ def agregar_datos_multiples(nombre, apellido, numero,
     return file
 
 def agregar_datos_vendedores(nombre, apellido, numero):
-##    numero = str(numero)[-8:]
-##    numero = "+56 9 {} {}".format(numero[:4],numero[4:])
-##    img = Image.open("grafica/Fotos/difusion_vendedores.jpg")
-##    draw = ImageDraw.Draw(img)
-##    font = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", 300)
-##    y_n = 2300
-##    texto_centrado(draw, font, nombre, 3000, y_n)        # Nombre
-##    texto_centrado(draw, font, apellido, 3000, y_n+250)  # Apellido
-##    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 270)
-##    x = 2350
-##    draw.text((x, y_n+545), numero, (0, 0, 0), font) # Numero
-##    draw = ImageDraw.Draw(img)
-##    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 400)
     numero = str(numero)[-8:]
     numero = "+56 9 {} {}".format(numero[:4],numero[4:])
     img = Image.open("grafica/Fotos/difusion_vendedores.jpg")
@@ -107,6 +94,23 @@ def agregar_datos_vendedores(nombre, apellido, numero):
     draw.text((x, y_n-100), numero, (0, 0, 0), font) # Numero
     draw = ImageDraw.Draw(img)
     file = "grafica/Vendedores/Vendedores {} {}.jpg".format(nombre, apellido)
+    img.save(file)
+    return file
+
+def agregar_datos_frutillas_cerezas(nombre, apellido, numero):
+    numero = str(numero)[-8:]
+    numero = "+56 9 {} {}".format(numero[:4],numero[4:])
+    img = Image.open("grafica/Fotos/frutillas_cerezas.jpg")
+    draw = ImageDraw.Draw(img)
+    font = ImageFont.truetype("grafica/Fuentes/DK Canoodle.otf", 100)
+    x = 170
+    y_n = 1060
+    nombre = nombre + " " + apellido
+    texto_centrado(draw, font, nombre, x+300, y_n+30, (255, 255, 255)) # Nombre
+    font = ImageFont.truetype("grafica/Fuentes/BebasNeue.otf", 100)
+    draw.text((x, y_n+90), numero, (255, 255, 255), font) # Numero
+    draw = ImageDraw.Draw(img)
+    file = "grafica/Vendedores/Fru_Cere {} {}.jpg".format(nombre, apellido)
     img.save(file)
     return file
 

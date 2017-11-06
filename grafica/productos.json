@@ -13,6 +13,20 @@
             "orden": 1
         }
     },
+    "cerezas": {
+        "5": {
+            "disponible": true,
+            "formato": "cajas",
+            "foto": "cerezas.jpg",
+            "nombre": "Cerezas 5 kg",
+            "precio": "12000",
+            "svg": "frutilla.txt",
+            "unidad": "kg",
+            "variable": "cerezas",
+            "variable_precio": "cer_precio",
+            "orden": 1
+        }
+    },
     "mandarinas": {
         "4": {
             "disponible": false,
@@ -47,7 +61,7 @@
             "formato": "mallas",
             "foto": "paltas.jpg",
             "nombre": "Paltas 2 kg",
-            "precio": "5000",
+            "precio": "6000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "paltas",
