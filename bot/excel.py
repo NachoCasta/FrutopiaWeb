@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import time
+from collections import defaultdict
 
 try:
     from lector_excel import cargar_pedido, hojas
@@ -39,16 +40,16 @@ def cargar_pedidos(path):
 
 def deudas_jefes(jefes, path=rel+"datos"):
     pedidos = cargar_pedidos(path)
-    deudas = {}
+    deudas = defaultdict(list)
     for fecha in sorted(list(pedidos.keys())):
         for persona in pedidos[fecha]:
             if persona["nombre"] in jefes:
                 if persona["pagado"] == "NO":
-                    deudas[persona["nombre"]] = (fecha.replace("-", "/"),
-                                                 persona["deuda"])
+                    deudas[persona["nombre"]].append(
+                        (fecha.replace("-", "/"), persona["deuda"]))
     return deudas
             
 
 if __name__ == "__main__":
-    d = deudas_jefe("Majo Castañeda")
+    d = deudas_jefes(["Majo Castañeda"])
     print(d)
