@@ -21,6 +21,8 @@ bot.sendMessage(308964210, "Hola! Me acabo de despertar.")
 
 handler = MessageHandler(True)
 
+respondiendo = []
+
 app = Flask(__name__)
 
 @app.route("/")
@@ -130,8 +132,14 @@ def telegram_webhook():
     if "message" in update:
         mensaje = update["message"]["text"]
         chat_id = update["message"]["chat"]["id"]
-        thread = threading.Thread(target=responder, args=(mensaje, chat_id))
-        thread.start()
+        #thread = threading.Thread(target=responder, args=(mensaje, chat_id))
+        #thread.start()
+        #time.sleep(5)
+        if chat_id in respondiendo:
+            return "OK"
+        respondiendo.append(chat_id)
+        responder(mensaje, chat_id)
+        respondiendo.remove(chat_id)
     return "OK"
 
 def responder(mensaje, chat_id):
