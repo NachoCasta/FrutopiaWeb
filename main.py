@@ -157,7 +157,13 @@ def responder(mensaje, chat_id):
         bot.sendMessage(chat_id, respuesta)
         return "OK"
     if status == "wait":
-        bot.sendMessage(chat_id, respuesta, "Markdown")
+        try:
+            bot.sendMessage(chat_id, respuesta, "Markdown")
+        except Exception:
+            try:
+                bot.sendMessage(chat_id, respuesta)
+            except Exception as err:
+                bot.sendMessage(chat_id, str(err))
         while status == "wait":
             respuesta, status = handler.responder("waiting", chat_id)
     if status == "more":
