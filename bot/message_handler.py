@@ -8,7 +8,7 @@ if __name__ == "__main__":
     from pedido_parser import Parser
     from descargar_dropbox import descargar_excels, descargar_jefes
     from chatbot import ChatBot
-    from excel import excel_to_table, cargar_pedidos, deudas_jefe
+    from excel import excel_to_table, cargar_pedidos, deudas_jefes
     rel = ""
 else:
     rel = "bot/"
@@ -327,6 +327,7 @@ class MessageHandler:
             descargar_jefes(rel+"datos")
             tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
             encargados = list(set([jefe[9] for jefe in tabla]))
+            encargados = [e for e in encargados if str(e) != "nan"]
             s = ""
             for i, encargado in enumerate(encargados):
                 s += "{0:<2} - {1}\n".format(i+1, encargado)
@@ -342,13 +343,28 @@ class MessageHandler:
             path = os.path.join(parent, path)
         with open(path + "/productos.json", "r") as file:
             data = json.load(file)
-        s = ""
+        s = "Aqui estan todos los productos:\n\n"
         for producto, formatos in data.items():
             for formato, detalles in formatos.items():
-                s += ""
+                s += "Producto: {}\nFormato: {}\nPrecio: {}\n\n".format(
+                    mayus(producto), formato, detalles["precio"])
+        yield s.strip()
+                
 
-    def cambiar_precio(self, producto, formato, precio):
-        pass
+    def cambiar_precio(self, chat_id, producto, formato, precio):
+        path = "grafica"
+        if rel != "bot/":
+            parent = os.path.relpath(os.path.join(rel, os.pardir))
+            path = os.path.join(parent, path)
+        with open(path + "/productos.json", "r") as file:
+            data = json.load(file)
+        data[producto.lower()][formato]["precio"] = precio
+        with open(path + "/productos.json", "w") as file:
+            json.dump(data, file, sort_keys=True, indent=4)
+        yield "El precio de los {} fue cambiado a ${}.".format(
+            data[producto.lower()][formato]["nombre"], precio)
+        
+            
         
         
 def leer(texto):

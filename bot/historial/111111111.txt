@@ -335,3 +335,275 @@ Total: 234500
 2017-11-08 15:27:27 USER: /productos
 2017-11-08 15:27:41 USER: /productos
 2017-11-08 15:29:04 USER: /productos
+2017-11-08 17:13:00 USER: /cobranza ignacio castañeda
+2017-11-08 17:13:09 BOT : Encargado: Ignacio Castañeda
+2017-11-08 17:13:11 USER: asd
+2017-11-08 17:13:12 BOT : Majo Castañeda
+2017-11-08 17:13:14 USER: asd
+2017-11-08 17:13:14 BOT : Majo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: 66300
+- 2017/10/21: 4500
+- 2017/11/04: 7500
+Total: 78300
+2017-11-08 17:13:16 USER: asd
+2017-11-08 17:13:16 BOT : Camila De La Sotta
+2017-11-08 17:13:17 USER: asd
+2017-11-08 17:13:17 BOT : Cami! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: 59000
+Total: 59000
+2017-11-08 17:13:18 USER: asd
+2017-11-08 17:13:18 BOT : Javi Del Rio
+2017-11-08 17:13:18 USER: asd
+2017-11-08 17:13:18 BOT : Javi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: 33000
+- 2017/10/21: 44600
+- 2017/10/27: 3500
+- 2017/11/04: 49800
+Total: 130900
+2017-11-08 17:13:19 USER: asd
+2017-11-08 17:13:19 BOT : Ric Jungk
+2017-11-08 17:13:20 USER: asd
+2017-11-08 17:13:20 BOT : Ric! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: 8000
+- 2017/10/14: 38900
+- 2017/11/04: 106900
+Total: 153800
+2017-11-08 17:13:20 USER: asd
+2017-11-08 17:13:20 BOT : Rodrigo Morales
+2017-11-08 17:13:21 USER: asd
+2017-11-08 17:13:21 BOT : Rodrigo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: 119100
+Total: 119100
+2017-11-08 17:13:21 USER: asd
+2017-11-08 17:13:21 BOT : Juan Undurraga
+2017-11-08 17:13:22 USER: asd
+2017-11-08 17:13:22 BOT : Juan! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: 348000
+- 2017/11/04: 31600
+Total: 379600
+2017-11-08 17:13:22 USER: asd
+2017-11-08 17:13:22 BOT : Listo!
+2017-11-08 17:13:23 USER: asd
+2017-11-08 17:13:23 BOT : Chat
+2017-11-08 17:13:23 USER: asd
+2017-11-08 17:13:23 BOT : Chat
+2017-11-08 17:13:24 USER: asd
+2017-11-08 17:13:24 BOT : Chat
+2017-11-08 17:49:41 USER: /productos
+2017-11-08 17:49:54 USER: /productos
+2017-11-08 17:49:54 BOT : Aqui estan todos los productos:
+
+Producto: frutillas
+Formato: 2
+ Precio: 7000
+
+Producto: cerezas
+Formato: 5
+ Precio: 12000
+
+Producto: mandarinas
+Formato: 4
+ Precio: 6000
+
+Producto: naranjas
+Formato: 5
+ Precio: 5000
+
+Producto: paltas hass
+Formato: 2
+ Precio: 6000
+
+Producto: quesos
+Formato: 1
+ Precio: 9000
+
+Producto: tomates cherry
+Formato: 1
+ Precio: 6000
+
+Producto: nueces
+Formato: 500
+ Precio: 7000
+
+Producto: mani
+Formato: 1
+ Precio: 6000
+
+Producto: almendras
+Formato: 500
+ Precio: 9000
+
+Producto: caju
+Formato: 400
+ Precio: 9000
+
+Producto: pistachos
+Formato: 500
+ Precio: 10000
+2017-11-08 17:50:14 USER: /productos
+2017-11-08 17:50:14 BOT : Aqui estan todos los productos:
+
+Producto: Frutillas
+Formato: 2
+Precio: 7000
+
+Producto: Cerezas
+Formato: 5
+Precio: 12000
+
+Producto: Mandarinas
+Formato: 4
+Precio: 6000
+
+Producto: Naranjas
+Formato: 5
+Precio: 5000
+
+Producto: Paltas Hass
+Formato: 2
+Precio: 6000
+
+Producto: Quesos
+Formato: 1
+Precio: 9000
+
+Producto: Tomates Cherry
+Formato: 1
+Precio: 6000
+
+Producto: Nueces
+Formato: 500
+Precio: 7000
+
+Producto: Mani
+Formato: 1
+Precio: 6000
+
+Producto: Almendras
+Formato: 500
+Precio: 9000
+
+Producto: Caju
+Formato: 400
+Precio: 9000
+
+Producto: Pistachos
+Formato: 500
+Precio: 10000
+2017-11-08 17:53:14 USER: /productos
+2017-11-08 17:53:14 BOT : Aqui estan todos los productos:
+
+Producto: Frutillas
+Formato: 2
+Precio: 7000
+
+Producto: Cerezas
+Formato: 5
+Precio: 12000
+
+Producto: Mandarinas
+Formato: 4
+Precio: 6000
+
+Producto: Naranjas
+Formato: 5
+Precio: 5000
+
+Producto: Paltas Hass
+Formato: 2
+Precio: 6000
+
+Producto: Quesos
+Formato: 1
+Precio: 9000
+
+Producto: Tomates Cherry
+Formato: 1
+Precio: 6000
+
+Producto: Nueces
+Formato: 500
+Precio: 7000
+
+Producto: Mani
+Formato: 1
+Precio: 6000
+
+Producto: Almendras
+Formato: 500
+Precio: 9000
+
+Producto: Caju
+Formato: 400
+Precio: 9000
+
+Producto: Pistachos
+Formato: 500
+Precio: 10000
+2017-11-08 17:53:22 USER: /precio pistachos 500 11000
+2017-11-08 17:53:22 BOT : cambiar_precio() takes 4 positional arguments but 5 were given
+2017-11-08 17:53:36 USER: /precio pistachos 500 11000
+2017-11-08 17:53:48 USER: /precio pistachos 500 11000
+2017-11-08 17:54:39 USER: /precio pistachos 500 11000
+2017-11-08 17:56:00 USER: /productos
+2017-11-08 17:56:00 BOT : Aqui estan todos los productos:
+
+Producto: Almendras
+Formato: 500
+Precio: 9000
+
+Producto: Caju
+Formato: 400
+Precio: 9000
+
+Producto: Cerezas
+Formato: 5
+Precio: 12000
+
+Producto: Frutillas
+Formato: 2
+Precio: 7000
+
+Producto: Mandarinas
+Formato: 4
+Precio: 6000
+
+Producto: Mani
+Formato: 1
+Precio: 6000
+
+Producto: Naranjas
+Formato: 5
+Precio: 5000
+
+Producto: Nueces
+Formato: 500
+Precio: 7000
+
+Producto: Paltas Hass
+Formato: 2
+Precio: 6000
+
+Producto: Pistachos
+Formato: 500
+Precio: 11000
+
+Producto: Quesos
+Formato: 1
+Precio: 9000
+
+Producto: Tomates Cherry
+Formato: 1
+Precio: 6000
+2017-11-08 17:56:09 USER: /precio pistachos 500 10000
+2017-11-08 17:56:09 BOT : El precio de los Pistachos 500 gr fue cambiado a $10000.
+2017-11-08 17:56:25 USER: /precio pistachos 500 10001
+2017-11-08 17:56:25 BOT : El precio de los Pistachos 500 gr fue cambiado a $10001.
+2017-11-08 17:56:43 USER: /precio pistachos 500 10000
+2017-11-08 17:56:43 BOT : El precio de los Pistachos 500 gr fue cambiado a $10000.
