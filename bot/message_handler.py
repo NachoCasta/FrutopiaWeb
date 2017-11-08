@@ -309,8 +309,9 @@ class MessageHandler:
                     total += int(deuda)
                 if total == 0:
                     continue
-                d += "Total: {}".format(plata(total))
-                s = s.format(nombre=apodos[jefe], deudas=d)
+                if len(d.split("\n")) > 1:
+                    d += "Total: {}".format(plata(total))
+                s = s.format(nombre=apodos[jefe], deudas=d.strip())
                 yield jefe, "more"
                 yield s, "more"
             s = "Listo!"
