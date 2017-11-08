@@ -304,3 +304,30 @@ Esto es lo que estay debiendo:
 - 2017/09/30: 195400
 - 2017/10/14: 39100
 Total: 234500
+2017-11-08 14:34:22 USER: /cobranza joaquin eichholz
+2017-11-08 14:34:29 BOT : object of type 'float' has no len()
+2017-11-08 14:34:53 USER: /cobranza ignacio castañeda
+2017-11-08 14:34:59 BOT : object of type 'float' has no len()
+2017-11-08 14:35:25 USER: /cobranza joaquin eichholz
+2017-11-08 14:36:53 USER: /cobranza joaquin eichholz
+2017-11-08 14:38:03 USER: /cobranza joaquin eichho
+2017-11-08 14:38:16 USER: /encargados
+2017-11-08 14:38:18 BOT : 1  - Ignacio Castañeda
+2  - nan
+3  - Joaquin Eichholz
+4  - Lukas Quense
+2017-11-08 14:39:22 USER: /cobranza ignacio castañeda
+2017-11-08 14:39:22 BOT : object of type 'float' has no len()
+2017-11-08 14:39:45 USER: 
+2017-11-08 14:40:18 USER: /cobranza ignacio castañeda
+2017-11-08 14:40:18 BOT : object of type 'float' has no len()
+2017-11-08 14:40:26 USER: float("asd")
+2017-11-08 14:40:26 BOT : Chat
+2017-11-08 14:40:28 USER: float("asd")
+2017-11-08 14:40:28 BOT : Chat
+2017-11-08 14:40:28 USER: 
+2017-11-08 14:40:58 USER: /cobranza ignacio castañeda
+2017-11-08 14:40:58 BOT : object of type 'float' has no len()
+2017-11-08 14:41:01 USER: 
+2017-11-08 14:42:37 USER: /cobranza ignacio castañeda
+2017-11-08 14:42:37 BOT : Encargado: Ignacio Castañeda

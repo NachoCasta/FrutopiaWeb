@@ -276,6 +276,7 @@ class MessageHandler:
             descargar_excels(rel+"datos")
             tabla = excel_to_table(rel+"datos/Jefes 2017-2.xlsx", "Personas")
             encargados = list(set([jefe[9] for jefe in tabla]))
+            encargados = [e for e in encargados if str(e) != "nan"]
             apodos = excel_to_table(rel+"datos/Jefes 2017-2.xlsx",
                                     "Apodos Cobranza")
             apodos = {nombre: apodo for nombre, apodo in apodos}
