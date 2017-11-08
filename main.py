@@ -135,6 +135,8 @@ def telegram_webhook():
         #thread = threading.Thread(target=responder, args=(mensaje, chat_id))
         #thread.start()
         #time.sleep(5)
+        #bot.sendMessage(chat_id, mensaje)
+        #return "OK"
         if chat_id in respondiendo:
             return "OK"
         respondiendo.append(chat_id)
@@ -143,7 +145,6 @@ def telegram_webhook():
     return "OK"
 
 def responder(mensaje, chat_id):
-    #bot.sendMessage(chat_id, mensaje)
     status = None
     try:
         respuesta = handler.responder(mensaje, chat_id)

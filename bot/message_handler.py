@@ -297,9 +297,10 @@ class MessageHandler:
             yield "Encargado: {}".format(encargado), "more"
             jefes = [jefe[0] + " " + jefe[1] for jefe in tabla
                      if jefe[9] == encargado]
+            deudas_totales = deudas_jefes(jefes)
             for jefe in jefes:
+                deudas = deudas_totales[jefe]
                 s = leer("texto_deudas")
-                deudas = deudas_jefe(jefe)
                 d = ""
                 total = 0
                 for fecha, deuda in deudas:

@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import time
 
 try:
     from lector_excel import cargar_pedido, hojas
@@ -36,16 +37,16 @@ def cargar_pedidos(path):
             pedidos_totales[info["fecha_formato"]] = pedido
     return pedidos_totales
 
-def deudas_jefe(jefe, path=rel+"datos"):
+def deudas_jefes(jefes, path=rel+"datos"):
     pedidos = cargar_pedidos(path)
-    deudas_jefe = []
+    deudas = {}
     for fecha in sorted(list(pedidos.keys())):
         for persona in pedidos[fecha]:
-            if persona["nombre"] == jefe:
+            if persona["nombre"] in jefes:
                 if persona["pagado"] == "NO":
-                    deudas_jefe.append(
-                        (fecha.replace("-", "/"), persona["deuda"]))
-    return deudas_jefe
+                    deudas[persona["nombre"]] = (fecha.replace("-", "/"),
+                                                 persona["deuda"])
+    return deudas
             
 
 if __name__ == "__main__":
