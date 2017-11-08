@@ -115,6 +115,7 @@ class MessageHandler:
     @permiso("owner", "admin", "moderador")
     def lector(self, chat_id):
         pedidos = yield "Envíame la lista de pedidos!"
+        status = "continue"
         try:
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -131,13 +132,15 @@ class MessageHandler:
             respuesta += "```"
         except Exception as err:
             respuesta = str(err)
+            status = "error"
         if respuesta.strip() == "":
             respuesta = "Lo siento, no entendí."
-        yield respuesta, "continue"
+        yield respuesta, status
 
     @permiso("owner", "admin", "moderador")
     def lector_detalles(self, chat_id):
         pedidos = yield "Envíame la lista de pedidos!"
+        status = "continue"
         try:
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -155,12 +158,14 @@ class MessageHandler:
             respuesta += "Poner en modo horizontal para ver correctamente."
         except Exception as err:
             respuesta = str(err)
+            status = "error"
         if respuesta.strip() == "":
             respuesta = "Lo siento, no entendí."
-        yield respuesta, "continue"
+        yield respuesta, status
 
     @permiso("owner", "admin", "moderador", "repartidor")
     def jefes(self, chat_id):
+        status = "continue"
         try:
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -171,10 +176,12 @@ class MessageHandler:
                 s += "{0:<2} - {1} {2}\n".format(i+1, jefe[0], jefe[1])
         except Exception as err:
             s = str(err)
-        yield s, "continue"
+            status = "error"
+        yield s, status
 
     @permiso("owner", "admin", "moderador", "repartidor")
     def datos(self, chat_id, id_jefe, *args):
+        status = "continue"
         try:
             s = ""
             if self.bot:
@@ -199,7 +206,8 @@ class MessageHandler:
             s += "Encargado: {}\n".format(jefe[9])
         except Exception as err:
             s = str(err)
-        yield s, "continue"
+            status = "error"
+        yield s, status
 
     @permiso("owner")
     def agregar_usuario(self, chat_id, rol, id_usuario):
@@ -227,6 +235,7 @@ class MessageHandler:
 
     @permiso("owner", "admin")
     def deudas(self, chat_id, id_jefe, *args):
+        status = "continue"
         try:
             s = ""
             if self.bot:
@@ -255,10 +264,12 @@ class MessageHandler:
             s += "Total: {}".format(total)
         except Exception as err:
             s = str(err)
-        yield s.strip(), "continue"
+            status = "error"
+        yield s.strip(), status
 
     @permiso("owner", "admin")
     def cobranza(self, chat_id, encargado, *args):
+        status = "continue"
         try:
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -294,13 +305,15 @@ class MessageHandler:
                 s = s.format(nombre=apodos[jefe], deudas=d)
                 yield jefe, "more"
                 yield s, "more"
+            s = "Listo!"
         except Exception as err:
-            raise err
             s = str(err)
-        yield "Listo!", "continue"
+            status = "error"
+        yield s, status
 
     @permiso("owner", "admin")
     def encargados(self, chat_id):
+        status = "continue"
         try:
             if self.bot:
                 yield "Espera un segundo...", "wait"
@@ -312,7 +325,8 @@ class MessageHandler:
                 s += "{0:<2} - {1}\n".format(i+1, encargado)
         except Exception as err:
             s = str(err)
-        yield s.strip(), "continue"
+            status = "error"
+        yield s.strip(), status
         
         
 def leer(texto):

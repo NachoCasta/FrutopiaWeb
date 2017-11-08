@@ -128,9 +128,14 @@ def telegram_webhook():
         mensaje = update["message"]["text"]
         chat_id = update["message"]["chat"]["id"]
         #bot.sendMessage(chat_id, mensaje)
-        respuesta = handler.responder(mensaje, chat_id)
+        try:
+            respuesta = handler.responder(mensaje, chat_id)
+        except Exception as err:
+            bot.sendMessage(chat_id, str(err))
         if len(list(respuesta)) == 2:
             respuesta, status = respuesta
+        if stats == "error":
+            bot.sendMessage(chat_id, respuesta)
         if status == "wait":
             bot.sendMessage(chat_id, respuesta, "Markdown")
             while status == "wait":
