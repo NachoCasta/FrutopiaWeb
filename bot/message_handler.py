@@ -2,6 +2,7 @@ import time
 import threading
 import difflib
 import json
+import os
 
 if __name__ == "__main__":
     from pedido_parser import Parser
@@ -70,7 +71,9 @@ class MessageHandler:
             "ver_roles": self.ver_roles,
             "encargados": self.encargados,
             "deudas": self.deudas,
-            "cobranza": self.cobranza
+            "cobranza": self.cobranza,
+            "productos": self.productos,
+            "precio": self.cambiar_precio
             }
         with open(rel+"datos/roles.json", "r") as file:
             self.roles = json.load(file)
@@ -330,6 +333,21 @@ class MessageHandler:
             s = str(err)
             status = "error"
         yield s.strip(), status
+
+    def productos(self, chat_id):
+        path = "grafica"
+        if rel != "bot/":
+            parent = os.path.relpath(os.path.join(rel, os.pardir))
+            path = os.path.join(parent, path)
+        with open(path + "/productos.json", "r") as file:
+            data = json.load(file)
+        s = ""
+        for producto, formatos in data.items():
+            for formato, detalles in formatos.items():
+                s += ""
+
+    def cambiar_precio(self, producto, formato, precio):
+        pass
         
         
 def leer(texto):

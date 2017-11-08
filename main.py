@@ -1,5 +1,6 @@
 import urllib3
 import time
+import threading
 
 import telepot
 from flask import Flask, render_template, redirect, url_for, request, \
@@ -13,7 +14,10 @@ from bot.message_handler import MessageHandler
 
 secret = "hgckmlwpojik9fbfdihbsiuo"
 bot = telepot.Bot("462586547:AAF0sLikfUc2-ixPIJ125NsWIhifMWQiBv8")
-bot.setWebhook("https://www.frutopiachile.cl/{}".format(secret), max_connections=1)
+bot.setWebhook("https://www.frutopiachile.cl/{}".format(secret),
+               max_connections=1)
+
+bot.sendMessage(308964210, "Hola! Me acabo de despertar.")
 
 handler = MessageHandler(True)
 
@@ -124,33 +128,40 @@ def excel_vendedor():
 def telegram_webhook():
     update = request.get_json()
     if "message" in update:
-        status = None
         mensaje = update["message"]["text"]
         chat_id = update["message"]["chat"]["id"]
-        #bot.sendMessage(chat_id, mensaje)
-        try:
-            respuesta = handler.responder(mensaje, chat_id)
-        except Exception as err:
-            bot.sendMessage(chat_id, str(err))
-        if len(list(respuesta)) == 2:
-            respuesta, status = respuesta
-        if status == "error":
-            bot.sendMessage(chat_id, respuesta)
-        if status == "wait":
-            bot.sendMessage(chat_id, respuesta, "Markdown")
-            while status == "wait":
-                respuesta, status = handler.responder("waiting", chat_id)
-        if status == "more":
-            while status == "more":
-                bot.sendMessage(chat_id, respuesta, "Markdown")
-                respuesta, status = handler.responder("more", chat_id)
-        if respuesta == "":
-            respuesta = "Error."
-        try:
-            bot.sendMessage(chat_id, respuesta, "Markdown")
-        except Exception as err:
-            bot.sendMessage(chat_id, str(err))
+        threading.Thread(target=responder, args=(mensaje, chat_id))
+        threading.start()
     return "OK"
+
+def responder(mensaje, chat_id):
+    #bot.sendMessage(chat_id, mensaje)
+    status = None
+    try:
+        respuesta = handler.responder(mensaje, chat_id)
+    except Exception as err:
+        bot.sendMessage(chat_id, str(err))
+        return "OK"
+    if len(list(respuesta)) == 2:
+        respuesta, status = respuesta
+    if status == "error":
+        bot.sendMessage(chat_id, respuesta)
+        return "OK"
+    if status == "wait":
+        bot.sendMessage(chat_id, respuesta, "Markdown")
+        while status == "wait":
+            respuesta, status = handler.responder("waiting", chat_id)
+    if status == "more":
+        while status == "more":
+            bot.sendMessage(chat_id, respuesta, "Markdown")
+            respuesta, status = handler.responder("more", chat_id)
+    if respuesta == "":
+        respuesta = "Error."
+    try:
+        bot.sendMessage(chat_id, respuesta, "Markdown")
+    except Exception as err:
+        bot.sendMessage(chat_id, str(err))
+    
 
 @app.route("/construccion")
 def construccion():

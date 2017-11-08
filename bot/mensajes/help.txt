@@ -4,5 +4,7 @@ Mis funciones son las siguientes:
 /jefes - Lista de jefes
 /datos <jefe> - Datos del <jefe>
 /deudas <jefe> - Deudas del <jefe>
+/encargados - Lista de encargados
 /cobranza <encargado> - Deudores de <encargado>
-/encargados - Lisa de encargados
+/productos - Lista de productos
+/precio <producto> <formato> <precio nuevo> - Cambia el precio del producto

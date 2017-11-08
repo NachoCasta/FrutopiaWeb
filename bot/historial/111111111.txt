@@ -331,3 +331,7 @@ Total: 234500
 2017-11-08 14:41:01 USER: 
 2017-11-08 14:42:37 USER: /cobranza ignacio castañeda
 2017-11-08 14:42:37 BOT : Encargado: Ignacio Castañeda
+2017-11-08 15:26:24 USER: /productos
+2017-11-08 15:27:27 USER: /productos
+2017-11-08 15:27:41 USER: /productos
+2017-11-08 15:29:04 USER: /productos
