@@ -196,7 +196,8 @@ class MessageHandler:
                 match = difflib.get_close_matches(nombre, nombres)
                 if len(match) > 0:
                     jefe = tabla[nombres.index(match[0])]
-                    s += "Esta es la coincidencia que se encontro:\n\n"
+                    s = ""
+                    yield "Esta es la coincidencia que se encontro:", "more"
                 else:
                     yield "No se han encontrado coincidencias", "continue"
             s += "*{} {}*\n\n".format(jefe[0], jefe[1])
@@ -250,7 +251,8 @@ class MessageHandler:
                 match = difflib.get_close_matches(nombre, nombres)
                 if len(match) > 0:
                     jefe = tabla[nombres.index(match[0])]
-                    s += "Esta es la coincidencia que se encontro:\n\n"
+                    s = ""
+                    yield "Esta es la coincidencia que se encontro:", "more"
                 else:
                     yield "No se han encontrado coincidencias", "continue"
             nombre = jefe[0] + " " + jefe[1]
