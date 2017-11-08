@@ -15,7 +15,7 @@ else:
     from bot.pedido_parser import Parser
     from bot.descargar_dropbox import descargar_excels, descargar_jefes
     from bot.chatbot import ChatBot
-    from bot.excel import excel_to_table, cargar_pedidos, deudas_jefe
+    from bot.excel import excel_to_table, cargar_pedidos, deudas_jefes
 
 
 def historial(func):
