@@ -130,8 +130,8 @@ def telegram_webhook():
     if "message" in update:
         mensaje = update["message"]["text"]
         chat_id = update["message"]["chat"]["id"]
-        threading.Thread(target=responder, args=(mensaje, chat_id))
-        threading.start()
+        thread = threading.Thread(target=responder, args=(mensaje, chat_id))
+        thread.start()
     return "OK"
 
 def responder(mensaje, chat_id):
