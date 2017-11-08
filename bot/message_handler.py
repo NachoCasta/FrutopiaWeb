@@ -4,6 +4,7 @@ import difflib
 import json
 import os
 
+
 if __name__ == "__main__":
     from pedido_parser import Parser
     from descargar_dropbox import descargar_excels, descargar_jefes
@@ -259,14 +260,14 @@ class MessageHandler:
                 else:
                     yield "No se han encontrado coincidencias", "continue"
             nombre = jefe[0] + " " + jefe[1]
-            deudas = deudas_jefe(nombre)
-            s += "*{}*\n\n".format(nombre)
+            deudas = deudas_jefes([nombre])[nombre]
+            s += "*{}*\n".format(nombre)
             s += "Deudas:\n"
             total = 0
             for fecha, deuda in deudas:
-                s += "- {}: {}\n".format(fecha, deuda)
+                s += "- {}: {}\n".format(fecha, plata(deuda))
                 total += int(deuda)
-            s += "Total: {}".format(total)
+            s += "Total: {}".format(plata(total))
         except Exception as err:
             s = str(err)
             status = "error"
@@ -304,11 +305,11 @@ class MessageHandler:
                 d = ""
                 total = 0
                 for fecha, deuda in deudas:
-                    d += "- {}: {}\n".format(fecha, deuda)
+                    d += "- {}: {}\n".format(fecha, plata(deuda))
                     total += int(deuda)
                 if total == 0:
                     continue
-                d += "Total: {}".format(total)
+                d += "Total: {}".format(plata(total))
                 s = s.format(nombre=apodos[jefe], deudas=d)
                 yield jefe, "more"
                 yield s, "more"
@@ -386,6 +387,9 @@ def is_int(n):
 
 def mayus(string):
     return " ".join([s[0].upper() + s[1:] for s in string.split()])
+
+def plata(p):
+    return '${0:,}'.format(p).replace(",",".")
 
 if __name__ == "__main__":
     h = MessageHandler()

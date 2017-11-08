@@ -607,3 +607,20 @@ Precio: 6000
 2017-11-08 17:56:25 BOT : El precio de los Pistachos 500 gr fue cambiado a $10001.
 2017-11-08 17:56:43 USER: /precio pistachos 500 10000
 2017-11-08 17:56:43 BOT : El precio de los Pistachos 500 gr fue cambiado a $10000.
+2017-11-08 18:18:21 USER: 
+2017-11-08 18:18:29 USER: 
+2017-11-08 18:18:47 USER: 
+2017-11-08 18:19:48 USER: /deudas ric jungk
+2017-11-08 18:19:55 BOT : Esta es la coincidencia que se encontro:
+2017-11-08 18:19:57 USER: ad
+2017-11-08 18:19:57 BOT : name 'deudas_jefe' is not defined
+2017-11-08 18:20:25 USER: /deudas ric jungk
+2017-11-08 18:20:33 BOT : Esta es la coincidencia que se encontro:
+2017-11-08 18:20:34 USER: fd
+2017-11-08 18:20:35 BOT : *Ric Jungk*
+
+Deudas:
+- 2017/10/06: $8.000
+- 2017/10/14: $38.900
+- 2017/11/04: $106.900
+Total: $153.800
