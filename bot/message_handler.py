@@ -350,7 +350,7 @@ class MessageHandler:
                     mayus(producto), formato, detalles["precio"])
         yield s.strip()
                 
-
+    @permiso("owner", "admin")
     def cambiar_precio(self, chat_id, producto, formato, precio):
         path = "grafica"
         if rel != "bot/":
