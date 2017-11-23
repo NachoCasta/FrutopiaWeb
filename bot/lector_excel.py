@@ -10,7 +10,7 @@ def cargar_pedido(file, hoja):
     table = pd.read_excel(
         file, sheetname=hoja, header=3,
         parse_cols="B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q," + \
-        " R, S, T, U, V, W, X, Y, Z")
+        " R, S, T, U, V, W, X, Y, Z, AA, AB, AC, AD, AE")
     deseadas = ["Nombre", "Apellido", "Direccion", "Comuna", "Sector",
                 "Encargado", "Pagado", "Telefono", "Mail", "Deuda"]
     columnas = {}
@@ -75,7 +75,7 @@ def cargar_pedido(file, hoja):
         "fecha": " de ".join((hoja, file.split("(")[1].split(")")[0],
                               file.split(" - ")[0]))
             }
-    
+
     return pedidos, info
 
 def hojas(file="nuevo excel.xlsx"):

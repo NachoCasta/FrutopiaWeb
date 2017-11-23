@@ -16841,3 +16841,1556 @@ Rodrigo Fernande: 0  0 20  0  0  0  0  0  0  20
 Rodrigo Morales : 0  0  0  0  0  0  0 28  0  28  
 Seba Delorenzo  : 1  1  8  1  1  5  0  3  1  21  
 ``` Poner en modo horizontal para ver correctamente.
+2017-11-08 21:34:43 USER: /cobranza Joaquin Eichholz
+2017-11-08 21:34:43 BOT : Espera un segundo...
+2017-11-08 21:34:44 USER: waiting
+2017-11-08 21:34:48 BOT : Encargado: Joaquin Eichholz
+2017-11-08 21:34:48 USER: more
+2017-11-08 21:34:51 BOT : Alvaro Caviedes
+2017-11-08 21:34:51 USER: more
+2017-11-08 21:34:51 BOT : Alvaro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-08 21:34:51 USER: more
+2017-11-08 21:34:51 BOT : Florencia Croxatto
+2017-11-08 21:34:51 USER: more
+2017-11-08 21:34:51 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $19.900
+2017-11-08 21:34:52 USER: more
+2017-11-08 21:34:52 BOT : Joaquin Eichholz
+2017-11-08 21:34:52 USER: more
+2017-11-08 21:34:52 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+2017-11-08 21:34:52 USER: more
+2017-11-08 21:34:52 BOT : Rafael Errazuriz
+2017-11-08 21:34:52 USER: more
+2017-11-08 21:34:52 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/30: $88.000
+- 2017/10/21: $118.800
+- 2017/11/04: $20.100
+Total: $226.900
+2017-11-08 21:34:53 USER: more
+2017-11-08 21:34:53 BOT : Diego Figueroa
+2017-11-08 21:34:53 USER: more
+2017-11-08 21:34:53 BOT : Diego! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: $53.800
+2017-11-08 21:34:53 USER: more
+2017-11-08 21:34:53 BOT : Juan Diego Lyon
+2017-11-08 21:34:53 USER: more
+2017-11-08 21:34:53 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-11-08 21:34:53 USER: more
+2017-11-08 21:34:53 BOT : Michella Mascarello
+2017-11-08 21:34:54 USER: more
+2017-11-08 21:34:54 BOT : Miki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $76.300
+2017-11-08 21:34:54 USER: more
+2017-11-08 21:34:54 BOT : Ignacio Montt
+2017-11-08 21:34:54 USER: more
+2017-11-08 21:34:54 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: $122.300
+- 2017/09/23: $37.200
+Total: $159.500
+2017-11-08 21:34:54 USER: more
+2017-11-08 21:34:54 BOT : Josefina Nazer
+2017-11-08 21:34:55 USER: more
+2017-11-08 21:34:55 BOT : Cote! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $548.600
+- 2017/11/04: $211.800
+Total: $760.400
+2017-11-08 21:34:55 USER: more
+2017-11-08 21:34:55 BOT : Cata Tondreau
+2017-11-08 21:34:55 USER: more
+2017-11-08 21:34:55 BOT : Cata! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-08 21:34:55 USER: more
+2017-11-08 21:34:55 BOT : Antonia Valencia
+2017-11-08 21:34:55 USER: more
+2017-11-08 21:34:55 BOT : Anto! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: $35.700
+2017-11-08 21:34:56 USER: more
+2017-11-08 21:34:56 BOT : Jesu Valenzuela
+2017-11-08 21:34:56 USER: more
+2017-11-08 21:34:56 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/27: $19.000
+- 2017/11/04: $45.900
+Total: $64.900
+2017-11-08 21:34:56 USER: more
+2017-11-08 21:34:56 BOT : Pablo Vial
+2017-11-08 21:34:56 USER: more
+2017-11-08 21:34:56 BOT : Pablo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/30: $63.300
+- 2017/10/06: $15.500
+- 2017/10/14: $21.400
+Total: $100.200
+2017-11-08 21:34:57 USER: more
+2017-11-08 21:34:57 BOT : Magdalena Astudillo
+2017-11-08 21:34:57 USER: more
+2017-11-08 21:34:57 BOT : Maida! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $27.400
+- 2017/11/04: $96.900
+Total: $124.300
+2017-11-08 21:34:57 USER: more
+2017-11-08 21:34:57 BOT : Listo!
+2017-11-10 01:56:36 USER: /lector_detalles
+2017-11-10 01:56:36 BOT : Envíame la lista de pedidos!
+2017-11-10 01:56:39 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+- guisa 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 9
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+- guisa 1
+- Seba delorenzo 7
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-10 01:56:39 BOT : Espera un segundo...
+2017-11-10 01:56:40 USER: waiting
+2017-11-10 01:56:41 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Quesos Huentelauquen - 10
+Castaña - 3
+Paltas Hass - 61
+Frutillas - 79
+Mani - 3
+Nueces - 4
+Almendra - 12
+Tomates Cherry - 22
+Pistacho - 7
+Cerezas - 202
+
+Detalle:
+                 Qu Ca Pa Fr Ma Nu Al To Pi Ce Total 
+Andres Infante  : 0  0  2  1  1  0  1  1  0  0   6  
+Barbara Rodrigue: 0  0  2  0  0  0  0  0  0  1   3  
+C. Baldovino    : 2  2  1  2  1  1  1  1  1  3  15  
+Camila De La Sot: 0  0  0  2  0  0  0  1  0  1   4  
+Cata Tondreau   : 0  0  2  0  0  0  0  0  0  2   4  
+Javi Del Rio    : 1  1  9  4  0  1  1  2  2  8  29  
+Josefina Nazer  : 1  0 10  7  0  0  1  0  0 10  29  
+Juan Undurraga  : 1  0  6  5  0  0  2  5  1  0  20  
+Maria Luisa Fern: 1  0  2  1  0  0  0  5  0  0   9  
+Matias Krumm    : 1  0 10  9  0  1  0  1  0 10  32  
+Michella Mascare: 0  0  3  1  1  0  0  1  1  0   7  
+Pedro Vial      : 0  0  0 25  0  0  0  0  0 146 171 
+Raimundo Opazo  : 3  0 12 12  0  1  5  2  2 18  55  
+Sebastian Delore: 0  0  2  7  0  0  0  3  0  0  12  
+Trinidad Pereira: 0  0  0  3  0  0  0  0  0  3   6  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-10 17:38:16 USER: /pedidos
+2017-11-10 17:38:16 BOT : Funcion no encontrada.
+2017-11-10 17:38:21 USER: /cobranza
+2017-11-10 17:38:21 BOT : cobranza() missing 1 required positional argument: 'encargado'
+2017-11-10 17:38:30 USER: /cobranza joaquin eichholz
+2017-11-10 17:38:30 BOT : Espera un segundo...
+2017-11-10 17:38:30 USER: waiting
+2017-11-10 17:38:35 BOT : Encargado: Joaquin Eichholz
+2017-11-10 17:38:36 USER: more
+2017-11-10 17:38:40 BOT : Alvaro Caviedes
+2017-11-10 17:38:40 USER: more
+2017-11-10 17:38:40 BOT : Alvaro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-10 17:38:40 USER: more
+2017-11-10 17:38:40 BOT : Florencia Croxatto
+2017-11-10 17:38:40 USER: more
+2017-11-10 17:38:40 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $19.900
+2017-11-10 17:38:41 USER: more
+2017-11-10 17:38:41 BOT : Joaquin Eichholz
+2017-11-10 17:38:41 USER: more
+2017-11-10 17:38:41 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+2017-11-10 17:38:41 USER: more
+2017-11-10 17:38:41 BOT : Rafael Errazuriz
+2017-11-10 17:38:41 USER: more
+2017-11-10 17:38:41 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/30: $88.000
+- 2017/10/21: $118.800
+- 2017/11/04: $20.100
+Total: $226.900
+2017-11-10 17:38:42 USER: more
+2017-11-10 17:38:42 BOT : Diego Figueroa
+2017-11-10 17:38:42 USER: more
+2017-11-10 17:38:42 BOT : Diego! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: $53.800
+2017-11-10 17:38:42 USER: more
+2017-11-10 17:38:42 BOT : Juan Diego Lyon
+2017-11-10 17:38:42 USER: more
+2017-11-10 17:38:42 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-11-10 17:38:43 USER: more
+2017-11-10 17:38:43 BOT : Michella Mascarello
+2017-11-10 17:38:43 USER: more
+2017-11-10 17:38:43 BOT : Miki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $76.300
+2017-11-10 17:38:43 USER: more
+2017-11-10 17:38:43 BOT : Ignacio Montt
+2017-11-10 17:38:43 USER: more
+2017-11-10 17:38:43 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: $122.300
+- 2017/09/23: $37.200
+Total: $159.500
+2017-11-10 17:38:43 USER: more
+2017-11-10 17:38:43 BOT : Josefina Nazer
+2017-11-10 17:38:44 USER: more
+2017-11-10 17:38:44 BOT : Cote! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $548.600
+- 2017/11/04: $211.800
+Total: $760.400
+2017-11-10 17:38:44 USER: more
+2017-11-10 17:38:44 BOT : Cata Tondreau
+2017-11-10 17:38:44 USER: more
+2017-11-10 17:38:44 BOT : Cata! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-10 17:38:44 USER: more
+2017-11-10 17:38:44 BOT : Antonia Valencia
+2017-11-10 17:38:45 USER: more
+2017-11-10 17:38:45 BOT : Anto! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: $35.700
+2017-11-10 17:38:45 USER: more
+2017-11-10 17:38:45 BOT : Jesu Valenzuela
+2017-11-10 17:38:45 USER: more
+2017-11-10 17:38:45 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/27: $19.000
+- 2017/11/04: $45.900
+Total: $64.900
+2017-11-10 17:38:45 USER: more
+2017-11-10 17:38:45 BOT : Pablo Vial
+2017-11-10 17:38:46 USER: more
+2017-11-10 17:38:46 BOT : Pablo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/30: $63.300
+- 2017/10/06: $15.500
+- 2017/10/14: $21.400
+Total: $100.200
+2017-11-10 17:38:46 USER: more
+2017-11-10 17:38:46 BOT : Magdalena Astudillo
+2017-11-10 17:38:46 USER: more
+2017-11-10 17:38:46 BOT : Maida! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $27.400
+- 2017/11/04: $96.900
+Total: $124.300
+2017-11-10 17:38:46 USER: more
+2017-11-10 17:38:46 BOT : Listo!
+2017-11-10 17:43:21 USER: /lector_detalles
+2017-11-10 17:43:21 BOT : Envíame la lista de pedidos!
+2017-11-10 17:43:26 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 13
+-barbara 2
+- javi 9
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 13
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 4
+-juan u 5
+- trini pereira 5
+- C. Baldovino 2
+- andres infante 1
+- Cote 10
+- Michella 2
+- guisa 2
+- Seba delorenzo 7
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+
+Cerezas
+- R. Opazo 19
+- Cata Tondreau 2
+-Pedro Vial 205
+- Krumm 13
+-barbara 3
+- trini pereira 4
+- C. Baldovino 3
+- Cote 18
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+2017-11-10 17:43:26 BOT : Espera un segundo...
+2017-11-10 17:43:26 USER: waiting
+2017-11-10 17:43:27 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Quesos Huentelauquen - 16
+Castaña - 3
+Paltas Hass - 81
+Frutillas - 114
+Mani - 3
+Nueces - 5
+Almendra - 13
+Tomates Cherry - 25
+Pistacho - 9
+Cerezas - 278
+
+Detalle:
+                 Qu Ca Pa Fr Ma Nu Al To Pi Ce Total 
+Andres Infante  : 0  0  2  1  1  0  1  1  0  0   6  
+Barbara Rodrigue: 1  0  2  0  0  0  0  0  1  3   7  
+C. Baldovino    : 2  2  1  2  1  1  1  1  1  3  15  
+Camila De La Sot: 0  0  0  2  0  0  0  1  0  1   4  
+Cata Tondreau   : 0  0  2  0  0  0  0  0  0  2   4  
+Javi Del Rio    : 1  1  9  4  0  1  1  2  2  8  29  
+Josefina Nazer  : 1  0 11 10  0  0  2  2  0 18  44  
+Juan Undurraga  : 1  0  7  5  0  0  2  5  1  0  21  
+Laura Stuardo   : 0  0  0  0  0  0  0  0  0  2   2  
+Maria Luisa Fern: 2  0  2  2  0  0  0  5  0  0  11  
+Matias Krumm    : 1  0 13 14  0  2  0  1  1 13  45  
+Michella Mascare: 1  0  4  2  1  0  0  1  1  0  10  
+Pedro Vial      : 0  0  2 47  0  0  0  1  0 205 255 
+Raimundo Opazo  : 3  0 12 13  0  1  5  2  2 19  57  
+Rodrigo Fernande: 3  0 12  0  0  0  0  0  0  0  15  
+Sebastian Delore: 0  0  2  7  0  0  0  3  0  0  12  
+Trinidad Pereira: 0  0  0  5  0  0  0  0  0  4   9  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-11 05:17:48 USER: /lector_detalles
+2017-11-11 05:17:48 BOT : Envíame la lista de pedidos!
+2017-11-11 05:17:51 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 221
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 05:17:51 BOT : Espera un segundo...
+2017-11-11 05:17:51 USER: waiting
+2017-11-11 05:17:52 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 19
+Castaña - 3
+Cerezas - 310
+Pistacho - 8
+Paltas Hass - 90
+Tomates Cherry - 27
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  2  0  0   7  
+C. Baldovino    : 1  1  2  2  2  3  1  1  1  1  15  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Javi Del Rio    : 1  2  5  1  1  7  1 10  3  0  31  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 22  4  0 30  0 13  3  0  74  
+Juan Undurraga  : 0  2  5  1  0  0  1  6  5  0  20  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 13  1 13  1  0  45  
+Michella Mascare: 0  0  3  1  0  2  1  6  1  1  15  
+Pedro Vial      : 0  0 53  0  0 221 0  2  1  0  277 
+Raimundo Opazo  : 1  5 14  3  0 20  2 18  2  0  65  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-11 13:57:20 USER: /lector
+2017-11-11 13:57:20 BOT : Envíame la lista de pedidos!
+2017-11-11 13:57:29 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 221
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 13:57:29 BOT : Chat
+2017-11-11 13:57:36 USER: /lector_detalles
+2017-11-11 13:57:36 BOT : Envíame la lista de pedidos!
+2017-11-11 13:57:45 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 221
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 13:57:45 BOT : Espera un segundo...
+2017-11-11 13:57:46 USER: waiting
+2017-11-11 13:57:48 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 19
+Castaña - 3
+Cerezas - 310
+Pistacho - 8
+Paltas Hass - 90
+Tomates Cherry - 27
+Mani - 3
+
+Total por persona:
+Andres Infante      :  6  
+Barbara Rodriguez   :  7  
+C. Baldovino        : 15  
+Camila De La Sotta  :  4  
+Javi Del Rio        : 31  
+Jesu Valenzuela     : 11  
+Josefina Nazer      : 74  
+Juan Undurraga      : 20  
+Laura Stuardo       :  2  
+Maria Luisa Fernandez: 11  
+Matias Krumm        : 45  
+Michella Mascarello : 15  
+Pedro Vial          : 277 
+Raimundo Opazo      : 65  
+Rodrigo Fernandez   : 15  
+Rodrigo Morales     :  4  
+Sebastian Delorenzo : 12  
+Trinidad Pereira    : 12```
+2017-11-11 13:58:16 USER: /lector
+2017-11-11 13:58:16 BOT : Envíame la lista de pedidos!
+2017-11-11 13:58:37 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 221
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 13:58:37 BOT : Espera un segundo...
+2017-11-11 13:58:37 USER: waiting
+2017-11-11 13:58:39 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 19
+Castaña - 3
+Cerezas - 310
+Pistacho - 8
+Paltas Hass - 90
+Tomates Cherry - 27
+Mani - 3
+
+Total por persona:
+Andres Infante      :  6  
+Barbara Rodriguez   :  7  
+C. Baldovino        : 15  
+Camila De La Sotta  :  4  
+Javi Del Rio        : 31  
+Jesu Valenzuela     : 11  
+Josefina Nazer      : 74  
+Juan Undurraga      : 20  
+Laura Stuardo       :  2  
+Maria Luisa Fernandez: 11  
+Matias Krumm        : 45  
+Michella Mascarello : 15  
+Pedro Vial          : 277 
+Raimundo Opazo      : 65  
+Rodrigo Fernandez   : 15  
+Rodrigo Morales     :  4  
+Sebastian Delorenzo : 12  
+Trinidad Pereira    : 12```
+2017-11-11 13:58:59 USER: /lector_detalles
+2017-11-11 13:58:59 BOT : Envíame la lista de pedidos!
+2017-11-11 13:59:03 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 221
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 13:59:03 BOT : Espera un segundo...
+2017-11-11 13:59:03 USER: waiting
+2017-11-11 13:59:04 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 19
+Castaña - 3
+Cerezas - 310
+Pistacho - 8
+Paltas Hass - 90
+Tomates Cherry - 27
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  2  0  0   7  
+C. Baldovino    : 1  1  2  2  2  3  1  1  1  1  15  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Javi Del Rio    : 1  2  5  1  1  7  1 10  3  0  31  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 22  4  0 30  0 13  3  0  74  
+Juan Undurraga  : 0  2  5  1  0  0  1  6  5  0  20  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 13  1 13  1  0  45  
+Michella Mascare: 0  0  3  1  0  2  1  6  1  1  15  
+Pedro Vial      : 0  0 53  0  0 221 0  2  1  0  277 
+Raimundo Opazo  : 1  5 14  3  0 20  2 18  2  0  65  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-11 14:07:06 USER: /lector_detalles
+2017-11-11 14:07:06 BOT : Envíame la lista de pedidos!
+2017-11-11 14:07:11 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 3
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+- barbara 2
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+-barbara 1
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 221
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 14:07:11 BOT : Espera un segundo...
+2017-11-11 14:07:11 USER: waiting
+2017-11-11 14:07:12 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 21
+Castaña - 3
+Cerezas - 310
+Pistacho - 8
+Paltas Hass - 91
+Tomates Cherry - 28
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  3  1  0   9  
+C. Baldovino    : 1  1  2  2  2  3  1  1  1  1  15  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Javi Del Rio    : 1  2  5  1  1  7  1 10  3  0  31  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 22  4  0 30  0 13  3  0  74  
+Juan Undurraga  : 0  2  5  1  0  0  1  6  5  0  20  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 13  1 13  1  0  45  
+Michella Mascare: 0  0  3  1  0  2  1  6  1  1  15  
+Pedro Vial      : 0  0 53  0  0 221 0  2  1  0  277 
+Raimundo Opazo  : 1  5 14  3  0 20  2 18  2  0  65  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-15 20:14:57 USER: /cobranza
+2017-11-15 20:14:57 BOT : cobranza() missing 1 required positional argument: 'encargado'
+2017-11-15 20:15:14 USER: /cobranza Joaquin Eichholz
+2017-11-15 20:15:14 BOT : Espera un segundo...
+2017-11-15 20:15:15 USER: waiting
+2017-11-15 20:15:21 BOT : Encargado: Joaquin Eichholz
+2017-11-15 20:15:21 USER: more
+2017-11-15 20:15:26 BOT : Alvaro Caviedes
+2017-11-15 20:15:26 USER: more
+2017-11-15 20:15:26 BOT : Alvaro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-15 20:15:26 USER: more
+2017-11-15 20:15:26 BOT : Florencia Croxatto
+2017-11-15 20:15:26 USER: more
+2017-11-15 20:15:26 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $19.900
+2017-11-15 20:15:27 USER: more
+2017-11-15 20:15:27 BOT : Joaquin Eichholz
+2017-11-15 20:15:27 USER: more
+2017-11-15 20:15:27 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+2017-11-15 20:15:27 USER: more
+2017-11-15 20:15:27 BOT : Rafael Errazuriz
+2017-11-15 20:15:27 USER: more
+2017-11-15 20:15:27 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-11-15 20:15:28 USER: more
+2017-11-15 20:15:28 BOT : Juan Diego Lyon
+2017-11-15 20:15:28 USER: more
+2017-11-15 20:15:28 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-11-15 20:15:28 USER: more
+2017-11-15 20:15:28 BOT : Michella Mascarello
+2017-11-15 20:15:28 USER: more
+2017-11-15 20:15:28 BOT : Miki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $60.700
+2017-11-15 20:15:29 USER: more
+2017-11-15 20:15:29 BOT : Ignacio Montt
+2017-11-15 20:15:29 USER: more
+2017-11-15 20:15:29 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: $122.300
+- 2017/09/23: $37.200
+Total: $159.500
+2017-11-15 20:15:29 USER: more
+2017-11-15 20:15:29 BOT : Josefina Nazer
+2017-11-15 20:15:29 USER: more
+2017-11-15 20:15:29 BOT : Cote! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $211.800
+- 2017/11/11: $205.600
+Total: $417.400
+2017-11-15 20:15:30 USER: more
+2017-11-15 20:15:30 BOT : Cata Tondreau
+2017-11-15 20:15:30 USER: more
+2017-11-15 20:15:30 BOT : Cata! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-15 20:15:30 USER: more
+2017-11-15 20:15:30 BOT : Jesu Valenzuela
+2017-11-15 20:15:30 USER: more
+2017-11-15 20:15:30 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $45.900
+- 2017/11/11: $41.200
+Total: $87.100
+2017-11-15 20:15:31 USER: more
+2017-11-15 20:15:31 BOT : Listo!
+2017-11-20 14:51:17 USER: /cobranza Joaquin Eichholz
+2017-11-20 14:51:17 BOT : Espera un segundo...
+2017-11-20 14:51:18 USER: waiting
+2017-11-20 14:51:24 BOT : Encargado: Joaquin Eichholz
+2017-11-20 14:51:24 USER: more
+2017-11-20 14:51:30 BOT : Alvaro Caviedes
+2017-11-20 14:51:34 USER: more
+2017-11-20 14:51:34 BOT : Alvaro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-20 14:51:34 USER: more
+2017-11-20 14:51:34 BOT : Florencia Croxatto
+2017-11-20 14:51:35 USER: more
+2017-11-20 14:51:35 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $19.900
+2017-11-20 14:51:35 USER: more
+2017-11-20 14:51:35 BOT : Joaquin Eichholz
+2017-11-20 14:51:35 USER: more
+2017-11-20 14:51:35 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+2017-11-20 14:51:35 USER: more
+2017-11-20 14:51:35 BOT : Rafael Errazuriz
+2017-11-20 14:51:35 USER: more
+2017-11-20 14:51:35 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-11-20 14:51:36 USER: more
+2017-11-20 14:51:36 BOT : Juan Diego Lyon
+2017-11-20 14:51:36 USER: more
+2017-11-20 14:51:36 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-11-20 14:51:36 USER: more
+2017-11-20 14:51:36 BOT : Michella Mascarello
+2017-11-20 14:51:36 USER: more
+2017-11-20 14:51:36 BOT : Miki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $60.700
+2017-11-20 14:51:37 USER: more
+2017-11-20 14:51:37 BOT : Ignacio Montt
+2017-11-20 14:51:37 USER: more
+2017-11-20 14:51:37 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: $122.300
+- 2017/09/23: $37.200
+Total: $159.500
+2017-11-20 14:51:37 USER: more
+2017-11-20 14:51:37 BOT : Josefina Nazer
+2017-11-20 14:51:37 USER: more
+2017-11-20 14:51:37 BOT : Cote! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $211.800
+- 2017/11/11: $205.600
+Total: $417.400
+2017-11-20 14:51:37 USER: more
+2017-11-20 14:51:37 BOT : Cata Tondreau
+2017-11-20 14:51:38 USER: more
+2017-11-20 14:51:38 BOT : Cata! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-20 14:51:38 USER: more
+2017-11-20 14:51:38 BOT : Jesu Valenzuela
+2017-11-20 14:51:38 USER: more
+2017-11-20 14:51:38 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $45.900
+- 2017/11/11: $41.200
+Total: $87.100
+2017-11-20 14:51:38 USER: more
+2017-11-20 14:51:38 BOT : Listo!
+2017-11-22 15:29:57 USER: /cobranza Joaquin Eichholz
+2017-11-22 15:29:57 BOT : Espera un segundo...
+2017-11-22 15:29:58 USER: waiting
+2017-11-22 15:30:04 BOT : Encargado: Joaquin Eichholz
+2017-11-22 15:30:05 USER: more
+2017-11-22 15:30:10 BOT : Alvaro Caviedes
+2017-11-22 15:30:10 USER: more
+2017-11-22 15:30:10 BOT : Alvaro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-22 15:30:10 USER: more
+2017-11-22 15:30:10 BOT : Florencia Croxatto
+2017-11-22 15:30:10 USER: more
+2017-11-22 15:30:10 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $19.900
+2017-11-22 15:30:11 USER: more
+2017-11-22 15:30:11 BOT : Joaquin Eichholz
+2017-11-22 15:30:11 USER: more
+2017-11-22 15:30:11 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+2017-11-22 15:30:11 USER: more
+2017-11-22 15:30:11 BOT : Rafael Errazuriz
+2017-11-22 15:30:11 USER: more
+2017-11-22 15:30:11 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-11-22 15:30:12 USER: more
+2017-11-22 15:30:12 BOT : Juan Diego Lyon
+2017-11-22 15:30:12 USER: more
+2017-11-22 15:30:12 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-11-22 15:30:12 USER: more
+2017-11-22 15:30:12 BOT : Michella Mascarello
+2017-11-22 15:30:12 USER: more
+2017-11-22 15:30:12 BOT : Miki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $60.700
+2017-11-22 15:30:13 USER: more
+2017-11-22 15:30:13 BOT : Ignacio Montt
+2017-11-22 15:30:13 USER: more
+2017-11-22 15:30:13 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/09: $122.300
+- 2017/09/23: $37.200
+Total: $159.500
+2017-11-22 15:30:13 USER: more
+2017-11-22 15:30:13 BOT : Josefina Nazer
+2017-11-22 15:30:13 USER: more
+2017-11-22 15:30:13 BOT : Cote! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $211.800
+- 2017/11/11: $205.600
+Total: $417.400
+2017-11-22 15:30:13 USER: more
+2017-11-22 15:30:13 BOT : Cata Tondreau
+2017-11-22 15:30:14 USER: more
+2017-11-22 15:30:14 BOT : Cata! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $7.400
+2017-11-22 15:30:14 USER: more
+2017-11-22 15:30:14 BOT : Jesu Valenzuela
+2017-11-22 15:30:14 USER: more
+2017-11-22 15:30:14 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $45.900
+- 2017/11/11: $41.200
+Total: $87.100
+2017-11-22 15:30:14 USER: more
+2017-11-22 15:30:14 BOT : Listo!

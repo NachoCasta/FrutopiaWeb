@@ -8101,3 +8101,3930 @@ Ric Jungk           : 23
 Rodrigo Fernandez   : 20  
 Rodrigo Morales     : 32  
 Seba Delorenzo      : 21```
+2017-11-09 23:06:32 USER: /lector_detalles
+2017-11-09 23:06:32 BOT : Envíame la lista de pedidos!
+2017-11-09 23:06:35 USER: Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 8
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-09 23:06:35 BOT : Chat
+2017-11-09 23:06:42 USER: /lector
+2017-11-09 23:06:42 BOT : Envíame la lista de pedidos!
+2017-11-09 23:06:45 USER: Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 8
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-09 23:06:45 BOT : Espera un segundo...
+2017-11-09 23:06:46 USER: waiting
+2017-11-09 23:06:47 BOT : local variable 'producto' referenced before assignment
+2017-11-09 23:07:02 USER: /lector_detalles
+2017-11-09 23:07:02 BOT : Envíame la lista de pedidos!
+2017-11-09 23:07:05 USER: Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 8
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-09 23:07:05 BOT : Chat
+2017-11-09 23:16:20 USER: /lector
+2017-11-09 23:16:20 BOT : Envíame la lista de pedidos!
+2017-11-09 23:16:24 USER: Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 8
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-09 23:16:24 BOT : Chat
+2017-11-09 23:16:27 USER: /lector_detalles
+2017-11-09 23:16:27 BOT : Envíame la lista de pedidos!
+2017-11-09 23:16:30 USER: Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 8
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-09 23:16:31 BOT : Espera un segundo...
+2017-11-09 23:16:31 USER: waiting
+2017-11-09 23:16:33 BOT : local variable 'producto' referenced before assignment
+2017-11-09 23:17:49 USER: /lector_detalles
+2017-11-09 23:17:49 BOT : Envíame la lista de pedidos!
+2017-11-09 23:17:52 USER: Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 8
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-09 23:17:52 BOT : Espera un segundo...
+2017-11-09 23:17:52 USER: waiting
+2017-11-09 23:17:53 BOT : local variable 'producto' referenced before assignment
+2017-11-09 23:21:18 USER: /lector_detalles
+2017-11-09 23:21:19 BOT : Envíame la lista de pedidos!
+2017-11-09 23:21:23 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+
+Frutillas
+- R. Opazo 12
+- Cami de la Sotta 2
+-Pedro Vial 25
+ - Krumm 8
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 18
+- Cata Tondreau 2
+-Pedro Vial 146
+- Krumm 10
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-09 23:21:23 BOT : Espera un segundo...
+2017-11-09 23:21:23 USER: waiting
+2017-11-09 23:21:25 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Quesos Huentelauquen - 9
+Castaña - 3
+Paltas Hass - 57
+Frutillas - 70
+Mani - 3
+Nueces - 4
+Almendra - 12
+Tomates Cherry - 14
+Pistacho - 7
+Cerezas - 202
+
+Detalle:
+                 Qu Ca Pa Fr Ma Nu Al To Pi Ce Total 
+Andres Infante  : 0  0  2  1  1  0  1  1  0  0   6  
+Barbara Rodrigue: 0  0  2  0  0  0  0  0  0  1   3  
+C. Baldovino    : 2  2  1  2  1  1  1  1  1  3  15  
+Camila De La Sot: 0  0  0  2  0  0  0  1  0  1   4  
+Cata Tondreau   : 0  0  2  0  0  0  0  0  0  2   4  
+Javi Del Rio    : 1  1  9  4  0  1  1  2  2  8  29  
+Josefina Nazer  : 1  0 10  7  0  0  1  0  0 10  29  
+Juan Undurraga  : 1  0  6  5  0  0  2  5  1  0  20  
+Matias Krumm    : 1  0 10  8  0  1  0  1  0 10  31  
+Michella Mascare: 0  0  3  1  1  0  0  1  1  0   7  
+Pedro Vial      : 0  0  0 25  0  0  0  0  0 146 171 
+Raimundo Opazo  : 3  0 12 12  0  1  5  2  2 18  55  
+Trinidad Pereira: 0  0  0  3  0  0  0  0  0  3   6  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-10 10:35:48 USER: /lector_detalles
+2017-11-10 10:35:48 BOT : Envíame la lista de pedidos!
+2017-11-10 10:35:54 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 1
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 10
+-barbara 2
+- javi 9
+-Juan U 6
+- C. Baldovino 1
+- Michella 3
+-andres infante 2
+- Cote 10
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+- guisa 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+
+Frutillas
+- R. Opazo 13
+- Cami de la Sotta 2
+-Pedro Vial 44
+ - Krumm 10
+- javi 4
+-juan u 5
+- trini pereira 3
+- C. Baldovino 2
+- andres infante 1
+- Cote 7
+- Michella 1
+- guisa 1
+- Seba delorenzo 7
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 1
+- javi 1
+
+Cerezas
+- R. Opazo 19
+- Cata Tondreau 2
+-Pedro Vial 182
+- Krumm 11
+-barbara 1
+- trini pereira 3
+- C. Baldovino 3
+- Cote 10
+- javi 8
+- Cami de la sotta 1
+2017-11-10 10:35:54 BOT : Espera un segundo...
+2017-11-10 10:35:54 USER: waiting
+2017-11-10 10:35:55 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Quesos Huentelauquen - 10
+Castaña - 3
+Paltas Hass - 63
+Frutillas - 100
+Mani - 3
+Nueces - 4
+Almendra - 12
+Tomates Cherry - 23
+Pistacho - 7
+Cerezas - 240
+
+Detalle:
+                 Qu Ca Pa Fr Ma Nu Al To Pi Ce Total 
+Andres Infante  : 0  0  2  1  1  0  1  1  0  0   6  
+Barbara Rodrigue: 0  0  2  0  0  0  0  0  0  1   3  
+C. Baldovino    : 2  2  1  2  1  1  1  1  1  3  15  
+Camila De La Sot: 0  0  0  2  0  0  0  1  0  1   4  
+Cata Tondreau   : 0  0  2  0  0  0  0  0  0  2   4  
+Javi Del Rio    : 1  1  9  4  0  1  1  2  2  8  29  
+Josefina Nazer  : 1  0 10  7  0  0  1  0  0 10  29  
+Juan Undurraga  : 1  0  6  5  0  0  2  5  1  0  20  
+Maria Luisa Fern: 1  0  2  1  0  0  0  5  0  0   9  
+Matias Krumm    : 1  0 10 10  0  1  0  1  0 11  34  
+Michella Mascare: 0  0  3  1  1  0  0  1  1  0   7  
+Pedro Vial      : 0  0  2 44  0  0  0  1  0 182 229 
+Raimundo Opazo  : 3  0 12 13  0  1  5  2  2 19  57  
+Sebastian Delore: 0  0  2  7  0  0  0  3  0  0  12  
+Trinidad Pereira: 0  0  0  3  0  0  0  0  0  3   6  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-10 16:44:10 USER: /lector
+2017-11-10 16:44:10 BOT : Envíame la lista de pedidos!
+2017-11-10 16:44:13 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 13
+-barbara 2
+- javi 9
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 13
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 4
+-juan u 5
+- trini pereira 4
+- C. Baldovino 2
+- andres infante 1
+- Cote 10
+- Michella 2
+- guisa 2
+- Seba delorenzo 7
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+
+Cerezas
+- R. Opazo 19
+- Cata Tondreau 2
+-Pedro Vial 205
+- Krumm 13
+-barbara 3
+- trini pereira 3
+- C. Baldovino 3
+- Cote 16
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+2017-11-10 16:44:13 BOT : Chat
+2017-11-10 16:44:18 USER: /lector_detalles
+2017-11-10 16:44:18 BOT : Envíame la lista de pedidos!
+2017-11-10 16:44:20 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 13
+-barbara 2
+- javi 9
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 13
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 4
+-juan u 5
+- trini pereira 4
+- C. Baldovino 2
+- andres infante 1
+- Cote 10
+- Michella 2
+- guisa 2
+- Seba delorenzo 7
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+
+Cerezas
+- R. Opazo 19
+- Cata Tondreau 2
+-Pedro Vial 205
+- Krumm 13
+-barbara 3
+- trini pereira 3
+- C. Baldovino 3
+- Cote 16
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+2017-11-10 16:44:20 BOT : Espera un segundo...
+2017-11-10 16:44:21 USER: waiting
+2017-11-10 16:44:23 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Quesos Huentelauquen - 16
+Castaña - 3
+Paltas Hass - 81
+Frutillas - 113
+Mani - 3
+Nueces - 5
+Almendra - 13
+Tomates Cherry - 25
+Pistacho - 9
+Cerezas - 275
+
+Detalle:
+                 Qu Ca Pa Fr Ma Nu Al To Pi Ce Total 
+Andres Infante  : 0  0  2  1  1  0  1  1  0  0   6  
+Barbara Rodrigue: 1  0  2  0  0  0  0  0  1  3   7  
+C. Baldovino    : 2  2  1  2  1  1  1  1  1  3  15  
+Camila De La Sot: 0  0  0  2  0  0  0  1  0  1   4  
+Cata Tondreau   : 0  0  2  0  0  0  0  0  0  2   4  
+Javi Del Rio    : 1  1  9  4  0  1  1  2  2  8  29  
+Josefina Nazer  : 1  0 11 10  0  0  2  2  0 16  42  
+Juan Undurraga  : 1  0  7  5  0  0  2  5  1  0  21  
+Laura Stuardo   : 0  0  0  0  0  0  0  0  0  2   2  
+Maria Luisa Fern: 2  0  2  2  0  0  0  5  0  0  11  
+Matias Krumm    : 1  0 13 14  0  2  0  1  1 13  45  
+Michella Mascare: 1  0  4  2  1  0  0  1  1  0  10  
+Pedro Vial      : 0  0  2 47  0  0  0  1  0 205 255 
+Raimundo Opazo  : 3  0 12 13  0  1  5  2  2 19  57  
+Rodrigo Fernande: 3  0 12  0  0  0  0  0  0  0  15  
+Sebastian Delore: 0  0  2  7  0  0  0  3  0  0  12  
+Trinidad Pereira: 0  0  0  4  0  0  0  0  0  3   7  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-10 18:00:33 USER: /lector_detalles
+2017-11-10 18:00:33 BOT : Envíame la lista de pedidos!
+2017-11-10 18:00:56 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 13
+-barbara 2
+- javi 9
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 13
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 4
+-juan u 5
+- trini pereira 5
+- C. Baldovino 2
+- andres infante 1
+- Cote 10
+- Michella 2
+- guisa 2
+- Seba delorenzo 7
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+
+Cerezas
+- R. Opazo 19
+- Cata Tondreau 2
+-Pedro Vial 205
+- Krumm 13
+-barbara 3
+- trini pereira 4
+- C. Baldovino 3
+- Cote 18
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+2017-11-10 18:00:56 BOT : Chat
+2017-11-10 18:01:01 USER: /lector_detalles
+2017-11-10 18:01:01 BOT : Envíame la lista de pedidos!
+2017-11-10 18:01:06 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 12
+- Krumm 13
+-barbara 2
+- javi 9
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 1
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 2
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 13
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 4
+-juan u 5
+- trini pereira 5
+- C. Baldovino 2
+- andres infante 1
+- Cote 10
+- Michella 2
+- guisa 2
+- Seba delorenzo 7
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 2
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 1 
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+
+Cerezas
+- R. Opazo 19
+- Cata Tondreau 2
+-Pedro Vial 205
+- Krumm 13
+-barbara 3
+- trini pereira 4
+- C. Baldovino 3
+- Cote 18
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+2017-11-10 18:01:06 BOT : Espera un segundo...
+2017-11-10 18:01:06 USER: waiting
+2017-11-10 18:01:07 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Quesos Huentelauquen - 16
+Castaña - 3
+Paltas Hass - 81
+Frutillas - 114
+Mani - 3
+Nueces - 5
+Almendra - 13
+Tomates Cherry - 25
+Pistacho - 9
+Cerezas - 278
+
+Detalle:
+                 Qu Ca Pa Fr Ma Nu Al To Pi Ce Total 
+Andres Infante  : 0  0  2  1  1  0  1  1  0  0   6  
+Barbara Rodrigue: 1  0  2  0  0  0  0  0  1  3   7  
+C. Baldovino    : 2  2  1  2  1  1  1  1  1  3  15  
+Camila De La Sot: 0  0  0  2  0  0  0  1  0  1   4  
+Cata Tondreau   : 0  0  2  0  0  0  0  0  0  2   4  
+Javi Del Rio    : 1  1  9  4  0  1  1  2  2  8  29  
+Josefina Nazer  : 1  0 11 10  0  0  2  2  0 18  44  
+Juan Undurraga  : 1  0  7  5  0  0  2  5  1  0  21  
+Laura Stuardo   : 0  0  0  0  0  0  0  0  0  2   2  
+Maria Luisa Fern: 2  0  2  2  0  0  0  5  0  0  11  
+Matias Krumm    : 1  0 13 14  0  2  0  1  1 13  45  
+Michella Mascare: 1  0  4  2  1  0  0  1  1  0  10  
+Pedro Vial      : 0  0  2 47  0  0  0  1  0 205 255 
+Raimundo Opazo  : 3  0 12 13  0  1  5  2  2 19  57  
+Rodrigo Fernande: 3  0 12  0  0  0  0  0  0  0  15  
+Sebastian Delore: 0  0  2  7  0  0  0  3  0  0  12  
+Trinidad Pereira: 0  0  0  5  0  0  0  0  0  4   9  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-10 22:55:04 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 2
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 20
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+- Cata Tondreau 2
+-Pedro Vial 207
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 29
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-10 22:55:04 BOT : Chat
+2017-11-10 22:55:06 USER: /lector
+2017-11-10 22:55:06 BOT : Envíame la lista de pedidos!
+2017-11-10 22:55:09 USER: /lector_detalles
+2017-11-10 22:55:09 BOT : Envíame la lista de pedidos!
+2017-11-10 22:55:14 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 2
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 20
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+- Cata Tondreau 2
+-Pedro Vial 207
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 29
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-10 22:55:14 BOT : Chat
+2017-11-10 22:55:17 USER: /lector_detalles
+2017-11-10 22:55:17 BOT : Envíame la lista de pedidos!
+2017-11-10 22:55:20 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 2
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 20
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+- Cata Tondreau 2
+-Pedro Vial 207
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 29
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-10 22:55:20 BOT : Espera un segundo...
+2017-11-10 22:55:21 USER: waiting
+2017-11-10 22:55:22 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 138
+Quesos Huentelauquen - 17
+Castaña - 3
+Cerezas - 296
+Pistacho - 8
+Paltas Hass - 89
+Tomates Cherry - 26
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  2  0  0   7  
+C. Baldovino    : 1  1  2  2  2  3  1  1  1  1  15  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Cata Tondreau   : 0  0  0  0  0  2  0  2  0  0   4  
+Javi Del Rio    : 1  2  5  1  1  8  1 10  3  0  32  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 20  2  0 29  0 11  2  0  66  
+Juan Undurraga  : 0  2  5  1  0  0  1  7  5  0  21  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 13  1 13  1  0  45  
+Michella Mascare: 0  0  3  1  0  0  1  4  1  1  11  
+Pedro Vial      : 0  0 47  0  0 207 0  2  1  0  257 
+Raimundo Opazo  : 1  5 14  3  0 20  2 18  2  0  65  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-10 23:41:11 USER: /lector_detalles
+2017-11-10 23:41:11 BOT : Envíame la lista de pedidos!
+2017-11-10 23:41:15 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 7
+- C. Baldovino 1
+- Michella 4
+-andres infante 2
+- Cote 11
+- cata tondreau 2
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 2
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 2
+
+Frutillas
+- R. Opazo 15
+- Cami de la Sotta 2
+-Pedro Vial 47
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 20
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 21
+- Cata Tondreau 2
+-Pedro Vial 207
+- Krumm 15
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 29
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-10 23:41:15 BOT : Espera un segundo...
+2017-11-10 23:41:15 USER: waiting
+2017-11-10 23:41:16 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 139
+Quesos Huentelauquen - 17
+Castaña - 3
+Cerezas - 299
+Pistacho - 8
+Paltas Hass - 89
+Tomates Cherry - 26
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  2  0  0   7  
+C. Baldovino    : 1  1  2  2  2  3  1  1  1  1  15  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Cata Tondreau   : 0  0  0  0  0  2  0  2  0  0   4  
+Javi Del Rio    : 1  2  5  1  1  8  1 10  3  0  32  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 20  2  0 29  0 11  2  0  66  
+Juan Undurraga  : 0  2  5  1  0  0  1  7  5  0  21  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 15  1 13  1  0  47  
+Michella Mascare: 0  0  3  1  0  0  1  4  1  1  11  
+Pedro Vial      : 0  0 47  0  0 207 0  2  1  0  257 
+Raimundo Opazo  : 1  5 15  3  0 21  2 18  2  0  67  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-11 13:55:47 USER: /lector_detalles
+2017-11-11 13:55:47 BOT : Envíame la lista de pedidos!
+2017-11-11 13:55:52 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 2
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 221
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 13:55:52 BOT : Espera un segundo...
+2017-11-11 13:55:52 USER: waiting
+2017-11-11 13:55:54 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 19
+Castaña - 3
+Cerezas - 310
+Pistacho - 8
+Paltas Hass - 90
+Tomates Cherry - 27
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  2  0  0   7  
+C. Baldovino    : 1  1  2  2  2  3  1  1  1  1  15  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Javi Del Rio    : 1  2  5  1  1  7  1 10  3  0  31  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 22  4  0 30  0 13  3  0  74  
+Juan Undurraga  : 0  2  5  1  0  0  1  6  5  0  20  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 13  1 13  1  0  45  
+Michella Mascare: 0  0  3  1  0  2  1  6  1  1  15  
+Pedro Vial      : 0  0 53  0  0 221 0  2  1  0  277 
+Raimundo Opazo  : 1  5 14  3  0 20  2 18  2  0  65  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-11 14:01:37 USER: /jefes
+2017-11-11 14:01:37 BOT : Espera un segundo...
+2017-11-11 14:01:38 USER: waiting
+2017-11-11 14:01:39 BOT : 1  - Amalia Abogabir
+2  - Maida Andrews
+3  - Gabriel Araneda
+4  - Martin Araos
+5  - Javi Bernaus
+6  - Samuel Billikopf
+7  - Paul Brenner
+8  - Alvaro Caviedes
+9  - Ignacio Castañeda
+10 - Majo Castañeda
+11 - Vicky Chaparro
+12 - Antonia Cisternas
+13 - Josefa Covarrubias
+14 - Florencia Croxatto
+15 - Joaquin Daly
+16 - Dominique Daroch
+17 - Camila De La Sotta
+18 - Amelia Del Rio
+19 - Javi Del Rio
+20 - Constanza Delfau
+21 - Rosario Diez
+22 - Pilar Edwards
+23 - Joaquin Eichholz
+24 - Maria Jesus Elias
+25 - Rafael Errazuriz
+26 - Isidora Fernandez
+27 - Maria Luisa Fernandez
+28 - Rodrigo Fernandez
+29 - Tere Fernandez
+30 - Diego Figueroa
+31 - Matias Flores
+32 - Benjamin Hartmann
+33 - Mauricio Hernandez
+34 - Andres Infante
+35 - Cata Izcue
+36 - Margarita Joglar
+37 - Ric Jungk
+38 - Matias Krumm
+39 - Juan Diego Lyon
+40 - Bernardita Mackenney
+41 - Michella Mascarello
+42 - Vicente Mayol
+43 - Jesu Mckay
+44 - Ignacio Montt
+45 - Ignacio Morales
+46 - Rodrigo Morales
+47 - Josefina Nazer
+48 - Raimundo Opazo
+49 - Vicente Opazo
+50 - Trinidad Ossa
+51 - Sofia Ovalle
+52 - Francesco Pamparana
+53 - Trinidad Pereira
+54 - Agustina Pineda
+55 - Benjamin Piña
+56 - Lukas Quense
+57 - Josefina Quiroga
+58 - Rafa Quiroga
+59 - Barbara Rodriguez
+60 - Fede Schilling
+61 - Carola Schumann
+62 - Cata Tondreau
+63 - Iñaki Tramontana
+64 - Juan Undurraga
+65 - Cristobal Valdes
+66 - Antonia Valencia
+67 - Jesu Valenzuela
+68 - Pablo Vial
+69 - Pedro Vial
+70 - Gabriel Villela
+71 - Paula Villela
+72 - Magdalena Astudillo
+73 - Tomas Ovalle
+
+2017-11-11 14:01:41 USER: /datos
+2017-11-11 14:01:41 BOT : datos() missing 1 required positional argument: 'id_jefe'
+2017-11-11 14:01:45 USER: /datos pedro vial
+2017-11-11 14:01:45 BOT : Espera un segundo...
+2017-11-11 14:01:46 USER: waiting
+2017-11-11 14:01:47 BOT : Esta es la coincidencia que se encontro:
+2017-11-11 14:01:47 USER: more
+2017-11-11 14:01:47 BOT : *Pedro Vial*
+
+Direccion: Padre Ted Huard 4144, Lo Barnechea
+Telefono: +56966640363.0
+Mail: pedrovialbo@gmail.com
+Encargado: Lukas Quense
+
+2017-11-11 16:21:15 USER: /datos Rodrigo morales
+2017-11-11 16:21:15 BOT : Espera un segundo...
+2017-11-11 16:21:16 USER: waiting
+2017-11-11 16:21:17 BOT : Esta es la coincidencia que se encontro:
+2017-11-11 16:21:17 USER: more
+2017-11-11 16:21:18 BOT : *Rodrigo Morales*
+
+Direccion: Los Trapenses 3230, Lo Barnechea
+Telefono: +56975684552.0
+Mail: morales.villar25@gmail.com
+Encargado: Ignacio Castañeda
+
+2017-11-11 21:10:21 USER: /lector_detalles
+2017-11-11 21:10:21 BOT : Envíame la lista de pedidos!
+2017-11-11 21:10:25 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 3
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+- barbara 2
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+-barbara 1
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 223
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 21:10:25 BOT : Chat
+2017-11-11 21:10:29 USER: /lector_detalles
+2017-11-11 21:10:29 BOT : Envíame la lista de pedidos!
+2017-11-11 21:10:34 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 3
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+- barbara 2
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+-barbara 1
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 223
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 21:10:34 BOT : Espera un segundo...
+2017-11-11 21:10:34 USER: waiting
+2017-11-11 21:10:36 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 21
+Castaña - 3
+Cerezas - 312
+Pistacho - 8
+Paltas Hass - 91
+Tomates Cherry - 28
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  3  1  0   9  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Claudio Baldovin: 1  1  2  2  2  3  1  1  1  1  15  
+Javi Del Rio    : 1  2  5  1  1  7  1 10  3  0  31  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 22  4  0 30  0 13  3  0  74  
+Juan Undurraga  : 0  2  5  1  0  0  1  6  5  0  20  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 13  1 13  1  0  45  
+Michella Mascare: 0  0  3  1  0  2  1  6  1  1  15  
+Pedro Vial      : 0  0 53  0  0 223 0  2  1  0  279 
+Raimundo Opazo  : 1  5 14  3  0 20  2 18  2  0  65  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-11 21:11:00 USER: /cobranza lukas quense
+2017-11-11 21:11:00 BOT : Espera un segundo...
+2017-11-11 21:11:00 USER: waiting
+2017-11-11 21:11:06 BOT : Encargado: Lukas Quense
+2017-11-11 21:11:06 USER: more
+2017-11-11 21:11:09 BOT : 'total'
+2017-11-13 13:33:42 USER: /lector_detalles
+2017-11-13 13:33:42 BOT : Envíame la lista de pedidos!
+2017-11-13 13:33:46 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 3
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+- barbara 2
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+-barbara 1
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 222
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 8
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-13 13:33:46 BOT : Espera un segundo...
+2017-11-13 13:33:46 USER: waiting
+2017-11-13 13:33:48 BOT : ```
+Pedido Sábado 11/11:
+
+Total por producto:
+Nueces - 5
+Almendra - 16
+Frutillas - 146
+Quesos Huentelauquen - 21
+Castaña - 3
+Cerezas - 312
+Pistacho - 8
+Paltas Hass - 91
+Tomates Cherry - 28
+Mani - 3
+
+Detalle:
+                 Nu Al Fr Qu Ca Ce Pi Pa To Ma Total 
+Andres Infante  : 0  1  1  0  0  0  0  2  1  1   6  
+Barbara Rodrigue: 0  0  0  1  0  3  1  3  1  0   9  
+Camila De La Sot: 0  0  2  0  0  1  0  0  1  0   4  
+Claudio Baldovin: 1  1  2  2  2  3  1  1  1  1  15  
+Javi Del Rio    : 1  2  5  1  1  8  1 10  3  0  32  
+Jesu Valenzuela : 0  2  5  0  0  3  0  1  0  0  11  
+Josefina Nazer  : 0  2 22  4  0 30  0 13  3  0  74  
+Juan Undurraga  : 0  2  5  1  0  0  1  6  5  0  20  
+Laura Stuardo   : 0  0  0  0  0  2  0  0  0  0   2  
+Maria Luisa Fern: 0  0  2  2  0  0  0  2  5  0  11  
+Matias Krumm    : 2  0 14  1  0 13  1 13  1  0  45  
+Michella Mascare: 0  0  3  1  0  2  1  6  1  1  15  
+Pedro Vial      : 0  0 53  0  0 222 0  2  1  0  278 
+Raimundo Opazo  : 1  5 14  3  0 20  2 18  2  0  65  
+Rodrigo Fernande: 0  0  0  3  0  0  0 12  0  0  15  
+Rodrigo Morales : 0  0  4  0  0  0  0  0  0  0   4  
+Sebastian Delore: 0  0  7  0  0  0  0  2  3  0  12  
+Trinidad Pereira: 0  0  7  0  0  5  0  0  0  0  12  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-13 14:42:51 USER: /deudas rodrigo morales
+2017-11-13 14:42:51 BOT : Espera un segundo...
+2017-11-13 14:42:51 USER: waiting
+2017-11-13 14:42:56 BOT : Esta es la coincidencia que se encontro:
+2017-11-13 14:42:56 USER: more
+2017-11-13 14:43:06 BOT : 'total'
+2017-11-17 17:27:16 USER: /lector_detalles
+2017-11-17 17:27:16 BOT : Envíame la lista de pedidos!
+2017-11-17 17:27:19 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+
+*Paltas Hass*
+- Raimundo Opazo 4
+- guisa 2
+- trini 12
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 1 
+- andres infante 2
+- R Fdez 18
+- michella 1
+- Ric 6
+-trini pereira 1
+- Cote 5
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+
+*Tomates Cherry*
+- Raimundo Opazo 2
+- guisa 1
+- trini 4
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 19
+- guisa 1
+- trini 8
+- javi 5
+- Krumm 4
+-Juan U 10
+-andres infante 1
+Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+
+*Mani*
+-Juan U 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+
+*Cerezas*
+- R. Opazo 14
+- javi 8
+- guisa 3
+-Cata Tondreau 1
+-Pedro Vial 44
+- Cote 3
+- jesu 3
+- trini 6
+-andres infante 1
+- michella 1
+- Laura Stuardo 3
+2017-11-17 17:27:19 BOT : Espera un segundo...
+2017-11-17 17:27:19 USER: waiting
+2017-11-17 17:27:21 BOT : ```
+Sabado 18/11:
+
+Total por producto:
+Frutillas - 58
+Cata Tondreau 1 - 5
+Quesos Huentelauquen - 8
+Almendra - 4
+Castaña - 5
+Tomates Cherry - 18
+Pistacho - 5
+Cerezas - 87
+Paltas Hass - 74
+Nueces - 1
+Mani - 1
+
+Detalle:
+                 Fr Ca Qu Al Ca To Pi Ce Pa Nu Ma Total 
+Andres Infante  : 1  0  0  0  1  1  0  1  2  0  0   6  
+Camila De La Sot: 0  0  1  0  0  0  0  0  1  0  0   2  
+Cata Tondreau   : 0  0  0  0  0  0  0  1  0  0  0   1  
+Javi Del Rio    : 5  0  0  0  0  3  0  8 10  0  0  26  
+Jesu Valenzuela : 0  0  1  2  0  0  0  3  1  0  0   7  
+Josefina Nazer  : 0  2  0  0  0  0  0  3  5  0  0  10  
+Juan Undurraga  :10  0  1  0  2  3  2  0 11  1  1  31  
+Laura Stuardo   : 0  1  0  0  0  1  0  3  0  0  0   5  
+Maria Luisa Fern: 1  0  1  0  0  1  0  3  2  0  0   8  
+Matias Krumm    : 4  0  0  0  0  0  0  0  0  0  0   4  
+Michella Mascare: 0  1  2  1  2  1  1  1  1  0  0  10  
+Pedro Vial      :19  0  0  0  0  0  0 44  0  0  0  63  
+Raimundo Opazo  :10  0  1  1  0  2  1 14  4  0  0  33  
+Ric Jungk       : 0  0  1  0  0  2  0  0  6  0  0   9  
+Rodrigo Fernande: 0  0  0  0  0  0  0  0 18  0  0  18  
+Trini           : 8  0  0  0  0  4  1  6 12  0  0  31  
+Trinidad Pereira: 0  1  0  0  0  0  0  0  1  0  0   2  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-17 21:07:24 USER: /lector_detalles
+2017-11-17 21:07:24 BOT : Envíame la lista de pedidos!
+2017-11-17 21:07:28 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+
+*Paltas Hass*
+- Raimundo Opazo 4
+- guisa 2
+- trini 4
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 1 
+- andres infante 2
+- R Fdez 18
+- michella 1
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+
+*Tomates Cherry*
+- Raimundo Opazo 2
+- guisa 1
+- trini 4
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo1
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 4
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+
+*Mani*
+-Juan U 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+
+*Cerezas*
+- R. Opazo 14
+- javi 8
+- guisa 3
+-Cata Tondreau 1
+-Pedro Vial 46
+- Cote 3
+- jesu 3
+- trini 3
+-andres infante 1
+- michella 1
+- Laura Stuardo 3
+- Krumm 4
+- Seba Delorenzo 9
+2017-11-17 21:07:28 BOT : Espera un segundo...
+2017-11-17 21:07:28 USER: waiting
+2017-11-17 21:07:29 BOT : invalid literal for int() with base 10: 'delorenzo1'
+2017-11-17 21:07:48 USER: /lector_detalles
+2017-11-17 21:07:48 BOT : Envíame la lista de pedidos!
+2017-11-17 21:08:02 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+
+*Paltas Hass*
+- Raimundo Opazo 4
+- guisa 2
+- trini 4
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 1 
+- andres infante 2
+- R Fdez 18
+- michella 1
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+
+*Tomates Cherry*
+- Raimundo Opazo 2
+- guisa 1
+- trini 4
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 4
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+
+*Mani*
+-Juan U 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+
+*Cerezas*
+- R. Opazo 14
+- javi 8
+- guisa 3
+-Cata Tondreau 1
+-Pedro Vial 46
+- Cote 3
+- jesu 3
+- trini 3
+-andres infante 1
+- michella 1
+- Laura Stuardo 3
+- Krumm 4
+- Seba Delorenzo 9
+2017-11-17 21:08:02 BOT : Espera un segundo...
+2017-11-17 21:08:03 USER: waiting
+2017-11-17 21:08:04 BOT : ```
+Sabado 18/11:
+
+Total por producto:
+Nueces - 1
+Castaña - 5
+Quesos Huentelauquen - 8
+Mani - 1
+Cerezas - 99
+Tomates Cherry - 19
+Frutillas - 60
+Paltas Hass - 76
+Pistacho - 5
+Almendra - 5
+Cata Tondreau 1 - 9
+
+Detalle:
+                 Nu Ca Qu Ma Ce To Fr Pa Pi Al Ca Total 
+Andres Infante  : 0  1  0  0  1  1  1  2  0  0  0   6  
+Camila De La Sot: 0  0  1  0  0  0  0  1  0  0  0   2  
+Cata Tondreau   : 0  0  0  0  1  0  0  0  0  0  0   1  
+Javi Del Rio    : 0  0  0  0  8  3  5 10  0  0  0  26  
+Jesu Valenzuela : 0  0  1  0  3  0  0  1  0  2  0   7  
+Josefina Nazer  : 0  0  0  0  3  0  0  5  0  0  2  10  
+Juan Undurraga  : 1  2  1  1  0  3 10 11  2  0  0  31  
+Laura Stuardo   : 0  0  0  0  3  1  0  0  0  0  1   5  
+Maria Luisa Fern: 0  0  1  0  3  1  1  2  0  0  0   8  
+Matias Krumm    : 0  0  0  0  4  0  8  5  0  0  0  17  
+Michella Mascare: 0  2  2  0  1  1  0  1  1  1  1  10  
+Pedro Vial      : 0  0  0  0 46  0 21  0  0  0  0  67  
+Raimundo Opazo  : 0  0  1  0 14  2 10  4  1  1  0  33  
+Ric Jungk       : 0  0  1  0  0  2  0  6  0  0  0   9  
+Rodrigo Fernande: 0  0  0  0  0  0  0 18  0  0  0  18  
+Sebastian Delore: 0  0  0  0  9  1  0  5  0  1  4  20  
+Trini           : 0  0  0  0  3  4  4  4  1  0  0  16  
+Trinidad Pereira: 0  0  0  0  0  0  0  1  0  0  1   2  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-17 21:08:56 USER: /lector_detalles
+2017-11-17 21:08:56 BOT : Envíame la lista de pedidos!
+2017-11-17 21:09:15 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+
+*Paltas Hass*
+- Raimundo Opazo 4
+- guisa 2
+- trini 4
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 1 
+- andres infante 2
+- R Fdez 18
+- michella 1
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+
+*Tomates Cherry*
+- Raimundo Opazo 2
+- guisa 1
+- trini 4
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 4
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+-Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+
+*Mani*
+-Juan U 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+
+*Cerezas*
+- R. Opazo 14
+- javi 8
+- guisa 3
+-Cata Tondreau 1
+-Pedro Vial 46
+- Cote 3
+- jesu 3
+- trini 3
+-andres infante 1
+- michella 1
+- Laura Stuardo 3
+- Krumm 4
+- Seba Delorenzo 9
+2017-11-17 21:09:15 BOT : Chat
+2017-11-17 21:27:51 USER: /lector_detalles
+2017-11-17 21:27:51 BOT : Envíame la lista de pedidos!
+2017-11-17 21:27:54 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+
+*Paltas Hass*
+- Raimundo Opazo 4
+- guisa 2
+- trini 4
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 1 
+- andres infante 2
+- R Fdez 18
+- michella 1
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+
+*Tomates Cherry*
+- Raimundo Opazo 2
+- guisa 1
+- trini 4
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 4
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+-Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+
+*Mani*
+-Juan U 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+
+*Cerezas*
+- R. Opazo 14
+- javi 8
+- guisa 3
+-Cata Tondreau 1
+-Pedro Vial 46
+- Cote 3
+- jesu 3
+- trini 3
+-andres infante 1
+- michella 1
+- Laura Stuardo 3
+- Krumm 4
+- Seba Delorenzo 9
+2017-11-17 21:27:54 BOT : Espera un segundo...
+2017-11-17 21:27:54 USER: waiting
+2017-11-17 21:27:55 BOT : ```
+Sabado 18/11:
+
+Total por producto:
+Nueces - 1
+Castaña - 5
+Quesos Huentelauquen - 8
+Mani - 1
+Cerezas - 99
+Tomates Cherry - 19
+Frutillas - 70
+Paltas Hass - 76
+Pistacho - 5
+Almendra - 5
+
+Detalle:
+                 Nu Ca Qu Ma Ce To Fr Pa Pi Al Total 
+Andres Infante  : 0  1  0  0  1  1  1  2  0  0   6  
+Camila De La Sot: 0  0  1  0  0  0  0  1  0  0   2  
+Cata Tondreau   : 0  0  0  0  1  0  1  0  0  0   2  
+Javi Del Rio    : 0  0  0  0  8  3  5 10  0  0  26  
+Jesu Valenzuela : 0  0  1  0  3  0  0  1  0  2   7  
+Josefina Nazer  : 0  0  0  0  3  0  2  5  0  0  10  
+Juan Undurraga  : 1  2  1  1  0  3 10 11  2  0  31  
+Laura Stuardo   : 0  0  0  0  3  1  1  0  0  0   5  
+Maria Luisa Fern: 0  0  1  0  3  1  1  2  0  0   8  
+Matias Krumm    : 0  0  0  0  4  0  8  5  0  0  17  
+Michella Mascare: 0  2  2  0  1  1  1  1  1  1  10  
+Pedro Vial      : 0  0  0  0 46  0 21  0  0  0  67  
+Raimundo Opazo  : 0  0  1  0 14  2 10  4  1  1  33  
+Ric Jungk       : 0  0  1  0  0  2  0  6  0  0   9  
+Rodrigo Fernande: 0  0  0  0  0  0  0 18  0  0  18  
+Sebastian Delore: 0  0  0  0  9  1  4  5  0  1  20  
+Trini           : 0  0  0  0  3  4  4  4  1  0  16  
+Trinidad Pereira: 0  0  0  0  0  0  1  1  0  0   2  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-18 00:13:09 USER: /lector_detalles
+2017-11-18 00:13:09 BOT : Envíame la lista de pedidos!
+2017-11-18 00:13:32 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+- trini 1
+- Exequiel 2
+
+*Paltas Hass*
+- Raimundo Opazo 6
+- guisa 3
+- trini 6
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 3
+- andres infante 2
+- R Fdez 18
+- michella 3
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+- majo 1
+- Exequiel 7
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+- trini 1
+- Exequiel 3
+
+*Tomates Cherry*
+- Raimundo Opazo 3
+- guisa 2
+- trini 5
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+-Cami de la sotta 1
+- Exequiel 2
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 5
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+-Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+-majo 1
+- Exequiel 6
+
+*Mani*
+-Juan U 1
+- Cami de la Sotta 1
+- trini 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+- Exequiel 2
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+- Exequiel 1
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+
+*Cerezas*
+- R. Opazo 15
+- javi 8
+- guisa 3
+-Cata Tondreau 1
+-Pedro Vial 45
+- Cote 3
+- jesu 3
+- trini 5
+-andres infante 1
+- michella 2 
+- Laura Stuardo 3
+- Krumm 4
+- Seba Delorenzo 10
+- Exequiel 11
+2017-11-18 00:13:32 BOT : Espera un segundo...
+2017-11-18 00:13:32 USER: waiting
+2017-11-18 00:13:34 BOT : ```
+Sabado 18/11:
+
+Total por producto:
+Nueces - 4
+Castaña - 6
+Quesos Huentelauquen - 12
+Mani - 3
+Cerezas - 114
+Tomates Cherry - 25
+Frutillas - 78
+Paltas Hass - 93
+Pistacho - 7
+Almendra - 5
+
+Detalle:
+                 Nu Ca Qu Ma Ce To Fr Pa Pi Al Total 
+Andres Infante  : 0  1  0  0  1  1  1  2  0  0   6  
+Camila De La Sot: 0  0  1  1  0  1  0  3  0  0   6  
+Cata Tondreau   : 0  0  0  0  1  0  1  0  0  0   2  
+Exequiel        : 2  1  3  0 11  2  6  7  2  0  34  
+Javi Del Rio    : 0  0  0  0  8  3  5 10  0  0  26  
+Jesu Valenzuela : 0  0  1  0  3  0  0  1  0  2   7  
+Josefina Nazer  : 0  0  0  0  3  0  2  5  0  0  10  
+Juan Undurraga  : 1  2  1  1  0  3 10 11  2  0  31  
+Laura Stuardo   : 0  0  0  0  3  1  1  0  0  0   5  
+Majo Castañeda  : 0  0  0  0  0  0  1  1  0  0   2  
+Maria Luisa Fern: 0  0  1  0  3  2  1  3  0  0  10  
+Matias Krumm    : 0  0  0  0  4  0  8  5  0  0  17  
+Michella Mascare: 0  2  2  0  2  1  1  3  1  1  13  
+Pedro Vial      : 0  0  0  0 45  0 21  0  0  0  66  
+Raimundo Opazo  : 0  0  1  0 15  3 10  6  1  1  37  
+Ric Jungk       : 0  0  1  0  0  2  0  6  0  0   9  
+Rodrigo Fernande: 0  0  0  0  0  0  0 18  0  0  18  
+Sebastian Delore: 0  0  0  0 10  1  4  5  0  1  21  
+Trini           : 1  0  1  1  5  5  5  6  1  0  25  
+Trinidad Pereira: 0  0  0  0  0  0  1  1  0  0   2  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-18 12:04:57 USER: /lector_detalles
+2017-11-18 12:04:57 BOT : Envíame la lista de pedidos!
+2017-11-18 12:05:09 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+- trini 1
+- Exequiel 2
+
+*Paltas Hass*
+- Raimundo Opazo 6
+- guisa 3
+- trini 6
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 3
+- andres infante 2
+- R Fdez 18
+- michella 3
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+- majo 1
+- Exequiel 7
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+- trini 1
+- Exequiel 3
+
+*Tomates Cherry*
+- Raimundo Opazo 3
+- guisa 2
+- trini 5
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+-Cami de la sotta 1
+- Exequiel 2
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 5
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+-Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+-majo 1
+- Exequiel 6
+
+*Mani*
+-Juan U 1
+- Cami de la Sotta 1
+- trini 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+- Exequiel 2
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+- Exequiel 1
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+2017-11-18 12:05:09 BOT : Chat
+2017-11-18 12:05:17 USER: /lector_detalles
+2017-11-18 12:05:17 BOT : Envíame la lista de pedidos!
+2017-11-18 12:05:22 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+- trini 1
+- Exequiel 2
+
+*Paltas Hass*
+- Raimundo Opazo 6
+- guisa 3
+- trini 6
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 3
+- andres infante 2
+- R Fdez 18
+- michella 3
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+- majo 1
+- Exequiel 7
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+- trini 1
+- Exequiel 3
+
+*Tomates Cherry*
+- Raimundo Opazo 3
+- guisa 2
+- trini 5
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+-Cami de la sotta 1
+- Exequiel 2
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 5
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+-Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+-majo 1
+- Exequiel 6
+
+*Mani*
+-Juan U 1
+- Cami de la Sotta 1
+- trini 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+- Exequiel 2
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+- Exequiel 1
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+2017-11-18 12:05:22 BOT : Chat
+2017-11-18 12:05:31 USER: /lector_detalles
+2017-11-18 12:05:31 BOT : Envíame la lista de pedidos!
+2017-11-18 12:05:37 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+- trini 1
+- Exequiel 2
+
+*Paltas Hass*
+- Raimundo Opazo 6
+- guisa 3
+- trini 6
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 3
+- andres infante 2
+- R Fdez 18
+- michella 3
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+- majo 1
+- Exequiel 7
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+- trini 1
+- Exequiel 3
+
+*Tomates Cherry*
+- Raimundo Opazo 3
+- guisa 2
+- trini 5
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+-Cami de la sotta 1
+- Exequiel 2
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 5
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+-Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+-majo 1
+- Exequiel 6
+
+*Mani*
+-Juan U 1
+- Cami de la Sotta 1
+- trini 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+- Exequiel 2
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+- Exequiel 1
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+
+*cerezas*
+2017-11-18 12:05:37 BOT : Espera un segundo...
+2017-11-18 12:05:38 USER: waiting
+2017-11-18 12:05:39 BOT : ```
+Sabado 18/11:
+
+Total por producto:
+Nueces - 4
+Castaña - 6
+Quesos Huentelauquen - 12
+Mani - 3
+cerezas - 0
+Tomates Cherry - 25
+Frutillas - 78
+Paltas Hass - 93
+Pistacho - 7
+Almendra - 5
+
+Detalle:
+                 Nu Ca Qu Ma Ce To Fr Pa Pi Al Total 
+Andres Infante  : 0  1  0  0  0  1  1  2  0  0   5  
+Camila De La Sot: 0  0  1  1  0  1  0  3  0  0   6  
+Cata Tondreau   : 0  0  0  0  0  0  1  0  0  0   1  
+Exequiel        : 2  1  3  0  0  2  6  7  2  0  23  
+Javi Del Rio    : 0  0  0  0  0  3  5 10  0  0  18  
+Jesu Valenzuela : 0  0  1  0  0  0  0  1  0  2   4  
+Josefina Nazer  : 0  0  0  0  0  0  2  5  0  0   7  
+Juan Undurraga  : 1  2  1  1  0  3 10 11  2  0  31  
+Laura Stuardo   : 0  0  0  0  0  1  1  0  0  0   2  
+Majo Castañeda  : 0  0  0  0  0  0  1  1  0  0   2  
+Maria Luisa Fern: 0  0  1  0  0  2  1  3  0  0   7  
+Matias Krumm    : 0  0  0  0  0  0  8  5  0  0  13  
+Michella Mascare: 0  2  2  0  0  1  1  3  1  1  11  
+Pedro Vial      : 0  0  0  0  0  0 21  0  0  0  21  
+Raimundo Opazo  : 0  0  1  0  0  3 10  6  1  1  22  
+Ric Jungk       : 0  0  1  0  0  2  0  6  0  0   9  
+Rodrigo Fernande: 0  0  0  0  0  0  0 18  0  0  18  
+Sebastian Delore: 0  0  0  0  0  1  4  5  0  1  11  
+Trini           : 1  0  1  1  0  5  5  6  1  0  20  
+Trinidad Pereira: 0  0  0  0  0  0  1  1  0  0   2  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-18 19:44:53 USER: /lector_detalles
+2017-11-18 19:44:53 BOT : Envíame la lista de pedidos!
+2017-11-18 19:45:15 USER: Sabado 18/11
+
+*Nueces*
+- Juan U 1
+- trini 1
+- Exequiel 2
+
+*Paltas Hass*
+- Raimundo Opazo 6
+- guisa 4
+- trini 6
+- Javi 10
+- jesu 1
+-Juan U 11
+- Cami de la sotta 3
+- andres infante 2
+- R Fdez 18
+- michella 3
+- Ric 6
+-trini pereira 1
+- Cote 5
+- Krumm 5
+-Seba delorenzo 5
+- majo 1
+- Exequiel 7
+
+*Quesos Huentelauquen*
+- Raimundo Opazo 1
+- guisa 1
+- jesu 1
+-Juan U 1
+- Cami de la sotta 1
+- michella 2
+- Ric 1
+- trini 1
+- Exequiel 3
+
+*Tomates Cherry*
+- Raimundo Opazo 3
+- guisa 2
+- trini 5
+- javi 3
+-Juan U 3
+- andres infante 1
+- Laura Stuardo 1
+- Ric 2
+- michella 1
+- Seba delorenzo 1
+-Cami de la sotta 1
+- Exequiel 4
+
+*Frutillas*
+- Raimundo Opazo 10
+-Pedro Vial 21
+- guisa 1
+- trini 5
+- javi 5
+- Krumm 8
+-Juan U 10
+-andres infante 1
+-Cata Tondreau 1
+- Laura Stuardo 1
+- michella 1
+-trini pereira 1
+-Cote 2
+-Seba delorenzo 4
+-majo 1
+- Exequiel 6
+
+*Mani*
+-Juan U 1
+- Cami de la Sotta 1
+- trini 1
+
+
+*Pistacho*
+- Raimundo Opazo 1
+- trini 1
+-Juan U 2
+- michella 1
+- Exequiel 2
+
+
+*Castaña*
+-Juan U 2
+-Andres infante 1
+- michella 2
+- Exequiel 1
+
+
+*Almendra*
+- Raimundo Opazo 1
+- jesu 2
+- michella 1
+- Seba delorenzo 1
+
+*Cerezas*
+- R. Opazo 15
+- javi 8
+- guisa 3
+-Cata Tondreau 1
+-Pedro Vial 45
+- Cote 3
+- jesu 3
+- trini 5
+-andres infante 1
+- michella 2 
+- Laura Stuardo 3 
+- Krumm 4
+- Seba Delorenzo 10
+- Exequiel 11
+2017-11-18 19:45:15 BOT : Chat
+2017-11-20 15:01:01 USER: /cobranza
+2017-11-20 15:01:01 BOT : cobranza() missing 1 required positional argument: 'encargado'
+2017-11-20 15:01:11 USER: /cobranza lukas quense
+2017-11-20 15:01:11 BOT : Espera un segundo...
+2017-11-20 15:01:11 USER: waiting
+2017-11-20 15:01:18 BOT : Encargado: Lukas Quense
+2017-11-20 15:01:19 USER: more
+2017-11-20 15:01:23 BOT : Martin Araos
+2017-11-20 15:01:24 USER: more
+2017-11-20 15:01:24 BOT : Martin! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $31.900
+2017-11-20 15:01:24 USER: more
+2017-11-20 15:01:24 BOT : Paul Brenner
+2017-11-20 15:01:24 USER: more
+2017-11-20 15:01:24 BOT : Paul! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $31.100
+- 2017/11/04: $39.800
+Total: $70.900
+2017-11-20 15:01:24 USER: more
+2017-11-20 15:01:24 BOT : Rosario Diez
+2017-11-20 15:01:24 USER: more
+2017-11-20 15:01:24 BOT : Ro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/27: $48.200
+2017-11-20 15:01:25 USER: more
+2017-11-20 15:01:25 BOT : Rodrigo Fernandez
+2017-11-20 15:01:25 USER: more
+2017-11-20 15:01:25 BOT : Rod! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $89.400
+- 2017/11/04: $111.000
+- 2017/11/11: $111.300
+Total: $311.700
+2017-11-20 15:01:25 USER: more
+2017-11-20 15:01:25 BOT : Mauricio Hernandez
+2017-11-20 15:01:25 USER: more
+2017-11-20 15:01:25 BOT : Mau! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $64.300
+- 2017/10/21: $77.900
+Total: $142.200
+2017-11-20 15:01:26 USER: more
+2017-11-20 15:01:26 BOT : Andres Infante
+2017-11-20 15:01:26 USER: more
+2017-11-20 15:01:26 BOT : Andres! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $63.600
+- 2017/11/11: $28.400
+Total: $92.000
+2017-11-20 15:01:26 USER: more
+2017-11-20 15:01:26 BOT : Matias Krumm
+2017-11-20 15:01:26 USER: more
+2017-11-20 15:01:26 BOT : Mati! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $142.600
+2017-11-20 15:01:27 USER: more
+2017-11-20 15:01:27 BOT : Raimundo Opazo
+2017-11-20 15:01:27 USER: more
+2017-11-20 15:01:27 BOT : Raimundo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $474.700
+- 2017/10/27: $7.500
+- 2017/11/04: $122.600
+- 2017/11/11: $194.100
+Total: $798.900
+2017-11-20 15:01:27 USER: more
+2017-11-20 15:01:27 BOT : Sofia Ovalle
+2017-11-20 15:01:27 USER: more
+2017-11-20 15:01:27 BOT : Sofi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: $87.500
+- 2017/09/09: $78.500
+Total: $166.000
+2017-11-20 15:01:28 USER: more
+2017-11-20 15:01:28 BOT : Barbara Rodriguez
+2017-11-20 15:01:28 USER: more
+2017-11-20 15:01:28 BOT : Barbara! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $39.100
+2017-11-20 15:01:28 USER: more
+2017-11-20 15:01:28 BOT : Iñaki Tramontana
+2017-11-20 15:01:28 USER: more
+2017-11-20 15:01:28 BOT : Iñaki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $86.800
+2017-11-20 15:01:28 USER: more
+2017-11-20 15:01:28 BOT : Pedro Vial
+2017-11-20 15:01:29 USER: more
+2017-11-20 15:01:29 BOT : Pedro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $250.400
+2017-11-20 15:01:29 USER: more
+2017-11-20 15:01:29 BOT : Sebastian Delorenzo
+2017-11-20 15:01:29 USER: more
+2017-11-20 15:01:29 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $52.400
+Total: $153.500
+2017-11-20 15:01:29 USER: more
+2017-11-20 15:01:29 BOT : Listo!
+2017-11-20 16:44:10 USER: Cobranza rodrigo morales
+2017-11-20 16:44:10 BOT : Chat
+2017-11-20 16:44:34 USER: /deudas rodrigo morales
+2017-11-20 16:44:34 BOT : Espera un segundo...
+2017-11-20 16:44:35 USER: waiting
+2017-11-20 16:44:41 BOT : Esta es la coincidencia que se encontro:
+2017-11-20 16:44:41 USER: more
+2017-11-20 16:44:48 BOT : *Rodrigo Morales*
+Deudas:
+- 2017/11/04: $119.100
+- 2017/11/11: $18.000
+Total: $137.100
+2017-11-20 22:51:05 USER: /datos rai opazo
+2017-11-20 22:51:05 BOT : Espera un segundo...
+2017-11-20 22:51:06 USER: waiting
+2017-11-20 22:51:07 BOT : Esta es la coincidencia que se encontro:
+2017-11-20 22:51:07 USER: more
+2017-11-20 22:51:07 BOT : *Raimundo Opazo*
+
+Direccion: Av Contralmirante Fernandez Vial 10455, Lo Barnechea
+Telefono: +56952304675.0
+Mail: opazoraimundo@gmail.com
+Encargado: Lukas Quense
+
+2017-11-21 21:17:17 USER: /datos andres infante
+2017-11-21 21:17:17 BOT : Espera un segundo...
+2017-11-21 21:17:18 USER: waiting
+2017-11-21 21:17:19 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 21:17:20 USER: more
+2017-11-21 21:17:20 BOT : *Andres Infante*
+
+Direccion: Camino De Las Ermitas 3804, Lo Barnechea
+Telefono: +56979891544.0
+Mail: andres\_infanter@hotmail.com
+Encargado: Lukas Quense
+
+2017-11-21 21:17:24 USER: /datos laura stuardo
+2017-11-21 21:17:24 BOT : Espera un segundo...
+2017-11-21 21:17:25 USER: waiting
+2017-11-21 21:17:26 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 21:17:26 USER: more
+2017-11-21 21:17:26 BOT : *Laura Stuardo*
+
+Direccion: Paseo del Loira 4563, Lo Barnechea
+Telefono: +56991592586.0
+Mail: laurastuardotns@gmail.com
+Encargado: Joaquin Eichholz
+
+2017-11-21 21:17:37 USER: /datos michella
+2017-11-21 21:17:37 BOT : Espera un segundo...
+2017-11-21 21:17:37 USER: waiting
+2017-11-21 21:17:38 BOT : No se han encontrado coincidencias
+2017-11-21 21:17:48 USER: /datos seba delorenzo
+2017-11-21 21:17:48 BOT : Espera un segundo...
+2017-11-21 21:17:48 USER: waiting
+2017-11-21 21:17:50 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 21:17:50 USER: more
+2017-11-21 21:17:50 BOT : *Sebastian Delorenzo*
+
+Direccion: Camino Otonal 1545, Las Condes
+Telefono: +56997792386.0
+Mail: sdelorenzo7@gmail.com
+Encargado: Lukas Quense
+
+2017-11-21 21:18:33 USER: /datos trini pereira
+2017-11-21 21:18:33 BOT : Espera un segundo...
+2017-11-21 21:18:33 USER: waiting
+2017-11-21 21:18:34 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 21:18:34 USER: more
+2017-11-21 21:18:34 BOT : *Trinidad Pereira*
+
+Direccion: Punta de Aguilas 4311, Lo Barnechea
+Telefono: +56968320616.0
+Mail: trinipereira@gmail.com
+Encargado: Ignacio Castañeda
+
+2017-11-21 21:18:44 USER: /datos exequiel
+2017-11-21 21:18:44 BOT : Espera un segundo...
+2017-11-21 21:18:45 USER: waiting
+2017-11-21 21:18:45 BOT : No se han encontrado coincidencias
+2017-11-21 21:18:55 USER: /datos exequiel swinbron
+2017-11-21 21:18:55 BOT : Espera un segundo...
+2017-11-21 21:18:55 USER: waiting
+2017-11-21 21:18:57 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 21:18:57 USER: more
+2017-11-21 21:18:57 BOT : *Exequiel Swinburn*
+
+Direccion: nan, nan
+Telefono: +nan
+Mail: nnn
+Encargado: Ignacio Castañeda
+
+2017-11-21 21:19:16 USER: /datos cami de la sotta
+2017-11-21 21:19:16 BOT : Espera un segundo...
+2017-11-21 21:19:16 USER: waiting
+2017-11-21 21:19:17 BOT : No se han encontrado coincidencias
+2017-11-21 21:54:21 USER: /datos michela b
+2017-11-21 21:54:21 BOT : Espera un segundo...
+2017-11-21 21:54:21 USER: waiting
+2017-11-21 21:54:22 BOT : No se han encontrado coincidencias
+2017-11-21 21:54:32 USER: /datos michela maschiarelo
+2017-11-21 21:54:32 BOT : Espera un segundo...
+2017-11-21 21:54:32 USER: waiting
+2017-11-21 21:54:33 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 21:54:33 USER: more
+2017-11-21 21:54:33 BOT : *Michella Mascarello*
+
+Direccion: Quinchamali 14336, Las Condes
+Telefono: +56979878976.0
+Mail: miki.mascarello@gmail.com
+Encargado: Joaquin Eichholz
+
+2017-11-21 23:50:19 USER: /datos andres infante
+2017-11-21 23:50:19 BOT : Espera un segundo...
+2017-11-21 23:50:20 USER: waiting
+2017-11-21 23:50:20 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 23:50:20 USER: more
+2017-11-21 23:50:20 BOT : *Andres Infante*
+
+Direccion: Camino De Las Ermitas 3804, Lo Barnechea
+Telefono: +56979891544.0
+Mail: andres\_infanter@hotmail.com
+Encargado: Lukas Quense
+
+2017-11-22 00:07:32 USER: /datos camila de la sotta
+2017-11-22 00:07:32 BOT : Espera un segundo...
+2017-11-22 00:07:32 USER: waiting
+2017-11-22 00:07:33 BOT : Esta es la coincidencia que se encontro:
+2017-11-22 00:07:33 USER: more
+2017-11-22 00:07:33 BOT : *Camila De La Sotta*
+
+Direccion: Jose de Moraleda 4837, Las Condes
+Telefono: +56967289638.0
+Mail: camila.delasotta@gmail.com
+Encargado: Ignacio Castañeda
+

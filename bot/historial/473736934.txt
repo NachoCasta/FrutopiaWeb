@@ -2309,3 +2309,378 @@ Telefono: +56975580528.0
 Mail: maidastu@gmail.com
 Encargado: Joaquin Eichholz
 
+2017-11-11 19:01:29 USER: /lector
+2017-11-11 19:01:29 BOT : Envíame la lista de pedidos!
+2017-11-11 19:01:55 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 3
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+- barbara 2
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+-barbara 1
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 223
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 19:01:55 BOT : Chat
+2017-11-11 19:02:04 USER: /lector_detalles
+2017-11-11 19:02:04 BOT : Envíame la lista de pedidos!
+2017-11-11 19:02:08 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 3
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+- barbara 2
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+-barbara 1
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 223
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 19:02:08 BOT : Chat
+2017-11-11 19:04:18 USER: /lector
+2017-11-11 19:04:18 BOT : Envíame la lista de pedidos!
+2017-11-11 19:04:21 USER: Pedido Sábado 11/11
+
+Nueces
+- R. Opazo 1
+- javi 1
+- C. Baldovino 1
+- Krumm 2
+
+Paltas Hass
+- R. Opazo 18
+- Krumm 13
+-barbara 3
+- javi 10
+-Juan U 6
+- C. Baldovino 1
+- Michella 6
+-andres infante 2
+- Cote 13
+- guisa 2
+- Seba delorenzo 2
+-Pedro Vial 2
+- R Fdez 12
+- jesu 1
+
+Quesos Huentelauquen
+- R. Opazo 3
+-Juan u 1
+- C. Baldovino 2
+- Krumm 1
+- Cote 4
+- javi 1
+- guisa 2
+-Barbara 1
+- R Fdez 3
+- Michella 1
+- barbara 2
+
+Tomates Cherry
+- R. Opazo 2
+- Krumm 1
+-Juan U 5
+- andres infante 1
+- C. Baldovino 1
+- javi 3
+- Cami de la sotta 1
+- Michella 1
+- guisa 5
+- Seba delorenzo 3
+-Pedro Vial 1
+- Cote 3
+-barbara 1
+
+Frutillas
+- R. Opazo 14
+- Cami de la Sotta 2
+-Pedro Vial 53
+ - Krumm 14
+- javi 5
+-juan u 5
+- trini pereira 7
+- C. Baldovino 2
+- andres infante 1
+- Cote 22
+- Michella 3
+- guisa 2
+- Seba delorenzo 7
+- rodrigo m 4
+- jesu 5
+
+Mani
+- C. Baldovino 1
+- andres infante 1
+- Michella 1
+
+Pistacho
+- R. Opazo 2
+- C. Baldovino 1
+- javi 1
+-juan u 1
+- Michella 1
+-Barbara 1
+- Krumm 1
+
+Castaña
+- C. Baldovino 2
+- javi 1
+
+Almendra
+- R. Opazo 5
+- javi 2
+-Juan U 2
+- C. Baldovino 1
+- andres infante 1
+-Cote 2
+- javi 1
+- jesu 2
+
+Cerezas
+- R. Opazo 20
+-Michella 2
+-Pedro Vial 223
+- Krumm 13
+-barbara 3
+- trini pereira 5
+- C. Baldovino 3
+- Cote 30
+- javi 7
+- Cami de la sotta 1
+- Laura Stuardo 2
+- jesu 3
+2017-11-11 19:04:21 BOT : Chat
+2017-11-16 21:58:23 USER: /datos Pedro vial
+2017-11-16 21:58:23 BOT : Espera un segundo...
+2017-11-16 21:58:23 USER: waiting
+2017-11-16 21:58:26 BOT : Esta es la coincidencia que se encontro:
+2017-11-16 21:58:26 USER: more
+2017-11-16 21:58:26 BOT : *Pedro Vial*
+
+Direccion: Padre Ted Huard 4144, Lo Barnechea
+Telefono: +56966640363.0
+Mail: pedrovialbo@gmail.com
+Encargado: Lukas Quense
+
+2017-11-21 23:16:44 USER: /datos María Luisa Fernández
+2017-11-21 23:16:44 BOT : Espera un segundo...
+2017-11-21 23:16:45 USER: waiting
+2017-11-21 23:16:46 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 23:16:46 USER: more
+2017-11-21 23:16:46 BOT : *Maria Luisa Fernandez*
+
+Direccion: La Invernada 7005, Vitacura
+Telefono: +56982978895.0
+Mail: guisa97@hotmail.com
+Encargado: Lukas Quense
+
+2017-11-21 23:26:53 USER: /datos barbara Rodriguez
+2017-11-21 23:26:53 BOT : Espera un segundo...
+2017-11-21 23:26:53 USER: waiting
+2017-11-21 23:26:55 BOT : Esta es la coincidencia que se encontro:
+2017-11-21 23:26:56 USER: more
+2017-11-21 23:26:56 BOT : *Barbara Rodriguez*
+
+Direccion: Raimapu 6744, Vitacura
+Telefono: +56956481962.0
+Mail: barodriguez@dsstgo.cl
+Encargado: Lukas Quense
+
