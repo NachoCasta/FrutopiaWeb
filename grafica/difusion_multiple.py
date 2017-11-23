@@ -11,7 +11,8 @@ def mayus(string):
 def crear_difusion_multiple(vendedor, productos):
     productos.sort(key=lambda k: k["orden"])
     n = len(productos)
-    productos1, productos2 = productos[:n//2], productos[n//2:]
+    mitad = math.ceil(n/2)
+    productos1, productos2 = productos[:mitad],productos[mitad:]
     ancho_franja = 2000//n
     alto = 2000
     ancho = (ancho_franja//2)*2*n
