@@ -18394,3 +18394,579 @@ Esto es lo que estay debiendo:
 Total: $87.100
 2017-11-22 15:30:14 USER: more
 2017-11-22 15:30:14 BOT : Listo!
+2017-11-24 11:14:40 USER: /lector_detalles
+2017-11-24 11:14:40 BOT : Envíame la lista de pedidos!
+2017-11-24 11:14:44 USER: _Pedido Sabado 25/11_
+
+*Nueces*
+-  Ric 1
+-Rosario 1
+-Pedro Vial 1
+-Juan U 1
+*Paltas Hass*
+- R. Opazo 11
+- trini salas 3
+-Laura Stuardo 4
+-isi de la barra 2
+- Ric 2
+- trini p 1
+- javi 10
+- guisa 1
+- seba delorenzo 1
+-Rosario 3
+-Cote 3
+-Pedro Vial 1
+- Ignacio Montt 3
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+-isi de la barra 1
+- Ric 1 
+-trini p 1
+-Laura Stuardo 1
+- Javi 1
+-Rosario 1
+- Cote 1
+- Ignacio Montt 1
+
+*Tomates Cherry*
+- R. Opazo 1
+- Laura Stuardo 1
+-isi de la barra 2
+- javi 2
+-guisa 1
+-Cote 1
+-Pedro Vial 1
+
+
+*Frutillas*
+- R. Opazo 6
+- Laura Stuardo 9
+- jesu 20
+-isi de la barra 3
+- Ric 3
+- trini p 1
+- trini salas 2
+- guisa 1
+- seba delorenzo 1
+-Rosario 1
+-Cote 1
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 3
+-Juan U 1
+- Ignacio Montt 1
+
+*Mani*
+-Rosario 1
+
+*Pistacho*
+
+
+*Castaña*
+- R. Opazo 1
+- Laura Stuardo 1
+
+*Almendra*
+-Laura Stuardo 1
+
+*Cerezas*
+- R. Opazo 8
+- Cata Tondreau 2
+- jesu 30
+-Laura Stuardo 7
+-isi de la barra 3
+- Ric 4 
+- trini p 2
+- javi 6
+-Rosario 1
+-Cote 5
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 23
+- Tomas R 20
+- Ignacio Montt 2
+
+
+*Arándanos*
+- Cata Tondreau 1
+- trini salas 2
+- guisa 1
+- Javi 2
+- seba delorenzo 1
+-Rodrigo m 1
+-Juan U 3
+2017-11-24 11:14:44 BOT : Espera un segundo...
+2017-11-24 11:14:44 USER: waiting
+2017-11-24 11:14:45 BOT : ```
+Pedido Sabado 25/11:
+
+Total por producto:
+Pistacho - 0
+Castaña - 2
+Tomates Cherry - 9
+Paltas Hass - 45
+Nueces - 4
+Frutillas - 61
+Arándanos - 11
+Mani - 1
+Almendra - 1
+Quesos Huentelauquen - 11
+Cerezas - 121
+
+Detalle:
+                 Pi Ca To Pa Nu Fr Ar Ma Al Qu Ce Total 
+Cata Tondreau   : 0  0  0  0  0  0  1  0  0  0  2   3  
+Ignacio Montt   : 0  0  0  3  0  1  0  0  0  1  2   7  
+Isi De La Barra : 0  0  2  2  0  3  0  0  0  1  3  11  
+Javi Del Rio    : 0  0  2 10  0  0  2  0  0  1  6  21  
+Jesu Valenzuela : 0  0  0  0  0 20  0  0  0  0 30  50  
+Josefina Nazer  : 0  0  1  3  0  1  0  0  0  1  5  11  
+Juan Undurraga  : 0  0  0  0  1  1  3  0  0  0  0   5  
+Laura Stuardo   : 0  1  1  4  0  9  0  0  1  1  7  24  
+Maria Luisa Fern: 0  0  1  1  0  1  1  0  0  0  0   4  
+Matias Krumm    : 0  0  0  0  0  1  0  0  0  0  1   2  
+Pedro Vial      : 0  0  1  1  1  3  0  0  0  0 23  29  
+Raimundo Opazo  : 0  1  1 11  0  6  0  0  0  3  8  30  
+Ric Jungk       : 0  0  0  2  1  3  0  0  0  1  4  11  
+Rodrigo Morales : 0  0  0  0  0  7  1  0  0  0  7  15  
+Rosario Diez    : 0  0  0  3  1  1  0  1  0  1  1   8  
+Sebastian Delore: 0  0  0  1  0  1  1  0  0  0  0   3  
+Tomas R         : 0  0  0  0  0  0  0  0  0  0 20  20  
+Trini Salas     : 0  0  0  3  0  2  2  0  0  0  0   7  
+Trinidad Pereira: 0  0  0  1  0  1  0  0  0  1  2   5  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-25 11:54:19 USER: /lector
+2017-11-25 11:54:19 BOT : Envíame la lista de pedidos!
+2017-11-25 11:54:38 USER: _Pedido Sabado 25/11_
+
+*Nueces*
+-  Ric 1
+-Rosario 1
+-Pedro Vial 1
+-Juan U 1
+-JP Germain 2
+-Sofia Ovalle 1
+*Paltas Hass*
+- R. Opazo 15
+- trini salas 3
+- Barbara 2
+-Laura Stuardo 4
+-isi de la barra 2
+- Ric 2
+- trini p 1
+- javi 12
+- guisa 1
+- seba delorenzo 1
+-Rosario 3
+-Cote 3
+-Pedro Vial 1
+- Ignacio Montt 3
+-JP Germain 2
+- Krumm 4
+- R Fdez 14
+- jesu 2
+- Sofía Ovalle 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+-isi de la barra 1
+- Ric 1 
+-trini p 1
+-Laura Stuardo 1
+- Javi 2
+-Rosario 1
+- Cote 1
+- Ignacio Montt 1
+-JP Germain 2
+-Exequiel 1
+
+*Tomates Cherry*
+- R. Opazo 1
+- Laura Stuardo 1
+-isi de la barra 1
+- javi 2
+-guisa 1
+-Cote 1
+-Pedro Vial 1
+-Exequiel 1
+
+
+*Frutillas*
+- R. Opazo 12
+- Laura Stuardo 9
+- jesu 20
+- Barbara 1
+-isi de la barra 3
+- Ric 3
+- trini p 3
+- trini salas 2
+- guisa 1
+- seba delorenzo 3
+-Rosario 1
+-Cote 1
+-Rodrigo m 8
+- Krumm 6
+-Pedro Vial 11
+-Juan U 1
+- Ignacio Montt 1
+-JP Germain 2
+- Javi 2
+-Exequiel 1
+
+
+*Mani*
+-Rosario 1
+-JP Germain 1
+
+*Pistacho*
+-JP Germain 2
+-Exequiel 1
+- Barbara 1
+
+*Castaña*
+- R. Opazo 1
+- Laura Stuardo 1
+- JP Germain 1
+-Barbara 1
+
+*Almendra*
+-Laura Stuardo 1
+
+*Cerezas*
+- R. Opazo 12
+- Cata Tondreau 2
+- Barbara 2
+- jesu 30
+-Laura Stuardo 7
+-isi de la barra 4
+- Ric 6
+- trini p 3
+- javi 11
+-Rosario 2
+-Cote 5
+-Rodrigo m 8
+- Krumm 2
+-Pedro Vial 23
+- Tomas R 26
+- Ignacio Montt 2
+- seba delorenzo 11
+-JP Germain 1
+-andres infante 1
+-Exequiel 4
+
+*Arándanos*
+- R. Opazo 1
+- Cata Tondreau 2
+- trini salas 2
+- guisa 1
+- Javi 4
+- seba delorenzo 1
+-Rodrigo m 1
+-Juan U 3
+-isi de la barra 1
+2017-11-25 11:54:38 BOT : Espera un segundo...
+2017-11-25 11:54:38 USER: waiting
+2017-11-25 11:54:40 BOT : ```
+Pedido Sabado 25/11:
+
+Total por producto:
+Pistacho - 4
+Castaña - 4
+Tomates Cherry - 9
+Paltas Hass - 77
+Nueces - 7
+Frutillas - 91
+Arándanos - 16
+Mani - 2
+Almendra - 1
+Quesos Huentelauquen - 15
+Cerezas - 162
+
+Total por persona:
+Andres Infante      :  1  
+Barbara Rodriguez   :  7  
+Cata Tondreau       :  4  
+Exequiel Swinburn   :  8  
+Ignacio Montt       :  7  
+Isi De La Barra     : 12  
+JP Germain          : 13  
+Javi Del Rio        : 33  
+Jesu Valenzuela     : 52  
+Josefina Nazer      : 11  
+Juan Undurraga      :  5  
+Laura Stuardo       : 24  
+Maria Luisa Fernandez:  4  
+Matias Krumm        : 12  
+Pedro Vial          : 37  
+Raimundo Opazo      : 45  
+Ric Jungk           : 13  
+Rodrigo Fernandez   : 14  
+Rodrigo Morales     : 17  
+Rosario Diez        :  9  
+Sebastian Delorenzo : 16  
+Sofia Ovalle        :  1  
+Sofía Ovalle        :  2  
+Tomas R             : 26  
+Trini Salas         :  7  
+Trinidad Pereira    :  8```
+2017-11-25 14:18:20 USER: /lector
+2017-11-25 14:18:20 BOT : Envíame la lista de pedidos!
+2017-11-25 14:18:24 USER: _Pedido Sabado 25/11_
+
+*Nueces*
+-  Ric 1
+-Rosario 1
+-Pedro Vial 1
+-Juan U 1
+-JP Germain 2
+-Sofia Ovalle 1
+*Paltas Hass*
+- R. Opazo 16
+- trini salas 3
+- Barbara 2
+-Laura Stuardo 4
+-isi de la barra 2
+- Ric 2
+- trini p 1
+- javi 12
+- guisa 1
+- seba delorenzo 1
+-Rosario 3
+-Cote 3
+-Pedro Vial 1
+- Ignacio Montt 3
+-JP Germain 2
+- Krumm 4
+- R Fdez 14
+- jesu 2
+- Sofía Ovalle 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+-isi de la barra 1
+- Ric 1 
+-trini p 1
+-Laura Stuardo 1
+- Javi 2
+-Rosario 1
+- Cote 1
+- Ignacio Montt 1
+-JP Germain 2
+-Exequiel 1
+
+*Tomates Cherry*
+- R. Opazo 1
+- Laura Stuardo 1
+-isi de la barra 1
+- javi 2
+-guisa 1
+-Cote 1
+-Pedro Vial 1
+-Exequiel 1
+
+
+*Frutillas*
+- R. Opazo 12
+- Laura Stuardo 9
+- jesu 20
+- Barbara 1
+-isi de la barra 3
+- Ric 3
+- trini p 3
+- trini salas 2
+- guisa 1
+- seba delorenzo 3
+-Rosario 1
+-Cote 1
+-Rodrigo m 8
+- Krumm 6
+-Pedro Vial 11
+-Juan U 1
+- Ignacio Montt 1
+-JP Germain 2
+- Javi 2
+-Exequiel 1
+
+
+*Mani*
+-Rosario 1
+-JP Germain 1
+
+*Pistacho*
+-JP Germain 2
+-Exequiel 1
+- Barbara 1
+
+*Castaña*
+- R. Opazo 1
+- Laura Stuardo 1
+- JP Germain 1
+-Barbara 1
+
+*Almendra*
+-Laura Stuardo 1
+
+*Cerezas*
+- R. Opazo 12
+- Cata Tondreau 2
+- Barbara 3
+- jesu 30
+-Laura Stuardo 7
+-isi de la barra 4
+- Ric 6
+- trini p 3
+- javi 11
+-Rosario 2
+-Cote 5
+-Rodrigo m 8
+- Krumm 2
+-Pedro Vial 23
+- Tomas R 26
+- Ignacio Montt 2
+- seba delorenzo 11
+-JP Germain 1
+-andres infante 1
+-Exequiel 4
+
+*Arándanos*
+- R. Opazo 1
+- Cata Tondreau 2
+- trini salas 2
+- guisa 1
+- Javi 4
+- seba delorenzo 1
+-Rodrigo m 1
+-Juan U 3
+-isi de la barra 1
+2017-11-25 14:18:24 BOT : Chat
+2017-11-25 14:18:29 USER: /lector
+2017-11-25 14:18:29 BOT : Envíame la lista de pedidos!
+2017-11-25 14:18:33 USER: _Pedido Sabado 25/11_
+
+*Nueces*
+-  Ric 1
+-Rosario 1
+-Pedro Vial 1
+-Juan U 1
+-JP Germain 2
+-Sofia Ovalle 1
+*Paltas Hass*
+- R. Opazo 16
+- trini salas 3
+- Barbara 2
+-Laura Stuardo 4
+-isi de la barra 2
+- Ric 2
+- trini p 1
+- javi 12
+- guisa 1
+- seba delorenzo 1
+-Rosario 3
+-Cote 3
+-Pedro Vial 1
+- Ignacio Montt 3
+-JP Germain 2
+- Krumm 4
+- R Fdez 14
+- jesu 2
+- Sofía Ovalle 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+-isi de la barra 1
+- Ric 1 
+-trini p 1
+-Laura Stuardo 1
+- Javi 2
+-Rosario 1
+- Cote 1
+- Ignacio Montt 1
+-JP Germain 2
+-Exequiel 1
+
+*Tomates Cherry*
+- R. Opazo 1
+- Laura Stuardo 1
+-isi de la barra 1
+- javi 2
+-guisa 1
+-Cote 1
+-Pedro Vial 1
+-Exequiel 1
+
+
+*Frutillas*
+- R. Opazo 12
+- Laura Stuardo 9
+- jesu 20
+- Barbara 1
+-isi de la barra 3
+- Ric 3
+- trini p 3
+- trini salas 2
+- guisa 1
+- seba delorenzo 3
+-Rosario 1
+-Cote 1
+-Rodrigo m 8
+- Krumm 6
+-Pedro Vial 11
+-Juan U 1
+- Ignacio Montt 1
+-JP Germain 2
+- Javi 2
+-Exequiel 1
+
+
+*Mani*
+-Rosario 1
+-JP Germain 1
+
+*Pistacho*
+-JP Germain 2
+-Exequiel 1
+- Barbara 1
+
+*Castaña*
+- R. Opazo 1
+- Laura Stuardo 1
+- JP Germain 1
+-Barbara 1
+
+*Almendra*
+-Laura Stuardo 1
+
+*Cerezas*
+- R. Opazo 12
+- Cata Tondreau 2
+- Barbara 3
+- jesu 30
+-Laura Stuardo 7
+-isi de la barra 4
+- Ric 6
+- trini p 3
+- javi 11
+-Rosario 2
+-Cote 5
+-Rodrigo m 8
+- Krumm 2
+-Pedro Vial 23
+- Tomas R 26
+- Ignacio Montt 2
+- seba delorenzo 11
+-JP Germain 1
+-andres infante 1
+-Exequiel 4
+
+*Arándanos*
+- R. Opazo 1
+- Cata Tondreau 2
+- trini salas 2
+- guisa 1
+- Javi 4
+- seba delorenzo 1
+-Rodrigo m 1
+-Juan U 3
+-isi de la barra 1
+2017-11-25 14:18:33 BOT : Chat

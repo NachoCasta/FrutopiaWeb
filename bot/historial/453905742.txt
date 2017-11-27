@@ -12028,3 +12028,396 @@ Telefono: +56967289638.0
 Mail: camila.delasotta@gmail.com
 Encargado: Ignacio Castañeda
 
+2017-11-24 11:38:08 USER: /lector_detalles
+2017-11-24 11:38:08 BOT : Envíame la lista de pedidos!
+2017-11-24 11:38:12 USER: _Pedido Sabado 25/11_
+
+*Nueces*
+-  Ric 1
+-Rosario 1
+-Pedro Vial 1
+-Juan U 1
+*Paltas Hass*
+- R. Opazo 11
+- trini salas 3
+-Laura Stuardo 4
+-isi de la barra 2
+- Ric 2
+- trini p 1
+- javi 10
+- guisa 1
+- seba delorenzo 1
+-Rosario 3
+-Cote 3
+-Pedro Vial 1
+- Ignacio Montt 3
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+-isi de la barra 1
+- Ric 1 
+-trini p 1
+-Laura Stuardo 1
+- Javi 1
+-Rosario 1
+- Cote 1
+- Ignacio Montt 1
+
+*Tomates Cherry*
+- R. Opazo 1
+- Laura Stuardo 1
+-isi de la barra 2
+- javi 2
+-guisa 1
+-Cote 1
+-Pedro Vial 1
+
+
+*Frutillas*
+- R. Opazo 6
+- Laura Stuardo 9
+- jesu 20
+-isi de la barra 3
+- Ric 3
+- trini p 1
+- trini salas 2
+- guisa 1
+- seba delorenzo 3
+-Rosario 1
+-Cote 1
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 3
+-Juan U 1
+- Ignacio Montt 1
+
+*Mani*
+-Rosario 1
+
+*Pistacho*
+
+
+*Castaña*
+- R. Opazo 1
+- Laura Stuardo 1
+
+*Almendra*
+-Laura Stuardo 1
+
+*Cerezas*
+- R. Opazo 8
+- Cata Tondreau 2
+- jesu 30
+-Laura Stuardo 7
+-isi de la barra 3
+- Ric 4 
+- trini p 2
+- javi 6
+-Rosario 1
+-Cote 5
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 23
+- Tomas R 20
+- Ignacio Montt 2
+- seba delorenzo 10
+
+
+*Arándanos*
+- Cata Tondreau 1
+- trini salas 2
+- guisa 1
+- Javi 2
+- seba delorenzo 1
+-Rodrigo m 1
+-Juan U 3
+2017-11-24 11:38:12 BOT : Espera un segundo...
+2017-11-24 11:38:13 USER: waiting
+2017-11-24 11:38:13 BOT : ```
+Pedido Sabado 25/11:
+
+Total por producto:
+Pistacho - 0
+Castaña - 2
+Tomates Cherry - 9
+Paltas Hass - 45
+Nueces - 4
+Frutillas - 63
+Arándanos - 11
+Mani - 1
+Almendra - 1
+Quesos Huentelauquen - 11
+Cerezas - 131
+
+Detalle:
+                 Pi Ca To Pa Nu Fr Ar Ma Al Qu Ce Total 
+Cata Tondreau   : 0  0  0  0  0  0  1  0  0  0  2   3  
+Ignacio Montt   : 0  0  0  3  0  1  0  0  0  1  2   7  
+Isi De La Barra : 0  0  2  2  0  3  0  0  0  1  3  11  
+Javi Del Rio    : 0  0  2 10  0  0  2  0  0  1  6  21  
+Jesu Valenzuela : 0  0  0  0  0 20  0  0  0  0 30  50  
+Josefina Nazer  : 0  0  1  3  0  1  0  0  0  1  5  11  
+Juan Undurraga  : 0  0  0  0  1  1  3  0  0  0  0   5  
+Laura Stuardo   : 0  1  1  4  0  9  0  0  1  1  7  24  
+Maria Luisa Fern: 0  0  1  1  0  1  1  0  0  0  0   4  
+Matias Krumm    : 0  0  0  0  0  1  0  0  0  0  1   2  
+Pedro Vial      : 0  0  1  1  1  3  0  0  0  0 23  29  
+Raimundo Opazo  : 0  1  1 11  0  6  0  0  0  3  8  30  
+Ric Jungk       : 0  0  0  2  1  3  0  0  0  1  4  11  
+Rodrigo Morales : 0  0  0  0  0  7  1  0  0  0  7  15  
+Rosario Diez    : 0  0  0  3  1  1  0  1  0  1  1   8  
+Sebastian Delore: 0  0  0  1  0  3  1  0  0  0 10  15  
+Tomas R         : 0  0  0  0  0  0  0  0  0  0 20  20  
+Trini Salas     : 0  0  0  3  0  2  2  0  0  0  0   7  
+Trinidad Pereira: 0  0  0  1  0  1  0  0  0  1  2   5  
+``` Poner en modo horizontal para ver correctamente.
+2017-11-24 16:22:38 USER: /lector_detalles
+2017-11-24 16:22:38 BOT : Envíame la lista de pedidos!
+2017-11-24 16:22:42 USER: _Pedido Sabado 25/11_
+
+*Nueces*
+-  Ric 1
+-Rosario 1
+-Pedro Vial 1
+-Juan U 1
+-JP Germain 2
+
+*Paltas Hass*
+- R. Opazo 11
+- trini salas 3
+-Laura Stuardo 4
+-isi de la barra 2
+- Ric 2
+- trini p 1
+- javi 10
+- guisa 1
+- seba delorenzo 1
+-Rosario 3
+-Cote 3
+-Pedro Vial 1
+- Ignacio Montt 3
+-JP Germain 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+-isi de la barra 1
+- Ric 1 
+-trini p 1
+-Laura Stuardo 1
+- Javi 2
+-Rosario 1
+- Cote 1
+- Ignacio Montt 1
+-JP Germain 2
+
+*Tomates Cherry*
+- R. Opazo 1
+- Laura Stuardo 1
+-isi de la barra 2
+- javi 2
+-guisa 1
+-Cote 1
+-Pedro Vial 1
+
+
+*Frutillas*
+- R. Opazo 6
+- Laura Stuardo 9
+- jesu 20
+-isi de la barra 3
+- Ric 3
+- trini p 2
+- trini salas 2
+- guisa 1
+- seba delorenzo 3
+-Rosario 1
+-Cote 1
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 3
+-Juan U 1
+- Ignacio Montt 1
+-JP Germain 2
+
+
+*Mani*
+-Rosario 1
+-JP Germain 1
+
+*Pistacho*
+-JP Germain 2
+
+*Castaña*
+- R. Opazo 1
+- Laura Stuardo 1
+- JP Germain 1
+
+*Almendra*
+-Laura Stuardo 1
+
+*Cerezas*
+- R. Opazo 8
+- Cata Tondreau 2
+- jesu 30
+-Laura Stuardo 7
+-isi de la barra 3
+- Ric 6
+- trini p 3
+- javi 7
+-Rosario 1
+-Cote 5
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 23
+- Tomas R 26
+- Ignacio Montt 2
+- seba delorenzo 11
+-JP Germain 1
+-andres infante 1
+
+*Arándanos*
+- Cata Tondreau 1
+- trini salas 2
+- guisa 1
+- Javi 2
+- seba delorenzo 1
+-Rodrigo m 1
+-Juan U 3
+2017-11-24 16:22:42 BOT : Chat
+2017-11-24 16:22:50 USER: /lector_detalles
+2017-11-24 16:22:50 BOT : Envíame la lista de pedidos!
+2017-11-24 16:22:55 USER: _Pedido Sabado 25/11_
+
+*Nueces*
+-  Ric 1
+-Rosario 1
+-Pedro Vial 1
+-Juan U 1
+-JP Germain 2
+
+*Paltas Hass*
+- R. Opazo 11
+- trini salas 3
+-Laura Stuardo 4
+-isi de la barra 2
+- Ric 2
+- trini p 1
+- javi 10
+- guisa 1
+- seba delorenzo 1
+-Rosario 3
+-Cote 3
+-Pedro Vial 1
+- Ignacio Montt 3
+-JP Germain 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+-isi de la barra 1
+- Ric 1 
+-trini p 1
+-Laura Stuardo 1
+- Javi 2
+-Rosario 1
+- Cote 1
+- Ignacio Montt 1
+-JP Germain 2
+
+*Tomates Cherry*
+- R. Opazo 1
+- Laura Stuardo 1
+-isi de la barra 2
+- javi 2
+-guisa 1
+-Cote 1
+-Pedro Vial 1
+
+
+*Frutillas*
+- R. Opazo 6
+- Laura Stuardo 9
+- jesu 20
+-isi de la barra 3
+- Ric 3
+- trini p 2
+- trini salas 2
+- guisa 1
+- seba delorenzo 3
+-Rosario 1
+-Cote 1
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 3
+-Juan U 1
+- Ignacio Montt 1
+-JP Germain 2
+
+
+*Mani*
+-Rosario 1
+-JP Germain 1
+
+*Pistacho*
+-JP Germain 2
+
+*Castaña*
+- R. Opazo 1
+- Laura Stuardo 1
+- JP Germain 1
+
+*Almendra*
+-Laura Stuardo 1
+
+*Cerezas*
+- R. Opazo 8
+- Cata Tondreau 2
+- jesu 30
+-Laura Stuardo 7
+-isi de la barra 3
+- Ric 6
+- trini p 3
+- javi 7
+-Rosario 1
+-Cote 5
+-Rodrigo m 7
+- Krumm 1
+-Pedro Vial 23
+- Tomas R 26
+- Ignacio Montt 2
+- seba delorenzo 11
+-JP Germain 1
+-andres infante 1
+
+*Arándanos*
+- Cata Tondreau 1
+- trini salas 2
+- guisa 1
+- Javi 2
+- seba delorenzo 1
+-Rodrigo m 1
+-Juan U 3
+2017-11-24 16:22:55 BOT : Chat
+2017-11-25 17:19:14 USER: /datos joaquin eicholz
+2017-11-25 17:19:14 BOT : Espera un segundo...
+2017-11-25 17:19:15 USER: waiting
+2017-11-25 17:19:16 BOT : Esta es la coincidencia que se encontro:
+2017-11-25 17:19:16 USER: more
+2017-11-25 17:19:16 BOT : *Joaquin Eichholz*
+
+Direccion: Estrella Del Norte 980 Dpto 154, Las Condes
+Telefono: +56996324787.0
+Mail: joaquin.eichholz@gmail.com
+Encargado: Joaquin Eichholz
+
+2017-11-27 17:13:08 USER: /cobranza lukas quense
+2017-11-27 17:13:08 BOT : Espera un segundo...
+2017-11-27 17:13:08 USER: waiting
+2017-11-27 17:13:14 BOT : Encargado: Lukas Quense
+2017-11-27 17:13:14 USER: more
+2017-11-27 17:13:19 BOT : 'arandanos'
+2017-11-27 17:13:34 USER: /cobranza lukas quense
+2017-11-27 17:13:34 BOT : Espera un segundo...
+2017-11-27 17:13:35 USER: waiting
+2017-11-27 17:13:41 BOT : Encargado: Lukas Quense
+2017-11-27 17:13:41 USER: more
+2017-11-27 17:13:56 BOT : 'arandanos'
