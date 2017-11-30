@@ -18970,3 +18970,102 @@ Trinidad Pereira    :  8```
 -Juan U 3
 -isi de la barra 1
 2017-11-25 14:18:33 BOT : Chat
+2017-11-30 12:53:03 USER: /help
+2017-11-30 12:53:03 BOT : Mis funciones son las siguientes:
+/lector - Resumen pedido totales
+/lector\_detalles - Resumen pedido por fruta
+/jefes - Lista de jefes
+/datos <jefe> - Datos del <jefe>
+/deudas <jefe> - Deudas del <jefe>
+/encargados - Lista de encargados
+/cobranza <encargado> - Deudores de <encargado>
+/productos - Lista de productos
+/precio <producto> <formato> <precio nuevo> - Cambia el precio del producto
+2017-11-30 12:53:22 USER: /datos
+2017-11-30 12:53:22 BOT : datos() missing 1 required positional argument: 'id_jefe'
+2017-11-30 12:53:28 USER: /jefes
+2017-11-30 12:53:28 BOT : Espera un segundo...
+2017-11-30 12:53:29 USER: waiting
+2017-11-30 12:53:30 BOT : 1  - Amalia Abogabir
+2  - Maida Andrews
+3  - Gabriel Araneda
+4  - Martin Araos
+5  - Javi Bernaus
+6  - Samuel Billikopf
+7  - Paul Brenner
+8  - Alvaro Caviedes
+9  - Ignacio Castañeda
+10 - Majo Castañeda
+11 - Vicky Chaparro
+12 - Antonia Cisternas
+13 - Josefa Covarrubias
+14 - Florencia Croxatto
+15 - Joaquin Daly
+16 - Dominique Daroch
+17 - Camila De La Sotta
+18 - Amelia Del Rio
+19 - Javi Del Rio
+20 - Constanza Delfau
+21 - Rosario Diez
+22 - Pilar Edwards
+23 - Joaquin Eichholz
+24 - Maria Jesus Elias
+25 - Rafael Errazuriz
+26 - Isidora Fernandez
+27 - Maria Luisa Fernandez
+28 - Rodrigo Fernandez
+29 - Tere Fernandez
+30 - Diego Figueroa
+31 - Matias Flores
+32 - Benjamin Hartmann
+33 - Mauricio Hernandez
+34 - Andres Infante
+35 - Cata Izcue
+36 - Margarita Joglar
+37 - Ric Jungk
+38 - Matias Krumm
+39 - Juan Diego Lyon
+40 - Bernardita Mackenney
+41 - Michella Mascarello
+42 - Vicente Mayol
+43 - Jesu Mckay
+44 - Ignacio Montt
+45 - Ignacio Morales
+46 - Rodrigo Morales
+47 - Josefina Nazer
+48 - Raimundo Opazo
+49 - Vicente Opazo
+50 - Trinidad Ossa
+51 - Sofia Ovalle
+52 - Francesco Pamparana
+53 - Trinidad Pereira
+54 - Agustina Pineda
+55 - Benjamin Piña
+56 - Lukas Quense
+57 - Josefina Quiroga
+58 - Rafa Quiroga
+59 - Barbara Rodriguez
+60 - Fede Schilling
+61 - Carola Schumann
+62 - Cata Tondreau
+63 - Iñaki Tramontana
+64 - Juan Undurraga
+65 - Cristobal Valdes
+66 - Antonia Valencia
+67 - Jesu Valenzuela
+68 - Pablo Vial
+69 - Pedro Vial
+70 - Gabriel Villela
+71 - Paula Villela
+72 - Magdalena Astudillo
+73 - Tomas Ovalle
+74 - Sebastian Delorenzo
+75 - Claudio Baldovino
+76 - Laura Stuardo
+77 - Exequiel Swinburn
+78 - Trinidad Salas
+79 - Roberto Salinas
+80 - Tomas Rojas
+81 - Andres Santamaria
+82 - Isidora De La Barra
+

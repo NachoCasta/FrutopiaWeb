@@ -13,6 +13,20 @@
             "variable_precio": "alm_precio"
         }
     },
+    "arandanos": {
+        "500": {
+            "disponible": true,
+            "formato": "cajas",
+            "foto": "arandanos.jpg",
+            "nombre": "Arandanos 500 gr",
+            "orden": 2,
+            "precio": "6000",
+            "svg": "frutilla.txt",
+            "unidad": "gr",
+            "variable": "arandanos",
+            "variable_precio": "aran_precio"
+        }
+    },
     "caju": {
         "400": {
             "disponible": true,
@@ -34,7 +48,7 @@
             "foto": "cerezas.jpg",
             "nombre": "Cerezas 5 kg",
             "orden": 1,
-            "precio": "12000",
+            "precio": "10000",
             "svg": "frutilla.txt",
             "unidad": "kg",
             "variable": "cerezas",
@@ -53,20 +67,6 @@
             "unidad": "kg",
             "variable": "frutillas",
             "variable_precio": "f_precio"
-        }
-    },
-    "arandanos": {
-        "500": {
-            "disponible": true,
-            "formato": "cajas",
-            "foto": "arandanos.jpg",
-            "nombre": "Arandanos 500 gr",
-            "orden": 2,
-            "precio": "6000",
-            "svg": "frutilla.txt",
-            "unidad": "gr",
-            "variable": "arandanos",
-            "variable_precio": "aran_precio"
         }
     },
     "mandarinas": {

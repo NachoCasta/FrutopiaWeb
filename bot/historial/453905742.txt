@@ -12421,3 +12421,164 @@ Encargado: Joaquin Eichholz
 2017-11-27 17:13:41 BOT : Encargado: Lukas Quense
 2017-11-27 17:13:41 USER: more
 2017-11-27 17:13:56 BOT : 'arandanos'
+2017-11-27 22:29:08 USER: /precio cerezas 11
+2017-11-27 22:29:08 BOT : cambiar_precio() missing 1 required positional argument: 'precio'
+2017-11-27 22:29:46 USER: /help
+2017-11-27 22:29:46 BOT : Mis funciones son las siguientes:
+/lector - Resumen pedido totales
+/lector\_detalles - Resumen pedido por fruta
+/jefes - Lista de jefes
+/datos <jefe> - Datos del <jefe>
+/deudas <jefe> - Deudas del <jefe>
+/encargados - Lista de encargados
+/cobranza <encargado> - Deudores de <encargado>
+/productos - Lista de productos
+/precio <producto> <formato> <precio nuevo> - Cambia el precio del producto
+2017-11-27 22:30:05 USER: /precio cerezas 5kg 11.000
+2017-11-27 22:30:15 USER: /precio cerezas 5 11.000
+2017-11-27 22:30:15 BOT : El precio de los Cerezas 5 kg fue cambiado a $11.000.
+2017-11-27 22:32:23 USER: /precio cerezas 5 11000
+2017-11-27 22:32:23 BOT : El precio de los Cerezas 5 kg fue cambiado a $11000.
+2017-11-29 16:40:55 USER: /precio cerezas 5 10000
+2017-11-29 16:40:55 BOT : El precio de los Cerezas 5 kg fue cambiado a $10000.
+2017-11-29 17:09:19 USER: /cobranza lukas quebse
+2017-11-29 17:09:19 BOT : Espera un segundo...
+2017-11-29 17:09:20 USER: waiting
+2017-11-29 17:09:27 BOT : Encargado: Lukas Quense
+2017-11-29 17:09:27 USER: more
+2017-11-29 17:09:33 BOT : Martin Araos
+2017-11-29 17:09:34 USER: more
+2017-11-29 17:09:34 BOT : Martin! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $31.900
+2017-11-29 17:09:34 USER: more
+2017-11-29 17:09:34 BOT : Rosario Diez
+2017-11-29 17:09:34 USER: more
+2017-11-29 17:09:34 BOT : Ro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $59.000
+2017-11-29 17:09:34 USER: more
+2017-11-29 17:09:34 BOT : Maria Luisa Fernandez
+2017-11-29 17:09:35 USER: more
+2017-11-29 17:09:35 BOT : Guisa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $18.000
+2017-11-29 17:09:35 USER: more
+2017-11-29 17:09:35 BOT : Rodrigo Fernandez
+2017-11-29 17:09:35 USER: more
+2017-11-29 17:09:35 BOT : Rod! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $89.400
+- 2017/11/04: $111.000
+- 2017/11/11: $123.000
+- 2017/11/18: $89.500
+- 2017/11/25: $63.000
+Total: $475.900
+2017-11-29 17:09:35 USER: more
+2017-11-29 17:09:35 BOT : Mauricio Hernandez
+2017-11-29 17:09:35 USER: more
+2017-11-29 17:09:35 BOT : Mau! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $64.300
+- 2017/10/21: $77.900
+Total: $142.200
+2017-11-29 17:09:36 USER: more
+2017-11-29 17:09:36 BOT : Andres Infante
+2017-11-29 17:09:36 USER: more
+2017-11-29 17:09:36 BOT : Andres! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $63.600
+- 2017/11/11: $30.000
+- 2017/11/18: $35.000
+- 2017/11/25: $9.500
+Total: $138.100
+2017-11-29 17:09:36 USER: more
+2017-11-29 17:09:36 BOT : Matias Krumm
+2017-11-29 17:09:36 USER: more
+2017-11-29 17:09:36 BOT : Mati! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $153.000
+- 2017/11/18: $205.500
+- 2017/11/25: $64.000
+Total: $422.500
+2017-11-29 17:09:36 USER: more
+2017-11-29 17:09:36 BOT : Rodrigo Morales
+2017-11-29 17:09:37 USER: more
+2017-11-29 17:09:37 BOT : Rodrigo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $119.100
+- 2017/11/11: $18.000
+- 2017/11/25: $125.500
+Total: $262.600
+2017-11-29 17:09:37 USER: more
+2017-11-29 17:09:37 BOT : Raimundo Opazo
+2017-11-29 17:09:37 USER: more
+2017-11-29 17:09:37 BOT : Raimundo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $479.500
+- 2017/11/25: $279.000
+Total: $758.500
+2017-11-29 17:09:37 USER: more
+2017-11-29 17:09:37 BOT : Sofia Ovalle
+2017-11-29 17:09:38 USER: more
+2017-11-29 17:09:38 BOT : Sofi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: $87.500
+- 2017/09/09: $78.500
+- 2017/11/25: $14.500
+Total: $180.500
+2017-11-29 17:09:38 USER: more
+2017-11-29 17:09:38 BOT : Lukas Quense
+2017-11-29 17:09:38 USER: more
+2017-11-29 17:09:38 BOT : Lukas! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.500
+2017-11-29 17:09:38 USER: more
+2017-11-29 17:09:38 BOT : Barbara Rodriguez
+2017-11-29 17:09:38 USER: more
+2017-11-29 17:09:38 BOT : Barbara! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $41.500
+- 2017/11/18: $28.500
+- 2017/11/25: $58.000
+Total: $128.000
+2017-11-29 17:09:39 USER: more
+2017-11-29 17:09:39 BOT : Iñaki Tramontana
+2017-11-29 17:09:39 USER: more
+2017-11-29 17:09:39 BOT : Iñaki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $94.000
+2017-11-29 17:09:39 USER: more
+2017-11-29 17:09:39 BOT : Pedro Vial
+2017-11-29 17:09:39 USER: more
+2017-11-29 17:09:39 BOT : Pedro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $252.000
+- 2017/11/25: $472.500
+Total: $724.500
+2017-11-29 17:09:40 USER: more
+2017-11-29 17:09:40 BOT : Sebastian Delorenzo
+2017-11-29 17:09:40 USER: more
+2017-11-29 17:09:40 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+- 2017/11/25: $155.500
+Total: $372.600
+2017-11-29 17:09:40 USER: more
+2017-11-29 17:09:40 BOT : Trinidad Salas
+2017-11-29 17:09:40 USER: more
+2017-11-29 17:09:40 BOT : Trini! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $155.500
+- 2017/11/25: $31.500
+Total: $187.000
+2017-11-29 17:09:40 USER: more
+2017-11-29 17:09:40 BOT : Tomas Rojas
+2017-11-29 17:09:42 USER: more
+2017-11-29 17:09:42 BOT : Tomas! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $247.000
+2017-11-29 17:09:42 USER: more
+2017-11-29 17:09:42 BOT : Listo!
