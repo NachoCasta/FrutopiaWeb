@@ -136,8 +136,6 @@ input, button {
           animation: animatePath 2s 0.5s forwards;
 }
 .login__icon.pass path {
-  stroke-dasharray: 92.10662841796875;
-  stroke-dashoffset: 92.10662841796875;
   -webkit-animation: animatePath 2s 0.5s forwards;
           animation: animatePath 2s 0.5s forwards;
 }

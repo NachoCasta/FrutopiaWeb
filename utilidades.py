@@ -28,8 +28,9 @@ def crear_template_multiple(productos):
   
             file.write('''
           <div class="checkbox__row">
-            <svg class="login__icon pass svg-icon svg-phone" viewBox="0 0 60 60">
-              <path d="''')
+            <svg class="login__icon pass svg-icon svg-phone" ''')
+##            viewBox="0 0 60 60">
+##              ''')
             with open("svgs/"+producto["svg"], "r", encoding="latin-1") as f:
                 svg = "".join(f.readlines())
             file.write(svg)
