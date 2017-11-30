@@ -23,39 +23,43 @@ def crear_template_multiple(productos):
                   "r", encoding="latin-1") as f:
             inicio = "".join(f.readlines())
         file.write(inicio)
-##        for producto in productos:
-##            file.write('''
-##          <div class="login__row">
-##            <svg class="login__icon svg-phone" viewBox="0 0 59 59" width="512px" height="512px">
-##                <path d="''')
-##            with open("svgs/"+producto["svg"], "r", encoding="latin-1") as f:
-##                svg = "".join(f.readlines())
-##            file.write(svg)
-##            file.write('''" fill="#FFFFFF"/>
-##              </svg>
-##            <input type="text" class="login__input pass" placeholder="''')
-##            file.write(producto["nombre"])
-##            file.write('''" 
-##            name="''')
-##            file.write(producto["variable"])
-##            file.write('''" size="25" value="{{ request.form.''')
-##            file.write(producto["variable"])
-##            file.write(''' }}"/>
-##          </div>''')
+        
+        for producto in sorted(productos, key=lambda k: k["orden"]):
+  
+            file.write('''
+          <div class="checkbox__row">
+            <svg class="login__icon pass svg-icon svg-phone" viewBox="0 0 60 60">
+              <path d="''')
+            with open("svgs/"+producto["svg"], "r", encoding="latin-1") as f:
+                svg = "".join(f.readlines())
+            file.write(svg)
+            file.write('''" fill="#FFFFFF"/>
+              </svg>
+            <label class="checkbox__label">
+              <input checked type="checkbox" class="checkbox__input"
+              name="productos" size="25" value="''')
+            file.write(producto["variable"])
+            file.write('''">''')
+            file.write(producto["nombre"])
+            file.write('''
+            </label>
+          </div>''')
+            
         with open("templates/fin_multiple.txt", "r", encoding="latin-1") as f:
             fin = "".join(f.readlines())
         file.write(fin)
 
 if __name__ == "__main__":
-    vendedor = {
-        "nombre": "Rodrigo",
-        "apellido": "Fernandez",
-        "telefono": "+56986194003"
-        }
+##    vendedor = {
+##        "nombre": "Rodrigo",
+##        "apellido": "Fernandez",
+##        "telefono": "+56986194003"
+##        }
     productos = obtener_productos()
 ##    productos.pop()
 ##    productos.pop()
 ##    productos.pop()
 ##    productos.pop()
-    crear_difusion_multiple(vendedor, productos)
+##    crear_difusion_multiple(vendedor, productos)
+    crear_template_multiple(productos)
         

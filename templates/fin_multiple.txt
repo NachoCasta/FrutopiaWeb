@@ -1,3 +1,4 @@
+
 <input class="login__submit" type="submit" value="Crear difusión">
             {% if error %}
           <p class="login__signup"><strong>Error:</strong> {{ error }}</p>

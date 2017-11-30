@@ -2,10 +2,10 @@
 <html >
   <head>
     <meta charset="UTF-8">
-    <title>Difusi�n</title>
+    <title>Difusión</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Open+Sans'>
-    <link rel="stylesheet" href="{{ url_for('static',filename='styles/difusion_multiple.css') }}">
+    <link rel="stylesheet" href="difusion_multiple.css">
 
     
     
@@ -42,3 +42,25 @@
             <input type="text" class="login__input pass" placeholder="Telefono" 
             name="telefono" size="25" value="{{ request.form.telefono }}"/>
           </div>
+          <div class="checkbox__row">
+            <svg class="login__icon pass svg-icon svg-phone" viewBox="0 0 20 20">
+              <path d="M13.372,1.781H6.628c-0.696,0-1.265,0.569-1.265,1.265v13.91c0,0.695,0.569,1.265,1.265,1.265h6.744c0.695,0,1.265-0.569,1.265-1.265V3.045C14.637,2.35,14.067,1.781,13.372,1.781 M13.794,16.955c0,0.228-0.194,0.421-0.422,0.421H6.628c-0.228,0-0.421-0.193-0.421-0.421v-0.843h7.587V16.955z M13.794,15.269H6.207V4.731h7.587V15.269z M13.794,3.888H6.207V3.045c0-0.228,0.194-0.421,0.421-0.421h6.744c0.228,0,0.422,0.194,0.422,0.421V3.888z" />
+            </svg>
+            <label class="checkbox__label">
+              <input checked type="checkbox" class="checkbox__input" name="frutilla" size="25" value="{{ request.form.frutillas }}">Frutillas
+            </label>
+          </div>
+<input class="login__submit" type="submit" value="Crear difusión">
+            {% if error %}
+          <p class="login__signup"><strong>Error:</strong> {{ error }}</p>
+            {% endif %}
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+       
+    <script src="{{ url_for('static', filename='difusion_datos.js') }}"></script> 
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  </body>
+</html>

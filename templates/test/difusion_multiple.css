@@ -151,9 +151,13 @@ input, button {
   color: #FDFCFD;
 }
 .checkbox__input {
+  -ms-transform: scale(1.5); /* IE */
+  -moz-transform: scale(1.5); /* FF */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+  -o-transform: scale(1.5); /* Opera */
   padding: 20px;
   margin-right: 10px;
-  margin-left: 20px;
+  margin-left: 10px;
   display: inline-block;
   background: transparent;
   color: #FDFCFD;

@@ -112,6 +112,8 @@ def difusion_multiple():
             "apellido": apellido,
             "telefono": telefono
             }
+        productos = [p for p in productos if
+                     p["variable"] in request.form.getlist("productos")]
         if len(telefono) < 8:
             error = "Telefono no válido."
         else:
