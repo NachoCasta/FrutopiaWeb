@@ -167,6 +167,20 @@
             "variable_precio": "q_precio"
         }
     },
+    "empanadas queso": {
+        "12": {
+            "disponible": true,
+            "formato": "docena",
+            "foto": "empanadas.jpg",
+            "nombre": "Empanadas de Queso",
+            "orden": 3,
+            "precio": "20000",
+            "svg": "empanadas.txt",
+            "unidad": "unidades",
+            "variable": "empanadas",
+            "variable_precio": "emp_precio"
+        }
+    },
     "tomates cherry": {
         "1": {
             "disponible": true,
