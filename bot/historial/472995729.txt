@@ -19069,3 +19069,724 @@ Trinidad Pereira    :  8```
 81 - Andres Santamaria
 82 - Isidora De La Barra
 
+2017-12-01 22:09:24 USER: /cobranza Joaquin Eichholz
+2017-12-01 22:09:24 BOT : Espera un segundo...
+2017-12-01 22:09:25 USER: waiting
+2017-12-01 22:09:29 BOT : Encargado: Joaquin Eichholz
+2017-12-01 22:09:30 USER: more
+2017-12-01 22:09:35 BOT : Florencia Croxatto
+2017-12-01 22:09:35 USER: more
+2017-12-01 22:09:35 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $19.900
+2017-12-01 22:09:35 USER: more
+2017-12-01 22:09:35 BOT : Joaquin Eichholz
+2017-12-01 22:09:35 USER: more
+2017-12-01 22:09:35 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+- 2017/11/18: $9.500
+Total: $47.000
+2017-12-01 22:09:35 USER: more
+2017-12-01 22:09:35 BOT : Rafael Errazuriz
+2017-12-01 22:09:36 USER: more
+2017-12-01 22:09:36 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-12-01 22:09:36 USER: more
+2017-12-01 22:09:36 BOT : Juan Diego Lyon
+2017-12-01 22:09:36 USER: more
+2017-12-01 22:09:36 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-12-01 22:09:36 USER: more
+2017-12-01 22:09:36 BOT : Michella Mascarello
+2017-12-01 22:09:36 USER: more
+2017-12-01 22:09:36 BOT : Miki! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $87.500
+2017-12-01 22:09:37 USER: more
+2017-12-01 22:09:37 BOT : Josefina Nazer
+2017-12-01 22:09:37 USER: more
+2017-12-01 22:09:37 BOT : Cote! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $216.000
+- 2017/11/18: $212.000
+- 2017/11/25: $77.500
+Total: $505.500
+2017-12-01 22:09:37 USER: more
+2017-12-01 22:09:37 BOT : Cata Tondreau
+2017-12-01 22:09:37 USER: more
+2017-12-01 22:09:37 BOT : Cata! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $28.000
+2017-12-01 22:09:38 USER: more
+2017-12-01 22:09:38 BOT : Jesu Valenzuela
+2017-12-01 22:09:38 USER: more
+2017-12-01 22:09:38 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $384.000
+2017-12-01 22:09:38 USER: more
+2017-12-01 22:09:38 BOT : Laura Stuardo
+2017-12-01 22:09:38 USER: more
+2017-12-01 22:09:38 BOT : Laura! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.000
+- 2017/11/25: $119.000
+Total: $166.000
+2017-12-01 22:09:38 USER: more
+2017-12-01 22:09:38 BOT : Isidora De La Barra
+2017-12-01 22:09:39 USER: more
+2017-12-01 22:09:39 BOT : Isi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $77.000
+2017-12-01 22:09:39 USER: more
+2017-12-01 22:09:39 BOT : Listo!
+2017-12-02 17:32:18 USER: /lector_detalles
+2017-12-02 17:32:18 BOT : Envíame la lista de pedidos!
+2017-12-02 17:32:23 USER: _Pedido Sabado 02/12_
+
+*Nueces*
+- R. Opazo 1
+- Cami de la Sotta 3
+- Pedro Vial 2
+
+*Paltas Hass*
+- R. Opazo 1
+- Alvaro Caviedes 3
+- Matias Krumm 2
+- Barbara 2
+- Guisa 3
+- Juan U 1
+- Ignacio Montt 3
+- Florencia 3
+- Cami de la Sotta 3
+- Claudio Baldovino 1
+- Sofia ovalle 5
+- Pedro Vial 1
+- Maida Astudillo 2
+- JP Germain 1
+- Majo 1
+- Trini 2
+- Tomas R 2
+- Javi 8
+- Seba delorenzo 2
+- Isi de la barra 8
+- Pia Rodríguez 6
+- R Fdez 12
+- Andres infante 1
+- Laura Stuardo 1 
+-Rosario 3
+-C. Valdés 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+- Alvaro Caviedes 2
+- Claudio Baldovino 1
+- Florencia 3
+- JP Germain 1
+- Pedro Vial 1
+- Isi de la barra 4
+- Cami de la Sotta 1
+-Pia Rodríguez 1
+-Rosario 1
+- C.Valdés 1
+Exequiel 2
+
+*Tomates Cherry*
+- R. Opazo 1
+- Alvaro Caviedes 2
+- Guisa 1
+- Florencia 1
+- JP Germain 1
+- Javi 2
+- Seba delorenzo 1
+- Pia Rodríguez 2
+- andres infante 1
+-isi de la barra 1
+- Cami de la sotta 1
+-Muschen 1
+-Rosario 1
+
+*Frutillas*
+- R. Opazo 2
+- Alvaro Caviedes 2
+- Trini pereira 35
+- Matias Krumm 2
+- Florencia croxatto 4
+- Guisa 1
+- Majo 2
+- Claudio Baldovino 1
+- Sofia Ovalle 5
+- Pedro Vial 2
+- Maida Astudillo 5
+- JP Germain 3
+- Tomas R 1
+- Javi 4
+- Seba delorenzo 4
+- Isi de la barra 7
+- Pia Rodríguez 5
+- Andres infante 2
+- Laura Stuardo 1
+- trini salas 1
+Exequiel 1
+Rosario 2
+
+
+*Mani*
+- Juan U 1
+- Cami de la Sotta 4
+- J P Germain 1
+- Isi de la barra 3
+-Pia Rodríguez 1
+
+*Pistacho*
+- Majo 2
+- Cami de la Sotta 4
+- JP Germain 2
+- Tomas R 1
+- Seba delorenzo 1
+- Isi de la barra 2
+-Pia Rodríguez 1
+
+*Castaña*
+- Cami de la Sotta 3
+- Javi 1
+- Seba delorenzo 1
+- Isi de la barra 2
+- Pia Rodríguez 2
+- Andres infante 1
+- JP Germain 1
+
+*Almendra*
+- Juan U 1
+- Cami de la Sotta 2
+- Javi 1
+- Seba delorenzo 1
+-isi de la barra 1
+-Pia Rodríguez 1
+- C. Valdés 1
+
+*Cerezas*
+- R. Opazo 40
+- Alvaro Caviedes 2
+- Barbara 1
+- Laura Stuardo 1
+- Florencia Croxatto 6
+- Matias krumm 1
+- Majo 2
+- Cami de la Sotta 3
+- Claudio Baldovino 1
+- Pedro Vial 11
+- Maida Astudillo 12
+- JP Germain 12
+- Trini 2
+- Tomas R 52
+- Javi 10
+- Seba delorenzo 5
+- Isi de la barra 8
+- Pia Rodríguez 5
+- andres infante 2
+-Juan U 1
+- M. Muschen 3
+- C. Valdés 2
+Exequiel 4
+-Rosario 2
+
+*Arándanos*
+- R. Opazo 1
+- Florencia croxatto 2
+- Guisa 2
+- Cami de la Sotta 1
+- Maida Astudillo 1
+- JP Germain 5
+- Javi 2
+-isi de la barra 2
+- Laura Stuardo 1
+-Rosario 1
+2017-12-02 17:32:23 BOT : Chat
+2017-12-02 17:32:27 USER: _Pedido Sabado 02/12_
+
+*Nueces*
+- R. Opazo 1
+- Cami de la Sotta 3
+- Pedro Vial 2
+
+*Paltas Hass*
+- R. Opazo 1
+- Alvaro Caviedes 3
+- Matias Krumm 2
+- Barbara 2
+- Guisa 3
+- Juan U 1
+- Ignacio Montt 3
+- Florencia 3
+- Cami de la Sotta 3
+- Claudio Baldovino 1
+- Sofia ovalle 5
+- Pedro Vial 1
+- Maida Astudillo 2
+- JP Germain 1
+- Majo 1
+- Trini 2
+- Tomas R 2
+- Javi 8
+- Seba delorenzo 2
+- Isi de la barra 8
+- Pia Rodríguez 6
+- R Fdez 12
+- Andres infante 1
+- Laura Stuardo 1 
+-Rosario 3
+-C. Valdés 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+- Alvaro Caviedes 2
+- Claudio Baldovino 1
+- Florencia 3
+- JP Germain 1
+- Pedro Vial 1
+- Isi de la barra 4
+- Cami de la Sotta 1
+-Pia Rodríguez 1
+-Rosario 1
+- C.Valdés 1
+Exequiel 2
+
+*Tomates Cherry*
+- R. Opazo 1
+- Alvaro Caviedes 2
+- Guisa 1
+- Florencia 1
+- JP Germain 1
+- Javi 2
+- Seba delorenzo 1
+- Pia Rodríguez 2
+- andres infante 1
+-isi de la barra 1
+- Cami de la sotta 1
+-Muschen 1
+-Rosario 1
+
+*Frutillas*
+- R. Opazo 2
+- Alvaro Caviedes 2
+- Trini pereira 35
+- Matias Krumm 2
+- Florencia croxatto 4
+- Guisa 1
+- Majo 2
+- Claudio Baldovino 1
+- Sofia Ovalle 5
+- Pedro Vial 2
+- Maida Astudillo 5
+- JP Germain 3
+- Tomas R 1
+- Javi 4
+- Seba delorenzo 4
+- Isi de la barra 7
+- Pia Rodríguez 5
+- Andres infante 2
+- Laura Stuardo 1
+- trini salas 1
+Exequiel 1
+Rosario 2
+
+
+*Mani*
+- Juan U 1
+- Cami de la Sotta 4
+- J P Germain 1
+- Isi de la barra 3
+-Pia Rodríguez 1
+
+*Pistacho*
+- Majo 2
+- Cami de la Sotta 4
+- JP Germain 2
+- Tomas R 1
+- Seba delorenzo 1
+- Isi de la barra 2
+-Pia Rodríguez 1
+
+*Castaña*
+- Cami de la Sotta 3
+- Javi 1
+- Seba delorenzo 1
+- Isi de la barra 2
+- Pia Rodríguez 2
+- Andres infante 1
+- JP Germain 1
+
+*Almendra*
+- Juan U 1
+- Cami de la Sotta 2
+- Javi 1
+- Seba delorenzo 1
+-isi de la barra 1
+-Pia Rodríguez 1
+- C. Valdés 1
+
+*Cerezas*
+- R. Opazo 40
+- Alvaro Caviedes 2
+- Barbara 1
+- Laura Stuardo 1
+- Florencia Croxatto 6
+- Matias krumm 1
+- Majo 2
+- Cami de la Sotta 3
+- Claudio Baldovino 1
+- Pedro Vial 11
+- Maida Astudillo 12
+- JP Germain 12
+- Trini 2
+- Tomas R 52
+- Javi 10
+- Seba delorenzo 5
+- Isi de la barra 8
+- Pia Rodríguez 5
+- andres infante 2
+-Juan U 1
+- M. Muschen 3
+- C. Valdés 2
+Exequiel 4
+-Rosario 2
+
+*Arándanos*
+- R. Opazo 1
+- Florencia croxatto 2
+- Guisa 2
+- Cami de la Sotta 1
+- Maida Astudillo 1
+- JP Germain 5
+- Javi 2
+-isi de la barra 2
+- Laura Stuardo 1
+-Rosario 1
+2017-12-02 17:32:27 BOT : Chat
+2017-12-02 17:32:53 USER: _Pedido Sabado 02/12_
+
+*Nueces*
+- R. Opazo 1
+- Cami de la Sotta 3
+- Pedro Vial 2
+
+*Paltas Hass*
+- R. Opazo 1
+- Alvaro Caviedes 3
+- Matias Krumm 2
+- Barbara 2
+- Guisa 3
+- Juan U 1
+- Ignacio Montt 3
+- Florencia 3
+- Cami de la Sotta 3
+- Claudio Baldovino 1
+- Sofia ovalle 5
+- Pedro Vial 1
+- Maida Astudillo 2
+- JP Germain 1
+- Majo 1
+- Trini 2
+- Tomas R 2
+- Javi 8
+- Seba delorenzo 2
+- Isi de la barra 8
+- Pia Rodríguez 6
+- R Fdez 12
+- Andres infante 1
+- Laura Stuardo 1 
+-Rosario 3
+-C. Valdés 2
+
+*Quesos Huentelauquen*
+- R. Opazo 3
+- Alvaro Caviedes 2
+- Claudio Baldovino 1
+- Florencia 3
+- JP Germain 1
+- Pedro Vial 1
+- Isi de la barra 4
+- Cami de la Sotta 1
+-Pia Rodríguez 1
+-Rosario 1
+- C.Valdés 1
+Exequiel 2
+
+*Tomates Cherry*
+- R. Opazo 1
+- Alvaro Caviedes 2
+- Guisa 1
+- Florencia 1
+- JP Germain 1
+- Javi 2
+- Seba delorenzo 1
+- Pia Rodríguez 2
+- andres infante 1
+-isi de la barra 1
+- Cami de la sotta 1
+-Muschen 1
+-Rosario 1
+
+*Frutillas*
+- R. Opazo 2
+- Alvaro Caviedes 2
+- Trini pereira 35
+- Matias Krumm 2
+- Florencia croxatto 4
+- Guisa 1
+- Majo 2
+- Claudio Baldovino 1
+- Sofia Ovalle 5
+- Pedro Vial 2
+- Maida Astudillo 5
+- JP Germain 3
+- Tomas R 1
+- Javi 4
+- Seba delorenzo 4
+- Isi de la barra 7
+- Pia Rodríguez 5
+- Andres infante 2
+- Laura Stuardo 1
+- trini salas 1
+Exequiel 1
+Rosario 2
+
+
+*Mani*
+- Juan U 1
+- Cami de la Sotta 4
+- J P Germain 1
+- Isi de la barra 3
+-Pia Rodríguez 1
+
+*Pistacho*
+- Majo 2
+- Cami de la Sotta 4
+- JP Germain 2
+- Tomas R 1
+- Seba delorenzo 1
+- Isi de la barra 2
+-Pia Rodríguez 1
+
+*Castaña*
+- Cami de la Sotta 3
+- Javi 1
+- Seba delorenzo 1
+- Isi de la barra 2
+- Pia Rodríguez 2
+- Andres infante 1
+- JP Germain 1
+
+*Almendra*
+- Juan U 1
+- Cami de la Sotta 2
+- Javi 1
+- Seba delorenzo 1
+-isi de la barra 1
+-Pia Rodríguez 1
+- C. Valdés 1
+
+*Cerezas*
+- R. Opazo 40
+- Alvaro Caviedes 2
+- Barbara 1
+- Laura Stuardo 1
+- Florencia Croxatto 6
+- Matias krumm 1
+- Majo 2
+- Cami de la Sotta 3
+- Claudio Baldovino 1
+- Pedro Vial 11
+- Maida Astudillo 12
+- JP Germain 12
+- Trini 2
+- Tomas R 52
+- Javi 10
+- Seba delorenzo 5
+- Isi de la barra 8
+- Pia Rodríguez 5
+- andres infante 2
+-Juan U 1
+- M. Muschen 3
+- C. Valdés 2
+- Exequiel 4
+-Rosario 2
+
+*Arándanos*
+- R. Opazo 1
+- Florencia croxatto 2
+- Guisa 2
+- Cami de la Sotta 1
+- Maida Astudillo 1
+- JP Germain 5
+- Javi 2
+-isi de la barra 2
+- Laura Stuardo 1
+-Rosario 1
+2017-12-02 17:32:53 BOT : Espera un segundo...
+2017-12-02 17:32:53 USER: waiting
+2017-12-02 17:32:54 BOT : ```
+Pedido Sabado 02/12:
+
+Total por producto:
+Arándanos - 18
+Frutillas - 89
+Almendra - 8
+Exequiel 2 - 0
+Mani - 10
+Castaña - 11
+Rosario 2 - 0
+Tomates Cherry - 16
+Nueces - 6
+Paltas Hass - 79
+Quesos Huentelauquen - 19
+Cerezas - 188
+Pistacho - 13
+Exequiel 1 - 0
+
+Detalle:
+                 Ar Fr Al Ex Ma Ca Ro To Nu Pa Qu Ce Pi Ex Total 
+Alvaro Caviedes : 0  2  0  0  0  0  0  2  0  3  2  2  0  0  11  
+Andres Infante  : 0  2  0  0  0  1  0  1  0  1  0  2  0  0   7  
+Barbara Rodrigue: 0  0  0  0  0  0  0  0  0  2  0  1  0  0   3  
+Camila De La Sot: 1  0  2  0  4  3  0  1  3  3  1  3  4  0  25  
+Claudio Baldovin: 0  1  0  0  0  0  0  0  0  1  1  1  0  0   4  
+Cristobal Valdes: 0  0  1  0  0  0  0  0  0  2  1  2  0  0   6  
+Exequiel Swinbur: 0  0  0  0  0  0  0  0  0  0  0  4  0  0   4  
+Florencia Croxat: 2  4  0  0  0  0  0  1  0  3  3  6  0  0  19  
+Ignacio Montt   : 0  0  0  0  0  0  0  0  0  3  0  0  0  0   3  
+Isi De La Barra : 2  7  1  0  3  2  0  1  0  8  4  8  2  0  38  
+Javi Del Rio    : 2  4  1  0  0  1  0  2  0  8  0 10  0  0  28  
+Juan Pablo Germa: 5  3  0  0  1  1  0  1  0  1  1 12  2  0  27  
+Juan Undurraga  : 0  0  1  0  1  0  0  0  0  1  0  1  0  0   4  
+Laura Stuardo   : 1  1  0  0  0  0  0  0  0  1  0  1  0  0   4  
+Maida Astudillo : 1  5  0  0  0  0  0  0  0  2  0 12  0  0  20  
+Majo Castañeda  : 0  2  0  0  0  0  0  0  0  1  0  2  2  0   7  
+Maria Luisa Fern: 2  1  0  0  0  0  0  1  0  3  0  0  0  0   7  
+Matias Krumm    : 0  2  0  0  0  0  0  0  0  2  0  1  0  0   5  
+Matias Muschen  : 0  0  0  0  0  0  0  1  0  0  0  3  0  0   4  
+Pedro Vial      : 0  2  0  0  0  0  0  0  2  1  1 11  0  0  17  
+Pia Rodríguez   : 0  5  1  0  1  2  0  2  0  6  1  5  1  0  24  
+Raimundo Opazo  : 1  2  0  0  0  0  0  1  1  1  3 40  0  0  49  
+Rodrigo Fernande: 0  0  0  0  0  0  0  0  0 12  0  0  0  0  12  
+Rosario Diez    : 1  0  0  0  0  0  0  1  0  3  1  2  0  0   8  
+Sebastian Delore: 0  4  1  0  0  1  0  1  0  2  0  5  1  0  15  
+Sofia Ovalle    : 0  5  0  0  0  0  0  0  0  5  0  0  0  0  10  
+Tomas Rojas     : 0  1  0  0  0  0  0  0  0  2  0 52  1  0  56  
+Trini           : 0  0  0  0  0  0  0  0  0  2  0  2  0  0   4  
+Trinidad Pereira: 0 35  0  0  0  0  0  0  0  0  0  0  0  0  35  
+Trinidad Salas  : 0  1  0  0  0  0  0  0  0  0  0  0  0  0   1  
+``` Poner en modo horizontal para ver correctamente.
+2017-12-03 15:15:05 USER: /cobranza Lukas Quense
+2017-12-03 15:15:05 BOT : Espera un segundo...
+2017-12-03 15:15:06 USER: waiting
+2017-12-03 15:15:12 BOT : Encargado: Lukas Quense
+2017-12-03 15:15:12 USER: more
+2017-12-03 15:15:21 BOT : Martin Araos
+2017-12-03 15:15:21 USER: more
+2017-12-03 15:15:21 BOT : Martin! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $31.900
+2017-12-03 15:15:21 USER: more
+2017-12-03 15:15:21 BOT : Rosario Diez
+2017-12-03 15:15:21 USER: more
+2017-12-03 15:15:21 BOT : Ro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $59.000
+2017-12-03 15:15:22 USER: more
+2017-12-03 15:15:22 BOT : Rodrigo Fernandez
+2017-12-03 15:15:22 USER: more
+2017-12-03 15:15:22 BOT : Rod! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $89.400
+- 2017/11/04: $111.000
+- 2017/11/11: $123.000
+- 2017/11/18: $89.500
+- 2017/11/25: $63.000
+Total: $475.900
+2017-12-03 15:15:22 USER: more
+2017-12-03 15:15:22 BOT : Mauricio Hernandez
+2017-12-03 15:15:22 USER: more
+2017-12-03 15:15:22 BOT : Mau! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $64.300
+- 2017/10/21: $77.900
+Total: $142.200
+2017-12-03 15:15:23 USER: more
+2017-12-03 15:15:23 BOT : Andres Infante
+2017-12-03 15:15:23 USER: more
+2017-12-03 15:15:23 BOT : Andres! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/21: $63.600
+- 2017/11/11: $30.000
+- 2017/11/18: $35.000
+- 2017/11/25: $9.500
+Total: $138.100
+2017-12-03 15:15:23 USER: more
+2017-12-03 15:15:23 BOT : Rodrigo Morales
+2017-12-03 15:15:23 USER: more
+2017-12-03 15:15:23 BOT : Rodrigo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $119.100
+- 2017/11/11: $18.000
+- 2017/11/25: $125.500
+Total: $262.600
+2017-12-03 15:15:24 USER: more
+2017-12-03 15:15:24 BOT : Raimundo Opazo
+2017-12-03 15:15:24 USER: more
+2017-12-03 15:15:24 BOT : Raimundo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $479.500
+- 2017/11/25: $279.000
+Total: $758.500
+2017-12-03 15:15:24 USER: more
+2017-12-03 15:15:24 BOT : Sofia Ovalle
+2017-12-03 15:15:24 USER: more
+2017-12-03 15:15:24 BOT : Sofi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/09/02: $87.500
+- 2017/09/09: $78.500
+- 2017/11/25: $14.500
+Total: $180.500
+2017-12-03 15:15:25 USER: more
+2017-12-03 15:15:25 BOT : Lukas Quense
+2017-12-03 15:15:25 USER: more
+2017-12-03 15:15:25 BOT : Lukas! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.500
+2017-12-03 15:15:26 USER: more
+2017-12-03 15:15:26 BOT : Barbara Rodriguez
+2017-12-03 15:15:26 USER: more
+2017-12-03 15:15:26 BOT : Barbara! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/11: $41.500
+- 2017/11/18: $28.500
+- 2017/11/25: $49.000
+Total: $119.000
+2017-12-03 15:15:26 USER: more
+2017-12-03 15:15:26 BOT : Pedro Vial
+2017-12-03 15:15:26 USER: more
+2017-12-03 15:15:26 BOT : Pedro! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $387.000
+2017-12-03 15:15:27 USER: more
+2017-12-03 15:15:27 BOT : Sebastian Delorenzo
+2017-12-03 15:15:27 USER: more
+2017-12-03 15:15:27 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+- 2017/11/25: $155.500
+Total: $372.600
+2017-12-03 15:15:27 USER: more
+2017-12-03 15:15:27 BOT : Tomas Rojas
+2017-12-03 15:15:27 USER: more
+2017-12-03 15:15:27 BOT : Tomas! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $247.000
+2017-12-03 15:15:28 USER: more
+2017-12-03 15:15:28 BOT : Listo!
