@@ -176,7 +176,7 @@
             "orden": 3,
             "precio": "20000",
             "svg": "empanadas.txt",
-            "unidad": "unidades",
+            "unidad": "unid",
             "variable": "empanadas",
             "variable_precio": "emp_precio"
         }
