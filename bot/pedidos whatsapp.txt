@@ -1,124 +1,54 @@
-Pedido Sabado 14/10
+Pedido 13/12
 
-Naranjas Jugo
-- R. Opazo 11
-- Majo 4
-- javi 1
-- Ric 1
-- Michella 3
--Alvaro Caviedes 2
--Florencia 2
-- Samuel Billikopf 2
-- Jesu V 3
--Pedro Vial 2
-- guisa 1
-- mau 4
--cata Tondreau 1
-- Cami de la sotta 3
-- Samuel Billikopf 1
-
-Mandarinas
-
-Paltas Hass
-- R. Opazo 9
-- Juan Diego Lyon 3
-- Majo 4
-- Cote 2
-- Michella 3
--Ric 1
--Alvaro Caviedes 3
--Florencia 2
--rodrigo m 1
-- Samuel Billikopf 2
-- Jesu V 3
-- Pablo Vial 2
-- Rodrigo Fdez 20
--Pedro Vial 2
-- guisa 3
--mau 4
--cata Tondreau 1
-- Cami de la sotta 3
--paul b 3
-- javi 5
--barbara 1
--rosario 11
+Paltas
+- Javi 4
+- Pía Rodríguez 7
+-Tomas R 3
+- majo 1
+- trini p 1
+- Ignacio Montt 1
+-Trini salas 7
 
 Quesos
-- R. Opazo 5
-- Juan Diego Lyon 2
-- Michella 1
--Alvaro Caviedes 1
-- Jesu V 1
-- mau 3
-- Cami de ma sotta 1
--paul b 1
--rosario 1
+-juan pablo germain 5
 
-Frutillas
-- R. Opazo 7
-- Majo 1
-- javi 1
-- Michella 1 
--Alvaro Caviedes 1
--Rodrigo M 3
--Samuel Billikopf 1 
-- Jesu V 2
-- Pablo Vial 2
--Pedro Vial 1
-- guisa 3
-- mau 1
-- Cami de la Sotta 1
--rosario 5
+Frutilla
+-Pía Rodríguez 1
+-Tomas R 4
+- majo 2
+- Javi 1 
+-trini p 5
+- Ignacio Montt 1
+-Trini salas 5
 
-Tomates Cherry
-- R. Opazo 3
-- Juan Diego Lyon 3
-- Majo 3
-- Pedro Vial 1
+Cherry
 
-Nueces
-- R. Opazo 1
-- Juan Diego Lyon 1
-- Majo 1
-- Ric 1
--Pedro Vial 1
-
-
+Nueces 
+- Javi 1
 
 Mani
-- R. Opazo 5
-- Michella 1
-- Jesu V 1
-- Rodrigo Fdez 2
-- guisa 1
-- Samuel B 1 
--barbara 1
 
-Pistacho
-- R. Opazo 2
-- Majo 1
-- Cote 1
-- Michella 1
-- Ric 1
-- Jesu V 1
-- Rodrigo Fdez 4
-- paul b 1
-- guisa 1
-- Samuel 1
--barbara 1
+Pistachos
 
-Castañas de Caju
-- R. Opazo 1
-- Cote 1
-- Ric 1
-- guisa 2
-- michella 1
-- Samuel B 1
-- barbara 1
- 
-Almendra
-- R. Opazo 3
-- Michella 1
-- Rodrigo Fdez 3
--Pedro Vial 1
-- Samuel B 1
+Caju
+
+Almendras
+
+Cerezas
+- Javi 1 
+-Pía Rodríguez 2
+- Tomas R 6
+- Matias Krumm 10
+- seba delorenzo 5
+- tati von storch 1
+
+Arándanos
+-Pia Rodríguez 1
+-Tomas R 1
+-Tati von Storch 1
+
+Empanadas
+-Pía Rodríguez 2
+- germain 7
+- Tomas R 24
+- Ignacio Montt 1

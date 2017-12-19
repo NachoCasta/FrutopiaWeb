@@ -26,6 +26,16 @@ def descargar_jefes(download_path):
     file = "Jefes 2017-2.xlsx"
     dbx.files_download_to_file(download_path+file, path + "/" + file)
 
+def actualizar_archivo(file_path, upload_path):
+    token = base64.b64decode(b'WFlYYTUtTnhQY1FBQUFBQUFBQU5JVmtCNlBFZm5IQzVnaVBMS2pCa256Vmg5cXFqMlhRSXNWZUxicGhGaUZSTg==').decode("utf-8")
+    dbx = dropbox.Dropbox(token)
+    with open(file_path, "rb") as file:
+        data = file.read()
+    nombre = file_path.split("/")[-1]
+    dbx.files_upload(data, upload_path+"/"+nombre,
+                     mode=dropbox.files.WriteMode.overwrite)
+    
+
 
 if __name__ == "__main__":
     descargar_excels("datos")
