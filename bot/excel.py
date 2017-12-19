@@ -12,7 +12,7 @@ try:
 except Exception:
     rel = "bot/"
     from bot.lector_excel import cargar_pedido, hojas
-    from bot.descargar_dropbox import descaergar_excels, actualizar_archivo
+    from bot.descargar_dropbox import descargar_excels, actualizar_archivo
 
 def excel_to_table(file, hoja):
     table = pd.read_excel(

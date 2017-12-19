@@ -112,6 +112,27 @@ def difusion_multiple():
             "apellido": apellido,
             "telefono": telefono
             }
+        if len(telefono) < 8:
+            error = "Telefono no válido."
+        else:
+            file = crear_difusion_multiple(vendedor, productos)
+            return send_file(file, mimetype='image/gif')
+    crear_template_multiple(productos, False)
+    return render_template('difusion_multiple.html', error=error)
+
+@app.route("/difusion_tickets", methods=['GET', 'POST'])
+def difusion_tickets():
+    error = None
+    productos = obtener_productos()
+    if request.method == 'POST':
+        nombre = request.form["nombre"].lower().strip()
+        apellido = request.form["apellido"].lower().strip()
+        telefono = request.form["telefono"]
+        vendedor = {
+            "nombre": nombre,
+            "apellido": apellido,
+            "telefono": telefono
+            }
         productos = [p for p in productos if
                      p["variable"] in request.form.getlist("productos")]
         if len(telefono) < 8:
@@ -120,7 +141,7 @@ def difusion_multiple():
             file = crear_difusion_multiple(vendedor, productos)
             return send_file(file, mimetype='image/gif')
     crear_template_multiple(productos)
-    return render_template('difusion_multiple.html', error=error)
+    return render_template('difusion_tickets.html', error=error)
 
 @app.route("/excel_vendedor")
 def excel_vendedor():

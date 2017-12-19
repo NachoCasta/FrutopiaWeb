@@ -14,15 +14,15 @@
         }
     },
     "arandanos": {
-        "500": {
+        "1": {
             "disponible": true,
             "formato": "cajas",
             "foto": "arandanos.jpg",
-            "nombre": "Arandanos 500 gr",
+            "nombre": "Arandanos 1 kg",
             "orden": 3,
-            "precio": "6000",
+            "precio": "8000",
             "svg": "arandanos.txt",
-            "unidad": "gr",
+            "unidad": "kg",
             "variable": "arandanos",
             "variable_precio": "aran_precio"
         }
@@ -83,18 +83,32 @@
             "variable_precio": "m_precio"
         }
     },
-    "mani": {
+    "mani sal": {
         "1": {
             "disponible": true,
             "formato": "bolsa",
-            "foto": "mani.jpg",
-            "nombre": "Mani 1 kg",
+            "foto": "manisal.jpg",
+            "nombre": "Mani Salado 1 kg",
             "orden": 6,
-            "precio": "6000",
+            "precio": "5000",
             "svg": "mani.txt",
             "unidad": "kg",
-            "variable": "mani",
-            "variable_precio": "mani_precio"
+            "variable": "manisal",
+            "variable_precio": "manisal_precio"
+        }
+    },
+    "mani miel": {
+        "1": {
+            "disponible": true,
+            "formato": "bolsa",
+            "foto": "manimiel.jpg",
+            "nombre": "Mani Miel 1 kg",
+            "orden": 6,
+            "precio": "5000",
+            "svg": "mani.txt",
+            "unidad": "kg",
+            "variable": "manimiel",
+            "variable_precio": "manimiel_precio"
         }
     },
     "naranjas": {
@@ -155,7 +169,7 @@
     },
     "quesos": {
         "1": {
-            "disponible": true,
+            "disponible": false,
             "formato": "packs",
             "foto": "quesos.jpg",
             "nombre": "Quesos 1 kg",

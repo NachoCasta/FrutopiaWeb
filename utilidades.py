@@ -17,7 +17,7 @@ def obtener_productos(archivo="grafica/productos.json"):
                 productos.append(detalles)
     return productos
 
-def crear_template_multiple(productos):
+def crear_template_multiple(productos, tickets=True):
     with open("templates/difusion_multiple.html", "w", encoding="utf8") as file:
         with open("templates/inicio_multiple.txt",
                   "r", encoding="latin-1") as f:
@@ -25,7 +25,8 @@ def crear_template_multiple(productos):
         file.write(inicio)
         
         for producto in sorted(productos, key=lambda k: k["orden"]):
-  
+            if not tickets:
+                break
             file.write('''
           <div class="checkbox__row">
             <svg class="login__icon pass svg-icon svg-phone" ''')
