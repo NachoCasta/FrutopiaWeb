@@ -54,7 +54,7 @@ def deudas_jefes(jefes, path=rel+"datos"):
     return deudas
 
 def parser_to_excel(parser, mes, pedido):
-    descargar_excels("datos")
+    #descargar_excels("datos")
     file = [f for f in os.listdir(rel+"datos")
              if f[0:2] == "20" and ".xl" in f and mes in f][0]
     wb = load_workbook(filename=rel+"datos/"+file, keep_vba=True)
@@ -98,10 +98,10 @@ def parser_to_excel(parser, mes, pedido):
             break
     no_encontrados = [j for j in parser.jefes if j not in encontrados]
     if len(no_encontrados) > 0:
-        raise Exception("{} no encontrado".format(jefe))
+        raise Exception("{} no encontrado".format(no_encontrados[0]))
     path = rel + "datos/" + file
     wb.save(path)
-    actualizar_archivo(path, "/Frutillas/Contabilidad/2017 - 2")
+    #actualizar_archivo(path, "/Frutillas/Contabilidad/2017 - 2")
     
             
 

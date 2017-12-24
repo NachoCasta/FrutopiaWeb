@@ -14,15 +14,15 @@
         }
     },
     "arandanos": {
-        "500": {
+        "1": {
             "disponible": true,
             "formato": "cajas",
             "foto": "arandanos.jpg",
-            "nombre": "Arandanos 500 gr",
-            "orden": 2,
-            "precio": "6000",
+            "nombre": "Arandanos 1 kg",
+            "orden": 3,
+            "precio": "8000",
             "svg": "arandanos.txt",
-            "unidad": "gr",
+            "unidad": "kg",
             "variable": "arandanos",
             "variable_precio": "aran_precio"
         }
@@ -83,18 +83,32 @@
             "variable_precio": "m_precio"
         }
     },
-    "mani": {
+    "mani sal": {
         "1": {
             "disponible": true,
             "formato": "bolsa",
-            "foto": "mani.jpg",
-            "nombre": "Mani 1 kg",
+            "foto": "manisal.jpg",
+            "nombre": "Mani Salado 1 kg",
             "orden": 6,
-            "precio": "6000",
+            "precio": "5000",
             "svg": "mani.txt",
             "unidad": "kg",
-            "variable": "mani",
-            "variable_precio": "mani_precio"
+            "variable": "manisal",
+            "variable_precio": "manisal_precio"
+        }
+    },
+    "mani miel": {
+        "1": {
+            "disponible": true,
+            "formato": "bolsa",
+            "foto": "manimiel.jpg",
+            "nombre": "Mani Miel 1 kg",
+            "orden": 6,
+            "precio": "5000",
+            "svg": "mani.txt",
+            "unidad": "kg",
+            "variable": "manimiel",
+            "variable_precio": "manimiel_precio"
         }
     },
     "naranjas": {
@@ -117,7 +131,7 @@
             "formato": "cajas",
             "foto": "nueces.jpg",
             "nombre": "Nueces 500 gr",
-            "orden": 8,
+            "orden": 15,
             "precio": "7000",
             "svg": "nueces.txt",
             "unidad": "gr",
@@ -131,7 +145,7 @@
             "formato": "mallas",
             "foto": "paltas.jpg",
             "nombre": "Paltas 2 kg",
-            "orden": 2,
+            "orden": 3,
             "precio": "6000",
             "svg": "paltas.txt",
             "unidad": "kg",
@@ -155,11 +169,11 @@
     },
     "quesos": {
         "1": {
-            "disponible": true,
+            "disponible": false,
             "formato": "packs",
             "foto": "quesos.jpg",
             "nombre": "Quesos 1 kg",
-            "orden": 3,
+            "orden": 2,
             "precio": "9000",
             "svg": "quesos.txt",
             "unidad": "kg",
@@ -173,10 +187,10 @@
             "formato": "docena",
             "foto": "empanadas.jpg",
             "nombre": "Empanadas de Queso",
-            "orden": 3,
+            "orden": 2,
             "precio": "20000",
             "svg": "empanadas.txt",
-            "unidad": "unidades",
+            "unidad": "unid",
             "variable": "empanadas",
             "variable_precio": "emp_precio"
         }

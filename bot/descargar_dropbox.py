@@ -13,6 +13,8 @@ def descargar_excels(download_path):
         os.makedirs(download_path)
     for entry in dbx.files_list_folder(path).entries:
         file = entry.name
+        if file == "Respaldo":
+            continue
         dbx.files_download_to_file(download_path+file, path + "/" + file)
     path = "/Frutillas"
     file = "Jefes 2017-2.xlsx"

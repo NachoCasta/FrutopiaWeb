@@ -54,7 +54,7 @@ class Parser:
                 self.productos[producto].append([jefe, cantidad])
 
     def actualizar_equivalencias(self):
-        #descargar_jefes(rel+"datos")
+        descargar_jefes(rel+"datos")
         self.cargar_equivalencias()
 
     def cargar_equivalencias(self):

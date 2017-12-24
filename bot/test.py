@@ -6,5 +6,5 @@ if __name__ == "__main__":
         texto = file.readlines()
     p = Parser()
     p.parse(texto, 20)
-    parser_to_excel(p, "Diciembre", "Sabado 16")
+    parser_to_excel(p, "Diciembre", "Sabado 23")
     
