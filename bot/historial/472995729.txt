@@ -19790,3 +19790,521 @@ Esto es lo que estay debiendo:
 - 2017/11/25: $247.000
 2017-12-03 15:15:28 USER: more
 2017-12-03 15:15:28 BOT : Listo!
+2017-12-25 12:48:10 USER: /cobranza Joaquin Eichholz
+2017-12-25 12:48:10 BOT : Espera un segundo...
+2017-12-25 12:48:11 USER: waiting
+2017-12-25 12:48:16 BOT : Encargado: Joaquin Eichholz
+2017-12-25 12:48:16 USER: more
+2017-12-25 12:48:30 BOT : Florencia Croxatto
+2017-12-25 12:48:30 USER: more
+2017-12-25 12:48:30 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $19.900
+- 2017/12/02: $112.500
+- 2017/12/09: $33.000
+- 2017/12/16: $16.500
+- 2017/12/23: $79.500
+Total: $261.400
+2017-12-25 12:48:30 USER: more
+2017-12-25 12:48:30 BOT : Joaquin Eichholz
+2017-12-25 12:48:31 USER: more
+2017-12-25 12:48:31 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+- 2017/11/18: $9.500
+- 2017/12/13: $85.500
+- 2017/12/20: $9.000
+- 2017/12/23: $31.500
+Total: $173.000
+2017-12-25 12:48:31 USER: more
+2017-12-25 12:48:31 BOT : Rafael Errazuriz
+2017-12-25 12:48:31 USER: more
+2017-12-25 12:48:31 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-12-25 12:48:31 USER: more
+2017-12-25 12:48:31 BOT : Juan Diego Lyon
+2017-12-25 12:48:32 USER: more
+2017-12-25 12:48:32 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-12-25 12:48:32 USER: more
+2017-12-25 12:48:32 BOT : Ignacio Montt
+2017-12-25 12:48:32 USER: more
+2017-12-25 12:48:32 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/13: $31.000
+2017-12-25 12:48:32 USER: more
+2017-12-25 12:48:32 BOT : Cata Tondreau
+2017-12-25 12:48:33 USER: more
+2017-12-25 12:48:33 BOT : Cata! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/16: $27.000
+2017-12-25 12:48:33 USER: more
+2017-12-25 12:48:33 BOT : Jesu Valenzuela
+2017-12-25 12:48:33 USER: more
+2017-12-25 12:48:33 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $384.000
+- 2017/12/20: $49.000
+Total: $433.000
+2017-12-25 12:48:33 USER: more
+2017-12-25 12:48:33 BOT : Magdalena Astudillo
+2017-12-25 12:48:34 USER: more
+2017-12-25 12:48:34 BOT : Maida! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/02: $118.500
+2017-12-25 12:48:34 USER: more
+2017-12-25 12:48:34 BOT : Sebastian Delorenzo
+2017-12-25 12:48:34 USER: more
+2017-12-25 12:48:34 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+- 2017/11/25: $155.500
+- 2017/12/02: $92.500
+- 2017/12/06: $147.500
+- 2017/12/13: $37.500
+- 2017/12/16: $185.500
+- 2017/12/23: $75.500
+Total: $911.100
+2017-12-25 12:48:35 USER: more
+2017-12-25 12:48:35 BOT : Laura Stuardo
+2017-12-25 12:48:35 USER: more
+2017-12-25 12:48:35 BOT : Laura! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.000
+- 2017/11/25: $119.000
+- 2017/12/02: $21.000
+- 2017/12/06: $4.500
+Total: $191.500
+2017-12-25 12:48:35 USER: more
+2017-12-25 12:48:35 BOT : Isidora De La Barra
+2017-12-25 12:48:35 USER: more
+2017-12-25 12:48:35 BOT : Isi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/02: $224.000
+- 2017/12/06: $190.500
+Total: $414.500
+2017-12-25 12:48:36 USER: more
+2017-12-25 12:48:36 BOT : Juan Pablo Germain
+2017-12-25 12:48:36 USER: more
+2017-12-25 12:48:36 BOT : Germain! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/06: $46.000
+- 2017/12/13: $160.000
+- 2017/12/16: $39.000
+- 2017/12/20: $11.500
+- 2017/12/23: $23.000
+Total: $279.500
+2017-12-25 12:48:36 USER: more
+2017-12-25 12:48:36 BOT : Gino Genova
+2017-12-25 12:48:36 USER: more
+2017-12-25 12:48:36 BOT : Gino! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/06: $70.000
+2017-12-25 12:48:37 USER: more
+2017-12-25 12:48:37 BOT : Listo!
+2017-12-26 02:19:52 USER: /cobranza Joaquin Eichholz
+2017-12-26 02:19:52 BOT : Espera un segundo...
+2017-12-26 02:19:52 USER: waiting
+2017-12-26 02:19:57 BOT : Encargado: Joaquin Eichholz
+2017-12-26 02:19:57 USER: more
+2017-12-26 02:20:02 BOT : Florencia Croxatto
+2017-12-26 02:20:02 USER: more
+2017-12-26 02:20:02 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/09: $33.000
+- 2017/12/16: $16.500
+- 2017/12/23: $79.500
+Total: $129.000
+2017-12-26 02:20:02 USER: more
+2017-12-26 02:20:02 BOT : Joaquin Eichholz
+2017-12-26 02:20:02 USER: more
+2017-12-26 02:20:02 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+- 2017/11/18: $9.500
+- 2017/12/13: $85.500
+- 2017/12/20: $9.000
+- 2017/12/23: $31.500
+Total: $173.000
+2017-12-26 02:20:03 USER: more
+2017-12-26 02:20:03 BOT : Rafael Errazuriz
+2017-12-26 02:20:03 USER: more
+2017-12-26 02:20:03 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-12-26 02:20:03 USER: more
+2017-12-26 02:20:03 BOT : Juan Diego Lyon
+2017-12-26 02:20:03 USER: more
+2017-12-26 02:20:03 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-12-26 02:20:03 USER: more
+2017-12-26 02:20:03 BOT : Ignacio Montt
+2017-12-26 02:20:04 USER: more
+2017-12-26 02:20:04 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/13: $31.000
+2017-12-26 02:20:04 USER: more
+2017-12-26 02:20:04 BOT : Jesu Valenzuela
+2017-12-26 02:20:04 USER: more
+2017-12-26 02:20:04 BOT : Jesu! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/25: $384.000
+2017-12-26 02:20:04 USER: more
+2017-12-26 02:20:04 BOT : Sebastian Delorenzo
+2017-12-26 02:20:04 USER: more
+2017-12-26 02:20:04 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+- 2017/12/13: $37.500
+- 2017/12/16: $185.500
+- 2017/12/23: $75.500
+Total: $515.600
+2017-12-26 02:20:05 USER: more
+2017-12-26 02:20:05 BOT : Laura Stuardo
+2017-12-26 02:20:05 USER: more
+2017-12-26 02:20:05 BOT : Laura! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.000
+- 2017/11/25: $119.000
+- 2017/12/02: $21.000
+- 2017/12/06: $4.500
+Total: $191.500
+2017-12-26 02:20:05 USER: more
+2017-12-26 02:20:05 BOT : Isidora De La Barra
+2017-12-26 02:20:05 USER: more
+2017-12-26 02:20:05 BOT : Isi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/02: $224.000
+- 2017/12/06: $190.500
+Total: $414.500
+2017-12-26 02:20:06 USER: more
+2017-12-26 02:20:06 BOT : Juan Pablo Germain
+2017-12-26 02:20:06 USER: more
+2017-12-26 02:20:06 BOT : Germain! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/06: $46.000
+- 2017/12/13: $160.000
+- 2017/12/16: $39.000
+- 2017/12/20: $11.500
+- 2017/12/23: $23.000
+Total: $279.500
+2017-12-26 02:20:06 USER: more
+2017-12-26 02:20:06 BOT : Gino Genova
+2017-12-26 02:20:06 USER: more
+2017-12-26 02:20:06 BOT : Gino! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/06: $70.000
+2017-12-26 02:20:07 USER: more
+2017-12-26 02:20:07 BOT : Listo!
+2017-12-26 17:35:37 USER: /cobranza Joaquin Eichholz
+2017-12-26 17:35:37 BOT : Espera un segundo...
+2017-12-26 17:35:37 USER: waiting
+2017-12-26 17:35:42 BOT : Encargado: Joaquin Eichholz
+2017-12-26 17:35:42 USER: more
+2017-12-26 17:35:50 BOT : Florencia Croxatto
+2017-12-26 17:35:51 USER: more
+2017-12-26 17:35:51 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/09: $33.000
+- 2017/12/16: $16.500
+- 2017/12/23: $79.500
+Total: $129.000
+2017-12-26 17:35:51 USER: more
+2017-12-26 17:35:51 BOT : Joaquin Eichholz
+2017-12-26 17:35:51 USER: more
+2017-12-26 17:35:51 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+- 2017/11/18: $9.500
+- 2017/12/13: $85.500
+- 2017/12/20: $9.000
+- 2017/12/23: $31.500
+Total: $173.000
+2017-12-26 17:35:51 USER: more
+2017-12-26 17:35:51 BOT : Rafael Errazuriz
+2017-12-26 17:35:51 USER: more
+2017-12-26 17:35:51 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-12-26 17:35:52 USER: more
+2017-12-26 17:35:52 BOT : Juan Diego Lyon
+2017-12-26 17:35:52 USER: more
+2017-12-26 17:35:52 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-12-26 17:35:52 USER: more
+2017-12-26 17:35:52 BOT : Ignacio Montt
+2017-12-26 17:35:52 USER: more
+2017-12-26 17:35:52 BOT : Nacho! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/13: $31.000
+2017-12-26 17:35:53 USER: more
+2017-12-26 17:35:53 BOT : Sebastian Delorenzo
+2017-12-26 17:35:53 USER: more
+2017-12-26 17:35:53 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+- 2017/12/13: $37.500
+- 2017/12/16: $185.500
+- 2017/12/23: $75.500
+Total: $515.600
+2017-12-26 17:35:53 USER: more
+2017-12-26 17:35:53 BOT : Laura Stuardo
+2017-12-26 17:35:53 USER: more
+2017-12-26 17:35:53 BOT : Laura! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.000
+- 2017/11/25: $119.000
+- 2017/12/02: $21.000
+Total: $187.000
+2017-12-26 17:35:53 USER: more
+2017-12-26 17:35:53 BOT : Isidora De La Barra
+2017-12-26 17:35:54 USER: more
+2017-12-26 17:35:54 BOT : Isi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/02: $224.000
+- 2017/12/06: $190.500
+Total: $414.500
+2017-12-26 17:35:54 USER: more
+2017-12-26 17:35:54 BOT : Juan Pablo Germain
+2017-12-26 17:35:54 USER: more
+2017-12-26 17:35:54 BOT : Germain! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/06: $46.000
+- 2017/12/13: $160.000
+- 2017/12/16: $39.000
+- 2017/12/20: $11.500
+- 2017/12/23: $23.000
+Total: $279.500
+2017-12-26 17:35:54 USER: more
+2017-12-26 17:35:54 BOT : Listo!
+2017-12-27 14:22:06 USER: /cobranza Joaquin Eichholz
+2017-12-27 14:22:06 BOT : Espera un segundo...
+2017-12-27 14:22:07 USER: waiting
+2017-12-27 14:22:13 BOT : Encargado: Joaquin Eichholz
+2017-12-27 14:22:13 USER: more
+2017-12-27 14:22:26 BOT : Florencia Croxatto
+2017-12-27 14:22:26 USER: more
+2017-12-27 14:22:26 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/09: $33.000
+- 2017/12/16: $16.500
+- 2017/12/23: $79.500
+Total: $129.000
+2017-12-27 14:22:26 USER: more
+2017-12-27 14:22:26 BOT : Joaquin Eichholz
+2017-12-27 14:22:26 USER: more
+2017-12-27 14:22:26 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+- 2017/11/18: $9.500
+- 2017/12/13: $85.500
+- 2017/12/20: $9.000
+- 2017/12/23: $31.500
+Total: $173.000
+2017-12-27 14:22:27 USER: more
+2017-12-27 14:22:27 BOT : Rafael Errazuriz
+2017-12-27 14:22:27 USER: more
+2017-12-27 14:22:27 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2017-12-27 14:22:27 USER: more
+2017-12-27 14:22:27 BOT : Juan Diego Lyon
+2017-12-27 14:22:27 USER: more
+2017-12-27 14:22:27 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2017-12-27 14:22:28 USER: more
+2017-12-27 14:22:28 BOT : Sebastian Delorenzo
+2017-12-27 14:22:28 USER: more
+2017-12-27 14:22:28 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+- 2017/12/13: $37.500
+- 2017/12/16: $185.500
+- 2017/12/23: $75.500
+Total: $515.600
+2017-12-27 14:22:28 USER: more
+2017-12-27 14:22:28 BOT : Laura Stuardo
+2017-12-27 14:22:28 USER: more
+2017-12-27 14:22:28 BOT : Laura! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.000
+- 2017/11/25: $119.000
+- 2017/12/02: $21.000
+Total: $187.000
+2017-12-27 14:22:29 USER: more
+2017-12-27 14:22:29 BOT : Isidora De La Barra
+2017-12-27 14:22:29 USER: more
+2017-12-27 14:22:29 BOT : Isi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/02: $224.000
+- 2017/12/06: $190.500
+Total: $414.500
+2017-12-27 14:22:29 USER: more
+2017-12-27 14:22:29 BOT : Juan Pablo Germain
+2017-12-27 14:22:29 USER: more
+2017-12-27 14:22:29 BOT : Germain! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/06: $46.000
+- 2017/12/13: $160.000
+- 2017/12/16: $39.000
+- 2017/12/20: $11.500
+- 2017/12/23: $23.000
+Total: $279.500
+2017-12-27 14:22:30 USER: more
+2017-12-27 14:22:30 BOT : Listo!
+2018-01-14 21:50:53 USER: /cobranza Joaquin Eichholz
+2018-01-14 21:50:53 BOT : Espera un segundo...
+2018-01-14 21:50:53 USER: waiting
+2018-01-14 21:51:00 BOT : Encargado: Joaquin Eichholz
+2018-01-14 21:51:00 USER: more
+2018-01-14 21:51:16 BOT : Florencia Croxatto
+2018-01-14 21:51:16 USER: more
+2018-01-14 21:51:16 BOT : Flo! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/09: $33.000
+- 2017/12/16: $16.500
+- 2017/12/23: $79.500
+Total: $129.000
+2018-01-14 21:51:16 USER: more
+2018-01-14 21:51:16 BOT : Joaquin Eichholz
+2018-01-14 21:51:16 USER: more
+2018-01-14 21:51:16 BOT : Eichholz! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/06: $37.500
+- 2017/11/18: $9.500
+- 2017/12/13: $85.500
+- 2017/12/20: $9.000
+- 2017/12/23: $31.500
+Total: $173.000
+2018-01-14 21:51:17 USER: more
+2018-01-14 21:51:17 BOT : Rafael Errazuriz
+2018-01-14 21:51:17 USER: more
+2018-01-14 21:51:17 BOT : Fafa! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $20.100
+2018-01-14 21:51:17 USER: more
+2018-01-14 21:51:17 BOT : Juan Diego Lyon
+2018-01-14 21:51:17 USER: more
+2018-01-14 21:51:17 BOT : Lyon! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/10/14: $50.100
+2018-01-14 21:51:18 USER: more
+2018-01-14 21:51:18 BOT : Sebastian Delorenzo
+2018-01-14 21:51:18 USER: more
+2018-01-14 21:51:18 BOT : Seba! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+- 2017/12/13: $37.500
+- 2017/12/16: $185.500
+- 2017/12/23: $75.500
+Total: $515.600
+2018-01-14 21:51:18 USER: more
+2018-01-14 21:51:18 BOT : Laura Stuardo
+2018-01-14 21:51:18 USER: more
+2018-01-14 21:51:18 BOT : Laura! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/11/18: $47.000
+- 2017/11/25: $119.000
+- 2017/12/02: $21.000
+Total: $187.000
+2018-01-14 21:51:18 USER: more
+2018-01-14 21:51:18 BOT : Isidora De La Barra
+2018-01-14 21:51:19 USER: more
+2018-01-14 21:51:19 BOT : Isi! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/02: $224.000
+- 2017/12/06: $190.500
+Total: $414.500
+2018-01-14 21:51:19 USER: more
+2018-01-14 21:51:19 BOT : Juan Pablo Germain
+2018-01-14 21:51:19 USER: more
+2018-01-14 21:51:19 BOT : Germain! Como estay? Oyee como vay con los cobros pa ir cerrando?
+Esto es lo que estay debiendo:
+- 2017/12/06: $46.000
+- 2017/12/13: $160.000
+- 2017/12/16: $39.000
+- 2017/12/20: $11.500
+- 2017/12/23: $23.000
+Total: $279.500
+2018-01-14 21:51:19 USER: more
+2018-01-14 21:51:19 BOT : Listo!
+2018-02-25 23:42:31 USER: /cobranza Joaquin Eichholz
+2018-02-25 23:42:31 BOT : Espera un segundo...
+2018-02-25 23:42:31 USER: waiting
+2018-02-25 23:42:39 BOT : Encargado: Joaquin Eichholz
+2018-02-25 23:42:39 USER: more
+2018-02-25 23:42:44 BOT : Florencia Croxatto
+2018-02-25 23:42:45 USER: more
+2018-02-25 23:42:45 BOT : Flo! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/12/09: $33.000
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:45 USER: more
+2018-02-25 23:42:45 BOT : Joaquin Eichholz
+2018-02-25 23:42:45 USER: more
+2018-02-25 23:42:45 BOT : Eichholz! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/10/06: $37.500
+- 2017/11/18: $9.500
+- 2017/12/13: $85.500
+- 2017/12/20: $9.000
+- 2017/12/23: $31.500
+Total: $173.000
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:45 USER: more
+2018-02-25 23:42:45 BOT : Rafael Errazuriz
+2018-02-25 23:42:45 USER: more
+2018-02-25 23:42:45 BOT : Fafa! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/11/04: $20.100
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:46 USER: more
+2018-02-25 23:42:46 BOT : Juan Diego Lyon
+2018-02-25 23:42:46 USER: more
+2018-02-25 23:42:46 BOT : Lyon! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/10/14: $50.100
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:46 USER: more
+2018-02-25 23:42:46 BOT : Sebastian Delorenzo
+2018-02-25 23:42:46 USER: more
+2018-02-25 23:42:46 BOT : Seba! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/11/04: $101.100
+- 2017/11/11: $54.000
+- 2017/11/18: $62.000
+Total: $217.100
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:46 USER: more
+2018-02-25 23:42:46 BOT : Laura Stuardo
+2018-02-25 23:42:47 USER: more
+2018-02-25 23:42:47 BOT : Laura! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/11/18: $47.000
+- 2017/11/25: $119.000
+- 2017/12/02: $21.000
+Total: $187.000
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:47 USER: more
+2018-02-25 23:42:47 BOT : Isidora De La Barra
+2018-02-25 23:42:47 USER: more
+2018-02-25 23:42:47 BOT : Isi! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/12/06: $190.500
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:47 USER: more
+2018-02-25 23:42:47 BOT : Juan Pablo Germain
+2018-02-25 23:42:48 USER: more
+2018-02-25 23:42:48 BOT : Germain! Como estay? Oyee, esto es lo que nos estaria faltando para dejar cerrado lo del año pasado:
+- 2017/12/06: $46.000
+Para que nos deposites porfa que eres de los ultimos que van faltando :D
+2018-02-25 23:42:48 USER: more
+2018-02-25 23:42:48 BOT : Listo!
