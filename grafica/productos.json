@@ -15,7 +15,7 @@
     },
     "arandanos": {
         "1": {
-            "disponible": true,
+            "disponible": false,
             "formato": "cajas",
             "foto": "arandanos.jpg",
             "nombre": "Arandanos 1 kg",
@@ -43,7 +43,7 @@
     },
     "cerezas": {
         "5": {
-            "disponible": true,
+            "disponible": false,
             "formato": "cajas",
             "foto": "cerezas.jpg",
             "nombre": "Cerezas 5 kg",
@@ -90,7 +90,7 @@
             "foto": "manisal.jpg",
             "nombre": "Mani Salado 1 kg",
             "orden": 6,
-            "precio": "5000",
+            "precio": "6000",
             "svg": "mani.txt",
             "unidad": "kg",
             "variable": "manisal",
@@ -104,7 +104,7 @@
             "foto": "manimiel.jpg",
             "nombre": "Mani Miel 1 kg",
             "orden": 6,
-            "precio": "5000",
+            "precio": "6000",
             "svg": "mani.txt",
             "unidad": "kg",
             "variable": "manimiel",
@@ -146,7 +146,7 @@
             "foto": "paltas.jpg",
             "nombre": "Paltas 2 kg",
             "orden": 3,
-            "precio": "6000",
+            "precio": "6500",
             "svg": "paltas.txt",
             "unidad": "kg",
             "variable": "paltas",
@@ -183,7 +183,7 @@
     },
     "empanadas queso": {
         "12": {
-            "disponible": true,
+            "disponible": false,
             "formato": "docena",
             "foto": "empanadas.jpg",
             "nombre": "Empanadas de Queso",
@@ -197,7 +197,7 @@
     },
     "tomates cherry": {
         "1": {
-            "disponible": true,
+            "disponible": false,
             "formato": "cajas",
             "foto": "tomatescherry.jpg",
             "nombre": "Tomates Cherry 1 kg",
@@ -207,6 +207,20 @@
             "unidad": "kg",
             "variable": "tomatecherry",
             "variable_precio": "t_precio"
+        }
+    },
+    "uvas": {
+        "1800": {
+            "disponible": true,
+            "formato": "cajas",
+            "foto": "uvas.jpg",
+            "nombre": "Uvas 1,8 kg",
+            "orden": 4,
+            "precio": "5000",
+            "svg": "tomatescherry.txt",
+            "unidad": "gr",
+            "variable": "uvas",
+            "variable_precio": "u_precio"
         }
     }
 }

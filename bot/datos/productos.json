@@ -208,5 +208,19 @@
             "variable": "tomatecherry",
             "variable_precio": "t_precio"
         }
+    },
+    "uvas": {
+        "2": {
+            "disponible": true,
+            "formato": "cajas",
+            "foto": "uvas.jpg",
+            "nombre": "Uvas 2 kg",
+            "orden": 4,
+            "precio": "6000",
+            "svg": "tomatescherry.txt",
+            "unidad": "kg",
+            "variable": "uvas",
+            "variable_precio": "u_precio"
+        }
     }
 }
